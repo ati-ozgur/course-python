@@ -18,6 +18,8 @@ use type functions.
     int
     float
     bool
+    str
+    complex
 
 
 ## Tutorials
