@@ -5,6 +5,8 @@
 
 2. [Strings](strings.md)
 
+3. [lists](python-list.md)
+
 2. [Conditionals Statements (if-elif-else)](conditionals-statements.md)
 
 3. [Loop Statements](loop-statements.md)
