@@ -1,7 +1,10 @@
 # Course Programming in Python
 
 
-[Basic Data Types](basic-data-types.md)
+1. [Basic Data Types](basic-data-types.md)
+
+2. [Conditionals Statements (if-elif-else)](conditionals-statements.md)
+
 
 
 
