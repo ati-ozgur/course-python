@@ -23,3 +23,9 @@
 
 
 
+### Video tutorials
+
+(Video 1)[https://www.youtube.com/watch?v=f4KOjWS_KZs]. On this video, raw_input (Python 2) is used. For python 3, you need to use input().
+
+
+
