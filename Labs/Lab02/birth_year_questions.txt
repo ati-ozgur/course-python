@@ -1,0 +1,8 @@
+Please write a program 
+which ask name and birth year?
+And give output as how old the answerer?
+
+Answerer can not give future date as birth year.
+Answerer should enter meaningful date.
+
+
