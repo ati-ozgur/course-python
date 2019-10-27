@@ -32,3 +32,8 @@ length of list is found using **len** function
     print(len(new_list))
 
 
+- (W3C Schools Python lists)[https://www.w3schools.com/python/python_lists.asp]
+- (Video Tutorial Lists 1)[https://youtu.be/tw7ror9x32s]
+- (Video Tutorial Lists 2)[https://youtu.be/ohCDWZgNIU0]
+
+
