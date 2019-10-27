@@ -3,6 +3,8 @@
 
 1. [Basic Data Types](basic-data-types.md)
 
+2. [Strings](strings.md)
+
 2. [Conditionals Statements (if-elif-else)](conditionals-statements.md)
 
 3. [Loop Statements](loop-statements.md)
