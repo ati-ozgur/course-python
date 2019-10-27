@@ -25,6 +25,19 @@ Indexing list is done via [index]
     # negative indexing start from end
     new_list[-1]
 
+Slicing of lists. We can get slices from list using following notation.
+
+    a_list[start_index:end_index]
+
+important part here, end_index item is not included in the slicing.
+
+
+    >>> a_list = list(range(10))
+    >>> a_list
+    [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    >>> a_list[2:5]
+    [2, 3, 4]
+
 
 length of list is found using **len** function
 
