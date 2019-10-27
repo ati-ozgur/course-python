@@ -1,0 +1,7 @@
+print("Please give me your Name")
+name = input()
+print("Hello",name)
+print(f"Hello {name}, I am from XX")
+print("Where are you from?")
+country = input()
+print(f"Hello {name} from {country}")
