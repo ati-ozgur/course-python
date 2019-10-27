@@ -5,6 +5,7 @@
 
 2. [Conditionals Statements (if-elif-else)](conditionals-statements.md)
 
+3. [Loop Statements](loop-statements.md)
 
 
 
