@@ -1,7 +1,7 @@
 ## Lists
 
 
-Strings are defined using []
+Strings are defined using [] or list() construction.
 
 
     empty_list = []
