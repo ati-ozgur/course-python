@@ -1,4 +1,4 @@
-## Question String Palindrome
+## Question Number Palindrome
 
 **Palindrome** from wikipedia.
 
