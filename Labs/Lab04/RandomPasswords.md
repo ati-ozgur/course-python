@@ -17,7 +17,15 @@ Following codes should be helpful for you.
 
 - Random number example
 
+    In [41]: import random as rnd
+    In [42]: rnd.randint(1,10)
+    Out[42]: 7
 
+    In [43]: rnd.randint(1,10)
+    Out[43]: 10
+
+    In [44]: rnd.randint(1,10)
+    Out[44]: 2
 
 
 **Note** for password generation normally cryptographic random generation should be used. This example is learning example and should not be used for real password generation.
