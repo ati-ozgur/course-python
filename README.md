@@ -7,12 +7,14 @@
 
 3. [lists](python-list.md)
 
-2. [Conditionals Statements (if-elif-else)](conditionals-statements.md)
+4. [Conditionals Statements (if-elif-else)](conditionals-statements.md)
 
-3. [Loop Statements](loop-statements.md)
+5. [Loop Statements](loop-statements.md)
 
 
+6. [Functions](functions.md)
 
+6. [Recursive Functions](recursive-functions.md)
 
 ## The Python Tutorial
 [The Python Tutorial](https://docs.python.org/3/tutorial/index.html) is the example tutorial for python but it is prepared for programmers who are already proficient in another language; therefore, it is a succinct tutorial.
