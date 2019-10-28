@@ -9,6 +9,7 @@
 Please write a code that finds if given input is a palindrome. 
 For our purposes space and whitespace characters are distinct characters; therefore, "taco cat" is not a palindrome.
 
+[Python string function](https://www.w3schools.com/python/python_ref_string.asp) should be helpful.
 
 
 Example output: 
