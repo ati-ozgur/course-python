@@ -1,5 +1,5 @@
 
-input_str = "12233227"
+input_str = "12233221"
 
 middle_size = int(round(len(input_str) / 2) )
 
