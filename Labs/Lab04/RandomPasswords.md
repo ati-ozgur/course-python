@@ -16,3 +16,8 @@ Following codes should be helpful for you.
 
 
 - Random number example
+
+
+
+
+**Note** for password generation normally cryptographic random generation should be used. This example is learning example and should not be used for real password generation.
