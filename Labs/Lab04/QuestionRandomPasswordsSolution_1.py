@@ -11,11 +11,12 @@ password_length = 8
 
 password = ""
 
-for i in range(password_length):
-    password_char_index = rnd.randint(1,len(password_char_list)-1)
-    password_char = password_char_list[password_char_index]
-    password = password + password_char
+for user_index in range(1,5):
+    for i in range(password_length):
+        password_char_index = rnd.randint(1,len(password_char_list)-1)
+        password_char = password_char_list[password_char_index]
+        password = password + password_char
 
-print(f"password is {password}")
+    print(f"password {user_index} is {password}")
 
 
