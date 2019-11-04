@@ -5,6 +5,6 @@
 03. [QuestionNumberPalindrome](QuestionNumberPalindrome.md)
 04. [QuestionFindMaxAndMinInAListOfNumbers](QuestionFindMaxAndMinInAListOfNumbers.md)
 05. [QuestionLuckyNumber](QuestionLuckyNumber.md)
-05. [RandomPasswords](RandomPasswords.md)
+05. [RandomPasswords](QuestionRandomPasswords.md)
 
 
