@@ -27,7 +27,17 @@ Python has all the necessary operators and rules as you know from school.
 
 	print(2**5)
 
+Common operators
+
+- a + b addition
+- a - b subtraction
+- a * b multiplication
+- a / b division (float result)
+
+
+
 Only following operators are a bit different than normal mathematical ones.
+
 - % is remainder operator 
 - // is integer division.
 - ** power operator. 2\*\*5 is equal to 2\*2\*2\*2\*2 
