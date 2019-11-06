@@ -30,7 +30,7 @@ Python has all the necessary operators and rules as you know from school.
 Only following operators are a bit different than normal mathematical ones.
 - % is remainder operator 
 - // is integer division.
-- ** power operator. 2\*\*5 is equal to 2*2*2*2*2 
+- ** power operator. 2\*\*5 is equal to 2\*2\*2\*2\*2 
 
 
 See a tutorial video [Learn to create Simple Calculator in Python](https://youtu.be/5m9AR4PBlGE)
