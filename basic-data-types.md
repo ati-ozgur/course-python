@@ -19,7 +19,7 @@ use type function.
 
 ## Converting between types
 
-use type functions.
+use object changing functions.
 
     int
     float
@@ -37,11 +37,11 @@ use type functions.
 	In [9]: print(10+1)
 	11
 
-	In [10]: print(10 + "hello")
+	In [10]: print(10 + "8")
 	---------------------------------------------------------------------------
 	TypeError                                 Traceback (most recent call last)
 	<ipython-input-10-38035139b14a> in <module>
-	----> 1 print(10 + "hello")
+	----> 1 print(10 + "8")
 
 	TypeError: unsupported operand type(s) for +: 'int' and 'str'
 
@@ -53,6 +53,16 @@ use type functions.
 
 	TypeError: can only concatenate str (not "int") to str
 
+
+How to solve this problem? Change their types using object changing functions.
+
+
+
+	In [12]: print(10 + int("8"))
+	18
+
+	In [13]: print("hello" + str(10))
+	hello10
 
 
 
