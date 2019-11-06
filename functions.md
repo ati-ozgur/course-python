@@ -28,6 +28,15 @@ We can use our defined functions normally.
 	hello Duru
 
 
+### Example with more parameters
+
+
+### Example with default parameters
+
+
+### Functions returning values
+
+
 
 
 
