@@ -5,7 +5,7 @@ You can use these function without importing any library.
 See complete list [here](https://docs.python.org/3/library/functions.html).
 
 
-We will learn following function in our course.
+We will learn following functions in our course.
 If you are curious read their descriptions from [python documentation](https://docs.python.org/3/library/functions.html).
 
 - abs
