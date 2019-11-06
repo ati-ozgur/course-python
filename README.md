@@ -6,6 +6,7 @@
 2. [python built-in functions](python-built-in-functions.md)
 3. [python as calculator](python-as-calculator.md)
 3. [Basic Data Types](basic-data-types.md)
+4. [Variables](variables.md)
 4. [Strings](strings.md)
 5. [lists](python-list.md)
 6. [Conditionals Statements (if-elif-else)](conditionals-statements.md)
