@@ -34,12 +34,10 @@ You can override these functions with your own but it is not recommended.
 See following example.
 
 
-	In [2]: abs(-2.0)                                                                                                                                                                                               
-	Out[2]: 2.0
+	In [2]: abs(-2.0)                   
+	In [3]: abs = 2             
 
-	In [3]: abs = 2                                                                                                                                                                                                 
-
-	In [4]: abs(-2.0)                                                                                                                                                                                               
+	In [4]: abs(-2.0)                
 	---------------------------------------------------------------------------
 	TypeError                                 Traceback (most recent call last)
 	<ipython-input-4-8449d55e35d8> in <module>
