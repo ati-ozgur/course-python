@@ -41,7 +41,7 @@ output is
     Age is 42
 
 
-- (W3C Schools Python string)[https://www.w3schools.com/python/python_strings.asp]
-- (Video Tutorial Strings)[https://www.youtube.com/watch?v=UsCQXe1OHZk]
-- (python f-strings)[https://realpython.com/python-f-strings/]
+- [W3C Schools Python string](https://www.w3schools.com/python/python_strings.asp)
+- [Video Tutorial Strings](https://www.youtube.com/watch?v=UsCQXe1OHZk)
+- [python f-strings](https://realpython.com/python-f-strings/)
 

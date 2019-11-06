@@ -19,13 +19,15 @@
 1. See [if-elif-else in python tutorial](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
 
 
-2. (W3C Schools python conditions)[https://www.w3schools.com/python/python_conditions.asp]
+2. [W3C Schools python conditions](https://www.w3schools.com/python/python_conditions.asp)
 
 
 
 ### Video tutorials
 
-(Video 1)[https://www.youtube.com/watch?v=f4KOjWS_KZs]. On this video, raw_input (Python 2) is used. For python 3, you need to use input().
+[Video 1](https://www.youtube.com/watch?v=f4KOjWS_KZs).
+
+Note: On this video, raw_input (Python 2) is used. For python 3, you need to use input().
 
 
 

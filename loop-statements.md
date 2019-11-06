@@ -8,8 +8,8 @@
 
 
 
-- (W3C Schools python While Loop)[https://www.w3schools.com/python/python_while_loops.asp]
-- (Video Tutorial While Loop 1)[https://www.youtube.com/watch?v=jSs58VZVLw8]
+- [W3C Schools python While Loop](https://www.w3schools.com/python/python_while_loops.asp)
+- [Video Tutorial While Loop 1](https://www.youtube.com/watch?v=jSs58VZVLw8)
 
 
 
