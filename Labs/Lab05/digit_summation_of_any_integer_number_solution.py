@@ -8,11 +8,15 @@ def find_total(number, total = 0):
     if (number > 10):
         total = total + number % 10
         number = number // 10
-        find_total(number,total)
+        return find_total(number,total)
     # Exit condition 
     else:
         total = total + number
-        print("total is ", total)
-
-find_total(19834344343)
+        return total
+## Only runs if it is a main script
+## if it is imported by other python files
+# , it will not run
+if __name__ == "__main__":
+    total = find_total(1111)
+    print("total is ", total)
 
