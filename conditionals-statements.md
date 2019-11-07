@@ -78,6 +78,21 @@ please write following function.
 	    return ___
 
 
+### Sample Question 4
+
+What is the output of following code:
+
+	number = 100
+	if number > 110: 
+	  print("block if")
+	elif number != 110:
+	  print("block elif1")
+	elif number >= 90 or number < 120:
+	  print("block elif2")
+	else:
+	  print("block else")
+
+
 
 ### Other tutorials
 
