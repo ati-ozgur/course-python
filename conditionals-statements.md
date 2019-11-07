@@ -14,6 +14,26 @@
 
 
 
+### Sample Question 1
+
+Following function, is_negative should return True for negative numbers. 
+Fill the blanks
+
+	def is_negative(x):
+	  if ___:
+	    return ___
+
+
+### Sample Question 2
+
+Following function, greeting should return German greeting according to 24 hours.
+Normally, before 12, you say Guten Morgen, between 12 and 18 you use Guten Tag, after 18 but before 22 you use Guten Abend, then you use Gute Nacht.
+
+Fill the blanks
+
+	def greeting_in_german(hour):
+	    return ___
+
 ### Other tutorials
 
 1. See [if-elif-else in python tutorial](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
