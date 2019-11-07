@@ -1,6 +1,33 @@
 ## Conditionals Statements (if-elif-else)
 
 
+Python uses if, elif and else statements for branching operations
+
+Only if
+
+	if condition1:
+		block-if
+
+if-else block
+
+	if condition1:
+		block-if
+	else:
+		block-else
+
+
+if-elif-else block. This block also used similar to switch statements in other languages.
+
+	if condition1:
+		block-if
+	elif condition2:
+		block-elif
+	else:
+		block-else
+
+
+
+
 ### Short example
 
 
