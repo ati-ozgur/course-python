@@ -20,7 +20,7 @@ Following function, is_negative should return True for negative numbers.
 Fill the blanks
 
 	def is_negative(x):
-	  if ___:
+		.....
 	    return ___
 
 
@@ -32,7 +32,25 @@ Normally, before 12, you say Guten Morgen, between 12 and 18 you use Guten Tag, 
 Fill the blanks
 
 	def greeting_in_german(hour):
+		.....
 	    return ___
+
+### Sample Question 3
+
+A complex password should satisfy following conditions
+
+	- At least 9 characters long
+	- At least contains 1 upper case and 1 lower case character
+	- At least contains 1 number
+	- At least contains 1 character from following special character list "!#$%&()*+,-./:;<=>?@[\]^_{|}"
+
+please write following function.
+
+	def is_password_complex(password):
+		.....
+	    return ___
+
+
 
 ### Other tutorials
 
