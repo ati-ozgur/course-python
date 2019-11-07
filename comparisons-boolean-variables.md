@@ -27,4 +27,10 @@
 
 
 
+## Question what is the result of following code execution? Why?
+
+	print("Bremen" > "bremen")
+
+
+See [Ascii table](https://www.asciitable.com/) for answer to this question.
 
