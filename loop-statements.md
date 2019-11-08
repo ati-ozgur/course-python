@@ -91,5 +91,5 @@ for statement mostly used with [range](range.md).
  - [W3C Schools python for Loop](https://www.w3schools.com/python/python_for_loops.asp)
  - [Video Tutorial For Loop 1](https://youtu.be/xtXexPSfcZg)
 
- - break
- - continue 
+ - break TODO
+ - continue TODO
