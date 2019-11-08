@@ -2,7 +2,7 @@
 
 Please writing code so that you will see following outputs on the screen.
 
-## star rectangle with edge 5 
+### star rectangle with edge 5 
 
 	*
 	**
@@ -10,7 +10,7 @@ Please writing code so that you will see following outputs on the screen.
 	****
 	*****
 
-## star rectangle with edge user input value  
+### star rectangle with edge user input value  
 
 	*
 	**
@@ -22,6 +22,13 @@ Please writing code so that you will see following outputs on the screen.
 	...
 	*********** # edge size n will be given by user
 
-	
 
+
+### Same problem with pyramid shape
+
+	    *
+	   ***
+	  *****
+	 *******
+	*********
 
