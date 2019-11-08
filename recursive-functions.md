@@ -74,6 +74,15 @@ def recursive(x):
 	# else do nothing, exit from function
 
 
+A recursive function will have following structure.
+
+	def recursive(parameters):
+	    if check parameters:
+	    	# exit or return
+	        return base_case_value
+	    # modify parameters here and call itself again
+	    recursive(modified_parameters)
+
 
 
 ### Example of Recursion
