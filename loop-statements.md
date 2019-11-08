@@ -67,7 +67,7 @@ Below, we iterate over a name list
     >>>
 
 
-for statement mostly used with range.
+for statement mostly used with [range](range.md).
 
 
     >>> for i in range(10):
@@ -87,3 +87,7 @@ for statement mostly used with range.
 
 
 
+
+
+- break
+- continue 
