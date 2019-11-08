@@ -62,7 +62,8 @@ See below.
 
 
 
-We need to add an exit condition to our function
+We need to add an exit condition to our function.
+This is sometimes called base case, function returns no value or return a default value effectively exiting.
 
 def recursive(x):
 	# do something
@@ -71,3 +72,12 @@ def recursive(x):
 	if (x > 0):
 		recursive(x)
 	# else do nothing, exit from function
+
+
+
+
+### Example of Recursion
+
+- getting list of files and directories in a given directory and going deeper in existing directories to search for a given text or filename.
+
+- Most tree structures. For example going through a family tree and searching
