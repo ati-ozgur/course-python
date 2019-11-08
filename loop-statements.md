@@ -45,7 +45,7 @@ correct solution should be.
         x = x +1
 
 
-
+- [Python wiki while](https://wiki.python.org/moin/WhileLoop)
 - [W3C Schools python While Loop](https://www.w3schools.com/python/python_while_loops.asp)
 - [Video Tutorial While Loop 1](https://www.youtube.com/watch?v=jSs58VZVLw8)
 
@@ -87,7 +87,9 @@ for statement mostly used with [range](range.md).
 
 
 
+ - [Python wiki For loop](https://wiki.python.org/moin/ForLoop)
+ - [W3C Schools python for Loop](https://www.w3schools.com/python/python_for_loops.asp)
+ - [Video Tutorial For Loop 1](https://youtu.be/xtXexPSfcZg)
 
-
-- break
-- continue 
+ - break
+ - continue 
