@@ -76,7 +76,7 @@ output is
 
     string[i] we can use list indexing with string.
 
-
+    see [all string methods](https://docs.python.org/3/library/stdtypes.html#string-methods)
 
 
 
