@@ -26,3 +26,6 @@
     dict.values() # get value list as sequence
     dict.items() # get key,value list as sequence
     dict.clear()  # removes all items from dict
+
+
+see more information in [official documentation for dictionary](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
