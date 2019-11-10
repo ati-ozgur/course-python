@@ -45,3 +45,21 @@ output is
 - [Video Tutorial Strings](https://www.youtube.com/watch?v=UsCQXe1OHZk)
 - [python f-strings](https://realpython.com/python-f-strings/)
 
+
+
+#### Common string methods
+
+    since strings are immutable in python, all of the methods returns a modified string and do not modify original string.
+
+    - lower()  lowercase
+    - upper()  lowercase 
+    - strip()  strips whitespace from both sides of string 
+    - lstrip  strips whitespace from left side of string 
+    - rstrip  strips whitespace from right side of string 
+ 
+    count(substring) how many time substring occurs
+    isnumeric()
+    isalpha() True if only alphabetic characters exists
+    split(), split(delimiter)   return list of substrings, splited by whitespace/delimiter
+
+
