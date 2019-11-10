@@ -50,6 +50,23 @@ we can use item in list to find if a item in the list.
     "Germany" in a_list
 
 
+## List specific methods
+
+    list[index] = new_item
+    list.append(item)
+    list.insert(index, item)
+    list.pop(index)
+    list.remove(item)
+    list.sort()
+    list.reverse()
+    list.clear()
+    list.copy()
+    list.extend(another_list) appends all elements of another_list to list
+
+
+## list comprehension
+
+todo
 
 
 - [W3C Schools Python lists](https://www.w3schools.com/python/python_lists.asp)
