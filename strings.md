@@ -27,7 +27,7 @@ To change other variable to string, we use **str** function
 
 #### String Formatting
 
-Python 3.6 introduced f-strings for easy string formatting.
+Python 3.6 introduced [f-strings](https://docs.python.org/3/reference/lexical_analysis.html#f-strings) for easy string formatting.
 We will use them in our classes.
 Variable name is enclosed between curly braces in the string.
 
