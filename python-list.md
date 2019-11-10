@@ -44,6 +44,13 @@ length of list is found using **len** function
 
     print(len(new_list))
 
+we can use item in list to find if a item in the list.
+
+    a_list = ["Jacobs","university","is","in","Germany"]
+    "Germany" in a_list
+
+
+
 
 - [W3C Schools Python lists](https://www.w3schools.com/python/python_lists.asp)
 - [Video Tutorial Lists 1](https://youtu.be/tw7ror9x32s)
