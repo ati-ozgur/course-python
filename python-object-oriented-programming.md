@@ -50,6 +50,13 @@ To find a methods of an object use dir function
 	        return f"hello, {self.first_name} {self.last_name}"
 
 
+## Special methods
+
+- python classes have special methods that start and end with \_\_.
+- __init__ constructor method for initializing objects
+- __str__  a method when object converted to string, for example in print() function.
+
+
 
 
 ## override __str__ method
