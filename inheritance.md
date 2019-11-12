@@ -44,19 +44,19 @@
 
 
         def greeting(self):
-            return f"hello, I am a {occupation} named {self.first_name} {self.last_name}"
+            return f"hello, I am a {self.occupation} named {self.first_name} {self.last_name}"
 
 
 
-     class Student(Person):
+    class Student(Person):
         occupation = "Student"
 
 
-     class Teacher(Person):
+    class Teacher(Person):
         occupation = "Teacher"
 
 
 
-     t1 = Teacher("Atilla","Ozgur")
-     print(t1.greeting())
+    t1 = Teacher("Atilla","Ozgur")
+    print(t1.greeting())
 
