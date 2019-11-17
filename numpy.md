@@ -17,6 +17,13 @@ zeros
 ones
 empty
 linspace
+shape
+astype
+dtype
+tolist
+savetxt
+loadtxt
+
 
 
 
@@ -27,4 +34,20 @@ linspace
 
 
 	z2 = np.linspace(1,100,20) # from 1 to 100, with 20 elements
+
+
+
+
+
+### Numpy cheat sheets
+
+1. [Cheat Sheet 1](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+2. [Cheat Sheet 2](https://s3.amazonaws.com/dq-blog-files/numpy-cheat-sheet.pdf)
+
+
+### Video tutorials
+
+[Video Tutorial Numpy 1](https://youtu.be/xECXZ3tyONo)
+
+
 
