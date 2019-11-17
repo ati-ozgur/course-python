@@ -75,6 +75,9 @@ see other examples in the cheat sheet
 1. [Cheat Sheet 1](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 2. [Cheat Sheet 2](https://s3.amazonaws.com/dq-blog-files/numpy-cheat-sheet.pdf)
 
+### Tutorials
+
+1. [Numpy Quick Start](https://numpy.org/devdocs/user/quickstart.html)
 
 ### Video tutorials
 
