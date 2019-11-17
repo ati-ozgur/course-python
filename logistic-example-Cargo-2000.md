@@ -5,7 +5,9 @@ Sanitized and anonymized Cargo 2000 (C2K) airfreight tracking and tracing events
 
 ## Download dataset
 
-Download dataset from either of the following links
+Download dataset from the following links
 
 - https://archive.ics.uci.edu/ml/datasets/Cargo+2000+Freight+Tracking+and+Tracing
-- 
+
+
+
