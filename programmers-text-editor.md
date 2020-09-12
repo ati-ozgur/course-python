@@ -8,6 +8,7 @@ You can use anyone of them but please do not use word for editing your text file
 - Sublime Text (Cross Platform): This is my editor of choice
 	- [Video: Install Sublime Text MacOS](https://youtu.be/0Mrxn_Ugjdo)
 	- [Video: Install Sublime Text Windows](https://youtu.be/j61dqr7geRo)
+	- [Video: Python hello world in Sublime Text](https://youtu.be/1U8TI16AR4s)
 - Notepad++ (Windows only): I also use this one.
 - Visual Studio Code (Cross Platform) : Another popular choice
 
