@@ -4,7 +4,8 @@ We use input function to get user input from user.
 Input function always gives string input.
 If we need to change it to other types, we need to cast them.
 
-See following examples.
+See following examples:
+
 
 
 
