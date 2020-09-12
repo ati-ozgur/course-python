@@ -12,5 +12,5 @@ See following examples:
 
 [example input code 2 - changing type from string](Examples/input_example_type_change.py)
 
-- [Video: input function](https://youtu.be/8m6oyM2sFts)
-
+- [Video 1: input function](https://youtu.be/8m6oyM2sFts)
+- [Video 2: input function](https://youtu.be/ArL54Nmx9oU)
