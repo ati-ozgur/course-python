@@ -18,6 +18,6 @@ For python this is very easy one line code.
 	python helloworld.py
 
 
-[example code](examples/helloworld.py)
+[example code](Examples/helloworld.py)
 
 [Video: Python Hello World](https://youtu.be/KOdfpbnWLVo)
