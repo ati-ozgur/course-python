@@ -1,7 +1,14 @@
 # Course Programming in Python
 
 
+## Lessons
 
+
+
+## Reference Books
+
+- [Welcome to Python 101!](https://python101.pythonlibrary.org/)
+- [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
 
 ## The Python Tutorial
 
