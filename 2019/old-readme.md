@@ -1,0 +1,15 @@
+old-readme.md
+
+01. [Online interpreters](../online-interpreters.md)
+02. [getting started](../getting-started.md)
+03. [python built-in functions](../python-built-in-functions.md)
+04. [python as calculator](../python-as-calculator.md)
+05. [Basic Data Types](../basic-data-types.md)
+06. [Variables](../variables.md)
+07. [Strings](../strings.md)
+08. [lists](../python-list.md)
+09. [comparisons - boolean variables](../comparisons-boolean-variables.md)
+10. [Conditionals Statements (if-elif-else)](../conditionals-statements.md)
+11. [Loop Statements](../loop-statements.md)
+12. [Functions](../functions.md)
+13. [Recursive Functions](../recursive-functions.md)
