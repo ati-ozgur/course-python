@@ -3,6 +3,7 @@
 
 ## Lessons
 
+- [2020-09-11](2020/2020-09-11.md)
 
 
 ## Reference Books
