@@ -7,11 +7,11 @@
 Output following star pyramid using that number
 Below example, input number is 5, therefore 5 lines of stars are output.
 
-*			# 1
-**		# 2
-***		# 3
-****	# 4
-***** # 5 
+	*			# 1
+	**		# 2
+	***		# 3
+	****	# 4
+	***** # 5 
 
 
 3. fizz-buzz or three-five-fifteen problem
