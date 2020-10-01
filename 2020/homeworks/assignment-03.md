@@ -5,11 +5,12 @@ One of you will share his screen with other student and write code together.
 I expect an email from one of you, put cc to other student.
 
 Name your files as below template.
-Student1_Full_Name_and_Student2_Full_Name_AssignmentNumber_QuestionNumber.py
+
+	Student1_Full_Name_and_Student2_Full_Name_AssignmentNumber_QuestionNumber.py
 
 an example filename: 
 
-Atilla_Ozgur_and_Duru_Ozgur_Assignment03_1.py
+	Atilla_Ozgur_and_Duru_Ozgur_Assignment03_1.py
 
 
 
@@ -17,9 +18,9 @@ Atilla_Ozgur_and_Duru_Ozgur_Assignment03_1.py
 1. Write a function that finds a summation of even numbers between 1..N where N is argument of your function.
 Use this function to find summation of
 
-	a. 2+4+6....28
-	a. 2+4+6....12
-	a. 2+4+6....100
+	-  2+4+6....28
+	-  2+4+6....12
+	-  2+4+6....100
 
 
 
