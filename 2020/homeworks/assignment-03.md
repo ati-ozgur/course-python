@@ -26,16 +26,16 @@ Use this function to find summation of
 
 
 2. Ask user to enter a number  between 1-10 and a single character 
-Write a function named character_pyramid	 that takes two arguments, row and ch.
+Write a function named **character_pyramid**	 that takes two arguments, row and ch.
 This function will output a pyramid using row and ch arguments.
 
-Below example, input number is 5 and character is "*", therefore 5 lines of stars are output.
+Below example, input number is 5 and character is "o", therefore 5 lines of ooo are output.
 
-		*
-		**
-		***
-		****
-		***** 
+		o
+		oo
+		ooo
+		oooo
+		ooooo 
 
 second example, input number is 6 and character is x, therefore 6 lines of xxx are output.
 
