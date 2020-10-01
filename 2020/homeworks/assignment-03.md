@@ -18,9 +18,9 @@ an example filename:
 1. Write a function that finds a summation of even numbers between 1..N where N is argument of your function.
 Use this function to find summation of
 
-	-  2+4+6....28
-	-  2+4+6....12
-	-  2+4+6....100
+		2+4+6....28
+		2+4+6....12
+		2+4+6....100
 
 
 
