@@ -12,16 +12,17 @@ an example filename:
 
 	Atilla_Ozgur_and_Duru_Ozgur_Assignment03_1.py
 
-
-
-
 1. Write a function that finds if a given string argument is Palindrome.
 A Palindrome string is equal to its reverse, that is its reading is the same backward as forward.
-Use a loop that goes for every character in the input string.
 
 For example: efe, nixon, Hannah, Ava, Anna are palindromes.
 
 Test your function with above examples and test with at least 3 different non-Palindrome examples.
 
-2. Write palindrome function again but use recursion.
+You may use [string functions](https://www.w3schools.com/python/python_ref_string.asp) in this function.
+
+2. Write palindrome function again but use a loop that goes for every character in the input string.
+
+3. Write palindrome function again but use recursion in its definition.
+
 
