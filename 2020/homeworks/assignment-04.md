@@ -26,8 +26,8 @@ You may use [string functions](https://www.w3schools.com/python/python_ref_strin
 3. Write palindrome function again but use recursion in its definition.
 For example you need to work following way:
 
-a. hannah
-b. anna
-c. nn
+	hannah
+	anna
+	nn
 
 
