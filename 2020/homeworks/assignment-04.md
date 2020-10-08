@@ -12,7 +12,7 @@ an example filename:
 
 	Atilla_Ozgur_and_Duru_Ozgur_Assignment03_1.py
 
-1. Write a function that finds if a given string argument is Palindrome.
+1. Write a function that finds if a given string argument is [Palindrome](https://en.wikipedia.org/wiki/Palindrome).
 A Palindrome string is equal to its reverse, that is its reading is the same backward as forward.
 
 For example: efe, nixon, hannah, ava, anna are palindromes.
