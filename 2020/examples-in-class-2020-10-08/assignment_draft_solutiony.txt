@@ -7,11 +7,7 @@ ask argument == reverse_argument
 
 Question 2:
 
-name = "Atilla"
+somehow I need to get last_char
+I need to get first_char
 
-num = len(name)-1
-
-while num >= 0:
-	ch = name[num]
-	print(ch)
-	num = num -1
+ask first_char == last_char
