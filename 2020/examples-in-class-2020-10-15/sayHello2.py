@@ -2,7 +2,11 @@
 def sayHello1(name,place="Bremen"):
 	print(f"hello to {name} from {place}")
 
+# positional arguments
+# optional/default value arguments
+# named arguments
 
+# positional calling , using default values
 sayHello1("Atilla")
 sayHello1("Duru")
 
