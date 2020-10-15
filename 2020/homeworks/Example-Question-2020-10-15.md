@@ -8,6 +8,8 @@ We can use following code to see printable characters
 	import string
 	print(string.printable)
 	print(string.printable[25])
+	print(string.ascii_letters)
+	print(string.ascii_letters[20])
 
 
 Python [random module](https://docs.python.org/3/library/random.html) is also necessary.
@@ -28,7 +30,7 @@ We can use following code to get random choice from list:
 
 
 1. Write a python function that creates random password. This function should have a default parameter of password_length of value 12.
-You can use string.printable function and random.choice or randint methods in this function.
+You can use string and random module methods in this function.
 
 2. Use above function to create 100 passwords.
 
