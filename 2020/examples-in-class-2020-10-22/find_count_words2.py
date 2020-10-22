@@ -11,6 +11,8 @@ word_list = file_content.split(" ")
 frequency_words = {}
 
 for word in word_list:
-	#  b = b + 1
+	# does not work since we are trying to get value of something which does not exist
+	# it is similar to below line if b is not defined.
+	#  b = b + 1	
 	frequency_words[word] = frequency_words[word] + 1
 
