@@ -17,7 +17,8 @@ def create_random_password(password_length=12):
 
 	print(password)
 
-create_random_password()
+if __name__ == '__main__':
+	create_random_password()
 
 
 

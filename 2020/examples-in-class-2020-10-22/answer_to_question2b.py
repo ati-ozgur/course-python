@@ -5,11 +5,11 @@
 import string
 import random
 
-import 
+import answer_to_question1
 
 
 for index in range(100):
-	print(create_random_password())
+	print(answer_to_question1.create_random_password())
 
 
 
