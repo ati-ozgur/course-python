@@ -8,4 +8,6 @@
 	 - [Video: Install PyCharm Windows](https://youtu.be/rnaa5jl8pVg)
 	 - [Video: Install PyCharm MacOS](https://youtu.be/Cck-QIGdbdY)
 
-4. Visual Studio (Windows only):
+4. Visual Studio Code (Cross Platform):
+
+5. Visual Studio (Windows only):
