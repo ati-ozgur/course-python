@@ -32,13 +32,18 @@ you can use following code to create example lists for your self.
 	l1 = random.sample(range(1,101),99)
 
 
-5. generalize above function so that it takes, min and max values in the list.
+5. generalize above function so that it takes supposed min and max values in the list.
+For example, it should work with list of numbers with minimum and maximum values as below.
+
+- 50-100
+- 1000-2000
+- 10-20
+
+Always input list size is the (maximum-minimum-1).
 
 
-6. use random.shuffle and list operations to create example lists for the question 4.
 
-
-7. Write a function get_first_digit that finds a first digit of a number without using string functions. You should use only math library or mathematical normal operations.
+6. Write a function get_first_digit that finds a first digit of a number without using string functions. You should use only math library or mathematical normal operations.
 your function should give true on the following asserts
 
 	assert get_first_digit(12021) == 1
