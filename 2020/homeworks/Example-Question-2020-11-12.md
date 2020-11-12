@@ -23,4 +23,18 @@ You will answer guesses from your user as:
 	- too high
 	- you have found the number
 
-	
+
+4. write a function that finds the missing number from a list that contains number between 1 to 100. Your list size is 99 therefore one number is missing find it.
+
+you can use following code to create example lists for your self.
+
+	import random
+	l1 = random.sample(range(1,101),99)
+
+
+5. generalize above function so that it takes, min and max values in the list.
+
+
+6. use random.shuffle and list operations to create example lists for the question 4.
+
+
