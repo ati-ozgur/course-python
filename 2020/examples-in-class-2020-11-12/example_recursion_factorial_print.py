@@ -1,6 +1,7 @@
 def factorial(n):
 	if n > 1:
 		#call itself
+		print(f"call itself {n}*{n-1}!")
 		return n * factorial(n-1)
 	else:
 		return 1 # exit condition
