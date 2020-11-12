@@ -38,3 +38,10 @@ you can use following code to create example lists for your self.
 6. use random.shuffle and list operations to create example lists for the question 4.
 
 
+7. Write a function get_first_digit that finds a first digit of a number without using string functions. You should use only math library or mathematical normal operations.
+your function should give true on the following asserts
+
+	assert get_first_digit(12021) == 1
+	assert get_first_digit(92021) == 9
+	assert get_first_digit(72003443) == 7
+
