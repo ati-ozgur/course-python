@@ -43,3 +43,18 @@ See below examples
 - [Exception example: file reading 3](Examples/exception_handling/exception_example3_file3.py)
 
 
+
+## try..except
+
+
+## try..except..else
+
+
+## try..except..else..finally
+
+
+
+## References
+
+[Python 101: Exception Handling](https://python101.pythonlibrary.org/chapter7_exception_handling.html)
+
