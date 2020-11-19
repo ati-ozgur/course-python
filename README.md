@@ -37,8 +37,10 @@ Another quote from [same 1972 talk]((https://www.cs.utexas.edu/~EWD/transcriptio
 
 ## Reference Books
 
-- [Welcome to Python 101!](https://python101.pythonlibrary.org/)
 - [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
+
+- [Welcome to Python 101!](https://python101.pythonlibrary.org/)
+	Only Part I - Learning the Basics
 
 ## The Python Tutorial
 
