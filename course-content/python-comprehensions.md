@@ -26,4 +26,11 @@ We can also filter items in the iterable with optional if
 
 
 
-	l1 = [x*x for x in range(10) if x % 3 == 1]
+	l2 = [x*x for x in range(10) if x % 3 == 1]
+
+Another interesting example.
+Change a list of strings to list of integers
+
+
+str_list = ["1", "2", "3", "4", "5"]
+int_list = [int(x) for x in str_list]
