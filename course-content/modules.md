@@ -9,6 +9,8 @@
 
 - [Importing in Python 101](https://python101.pythonlibrary.org/chapter9_imports.html)
 
+- [Python Modules in w3schools.com](https://www.w3schools.com/python/python_modules.asp)
+
 ## Video Tutorials
 
 

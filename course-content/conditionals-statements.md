@@ -101,6 +101,8 @@ What is the output of following code:
 
 - [W3C Schools python conditions](https://www.w3schools.com/python/python_conditions.asp)
 
+- [Python If ... Else in w3schools.com](https://www.w3schools.com/python/python_conditions.asp)
+
 - [Non-Programmer's Tutorial for Python 3/Decisions](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Decisions)
 
 - [Conditional Statements in Python 101](https://python101.pythonlibrary.org/chapter4_conditionals.html)

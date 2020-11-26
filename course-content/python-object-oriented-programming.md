@@ -93,6 +93,7 @@ To find a methods of an object use dir function
 
 - [Non-Programmer's Tutorial for Python 3/Intro to Object Oriented Programming in Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Intro_to_Object_Oriented_Programming_in_Python_3)
 - [Classes in Python 101](https://python101.pythonlibrary.org/chapter11_classes.html)
+- [Python Classes and Objects in w3schools.com](https://www.w3schools.com/python/python_classes.asp)
 
 ## Video Tutorials
 

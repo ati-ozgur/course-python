@@ -79,6 +79,10 @@ See [python comprehension](python-comprehensions.md)
 
 - [Lists in Python 101](https://python101.pythonlibrary.org/chapter3_lists_dicts.html)
 
+- [Python Lists in w3schools.com](https://www.w3schools.com/python/python_lists.asp)
+
+- [using lists as array in w3schools.com](https://www.w3schools.com/python/python_arrays.asp)
+
 ## Video Tutorials
 
 

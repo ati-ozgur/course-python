@@ -46,7 +46,7 @@ correct solution should be.
 
 
 - [Python wiki while](https://wiki.python.org/moin/WhileLoop)
-- [W3C Schools python While Loop](https://www.w3schools.com/python/python_while_loops.asp)
+- [while Loop in w3schools.com](https://www.w3schools.com/python/python_while_loops.asp)
 - [while loop in Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Count_to_10)
 
  - [while loop in Python 101](https://python101.pythonlibrary.org/chapter5_loops.html#the-while-loop)

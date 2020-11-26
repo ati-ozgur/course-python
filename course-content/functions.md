@@ -74,5 +74,7 @@ Since say_hello function do not use return keyword, it returns python special ty
 
 - [Functions in Python 101](https://python101.pythonlibrary.org/chapter10_functions.html)
 
+- [Python Functions in w3schools.com](https://www.w3schools.com/python/python_functions.asp)
+
 ## Video Tutorials
 

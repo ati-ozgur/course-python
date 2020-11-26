@@ -35,7 +35,7 @@ for statement mostly used with [range](range.md).
 ## Links References
 
  - [Python wiki For loop](https://wiki.python.org/moin/ForLoop)
- - [W3C Schools python for Loop](https://www.w3schools.com/python/python_for_loops.asp)
+ - [Python For Loops in w3schools.com](https://www.w3schools.com/python/python_for_loops.asp)
  - [Non-Programmer's Tutorial for Python 3/For Loops](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/For_Loops)
  - [For loop in python 101](https://python101.pythonlibrary.org/chapter5_loops.html#the-for-loop)
 

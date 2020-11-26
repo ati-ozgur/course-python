@@ -37,7 +37,7 @@
 
  - [Dictionaries in Python 101](https://python101.pythonlibrary.org/chapter3_lists_dicts.html)
 
-
+ - [Python Dictionaries in w3schools.com](https://www.w3schools.com/python/python_dictionaries.asp)
 
 ## Video Tutorials
 

@@ -41,9 +41,6 @@ output is
     Age is 42
 
 
-- [W3C Schools Python string](https://www.w3schools.com/python/python_strings.asp)
-- [Video Tutorial Strings](https://www.youtube.com/watch?v=UsCQXe1OHZk)
-- [python f-strings](https://realpython.com/python-f-strings/)
 
 
 
@@ -116,4 +113,17 @@ Out[9]: 'ill'
 In [10]: name[2:6]
 Out[10]: 'illa'
 
+
+## Links References
+
+- [strings in w3schools.com](https://www.w3schools.com/python/python_strings.asp)
+
+## More
+
+- [python f-strings](https://realpython.com/python-f-strings/)
+
+
+## Video Tutorials
+
+- [Video Tutorial Strings](https://www.youtube.com/watch?v=UsCQXe1OHZk)
 

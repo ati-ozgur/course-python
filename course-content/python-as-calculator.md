@@ -46,7 +46,7 @@ Only following operators are a bit different than normal mathematical ones.
 ## Links References
 
 - [Python as a calculator](https://docs.python.org/3.7/tutorial/introduction.html#using-python-as-a-calculator)
-
+- [python operators in w3schools.com](https://www.w3schools.com/python/python_operators.asp)
 
 ## Video Tutorials
 
