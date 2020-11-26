@@ -4,7 +4,7 @@ Command line is where we execute our python programs.
 
 
 
-![Command Line Linux](../../images/command-line-linux.png)
+![Command Line Linux](images/command-line-linux.png)
 
 
 After we open command line (windows) / Terminal (MacOS), we go to directory of our source files and run following command.
