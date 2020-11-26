@@ -54,3 +54,10 @@ See [Ascii table](https://www.asciitable.com/) for answer to this question.
 	In [4]: not (birth_year < 1900 or birth_year > 1950 )
 	Out[4]: False
 
+
+## Links References
+
+
+- [boolean-operations](https://python101.pythonlibrary.org/chapter4_conditionals.html#boolean-operations)
+
+
