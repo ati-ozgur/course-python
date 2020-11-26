@@ -43,6 +43,8 @@ Starting from a this base folder, print names of all files in this folder.
 If this folder contains sub folder, you need also print file names in sub folder too.
 This should go recursively.
 
+This is a better example for recursion since it is not easily solved with loops.
+In general, any tree structure are more easily solved using recursion.
 
 
 
