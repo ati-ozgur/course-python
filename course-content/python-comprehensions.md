@@ -34,3 +34,14 @@ Change a list of strings to list of integers
 
 str_list = ["1", "2", "3", "4", "5"]
 int_list = [int(x) for x in str_list]
+
+
+## Dictionary Comprehensions
+
+
+## Set Comprehensions
+
+
+### Examples
+
+[Good blog post](https://towardsdatascience.com/11-examples-to-master-python-list-comprehensions-33c681b56212)
