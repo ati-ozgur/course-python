@@ -1,5 +1,17 @@
 # object oriented programming
 
+Classes are templates to create objects.
+
+	data
+	methods (functions that belongs classes, most of the time uses data in the object)
+
+
+
+
+
+
+
+
 
 everything is python is an object.
 To find a methods of an object use dir function
