@@ -33,6 +33,7 @@ Another quote from [same 1972 talk](https://www.cs.utexas.edu/~EWD/transcription
 - [2020-11-05](2020/2020-11-05.md)
 - [2020-11-12](2020/2020-11-12.md)
 - [2020-11-19](2020/2020-11-19.md)
+- [2020-11-26](2020/2020-11-26.md)
 
 
 ## Reference Books
