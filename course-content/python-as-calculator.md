@@ -43,6 +43,15 @@ Only following operators are a bit different than normal mathematical ones.
 - ** power operator. 2\*\*5 is equal to 2\*2\*2\*2\*2 
 
 
-See a tutorial video [Learn to create Simple Calculator in Python](https://youtu.be/5m9AR4PBlGE)
+## Links References
+
+- [Python as a calculator](https://docs.python.org/3.7/tutorial/introduction.html#using-python-as-a-calculator)
+
+
+## Video Tutorials
+
+- [Learn to create Simple Calculator in Python](https://youtu.be/5m9AR4PBlGE)
+
+
 
 

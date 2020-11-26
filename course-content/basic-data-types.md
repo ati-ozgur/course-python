@@ -66,10 +66,12 @@ How to solve this problem? Change their types using object changing functions.
 
 
 
-## Tutorials
+## Links References
 
-- https://docs.python.org/3.7/tutorial/introduction.html#using-python-as-a-calculator
 
+- [Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
+
+- 
 
 
 ## Video Tutorials
