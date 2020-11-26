@@ -101,6 +101,7 @@ What is the output of following code:
 
 2. [W3C Schools python conditions](https://www.w3schools.com/python/python_conditions.asp)
 
+3. [Non-Programmer's Tutorial for Python 3/Decisions](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Decisions)
 
 
 ### Video tutorials

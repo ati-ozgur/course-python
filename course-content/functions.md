@@ -64,3 +64,13 @@ Since say_hello function do not use return keyword, it returns python special ty
     swap(a, b)
     print(a, b)
 
+
+
+## Links References
+
+- [Non-Programmer's Tutorial for Python 3/Defining Functions](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Defining_Functions)
+
+- [Non-Programmer's Tutorial for Python 3/Advanced Functions Example](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Advanced_Functions_Example)
+
+## Video Tutorials
+
