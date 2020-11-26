@@ -12,6 +12,8 @@ Only thing, I dislike about it is its simple debugging environment.
 
 3. Wing IDE (Cross Platform): My choice
 	 - [Video: Install Wing IDE](https://youtu.be/DTIR4Id-KsY)
+
+
 4. PyCharm (Cross Platform): 
 	 - [Video: Install PyCharm Windows](https://youtu.be/rnaa5jl8pVg)
 	 - [Video: Install PyCharm MacOS](https://youtu.be/Cck-QIGdbdY)
@@ -19,3 +21,13 @@ Only thing, I dislike about it is its simple debugging environment.
 5. Visual Studio Code (Cross Platform):
 
 6. Visual Studio (Windows only):
+
+
+## Links References
+
+	- [IDLE in Python 1010](https://python101.pythonlibrary.org/chapter1_idle.html)
+
+## Video Tutorials
+
+
+

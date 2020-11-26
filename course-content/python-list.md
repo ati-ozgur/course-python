@@ -77,6 +77,8 @@ See [python comprehension](python-comprehensions.md)
 
 - [Non-Programmer's Tutorial for Python 3/More on Lists](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/More_on_Lists)
 
+- [Lists in Python 101](https://python101.pythonlibrary.org/chapter3_lists_dicts.html)
+
 ## Video Tutorials
 
 

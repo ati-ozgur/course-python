@@ -35,6 +35,9 @@
 
  - [Non-Programmer's Tutorial for Python 3/Dictionaries](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Dictionaries)
 
+ - [Dictionaries in Python 101](https://python101.pythonlibrary.org/chapter3_lists_dicts.html)
+
+
 
 ## Video Tutorials
 

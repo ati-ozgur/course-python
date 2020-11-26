@@ -96,12 +96,14 @@ What is the output of following code:
 
 ### Other tutorials
 
-1. See [if-elif-else in python tutorial](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
+- [if-elif-else in python tutorial](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
 
 
-2. [W3C Schools python conditions](https://www.w3schools.com/python/python_conditions.asp)
+- [W3C Schools python conditions](https://www.w3schools.com/python/python_conditions.asp)
 
-3. [Non-Programmer's Tutorial for Python 3/Decisions](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Decisions)
+- [Non-Programmer's Tutorial for Python 3/Decisions](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Decisions)
+
+- [Conditional Statements in Python 101](https://python101.pythonlibrary.org/chapter4_conditionals.html)
 
 
 ### Video tutorials
