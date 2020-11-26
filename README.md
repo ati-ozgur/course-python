@@ -10,7 +10,7 @@ I would like to quote following end passage of excellent talk of [ACM Turing Lec
 
 As it was in 1972, programming is still difficult but it is intensely rewarding.
 Please try to learn programming.
-Another quote from [same 1972 talk]((https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html), says better than I.
+Another quote from [same 1972 talk](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html), says better than I.
 
 
 > This challenge, yiz. the confrontation with the programming task, is so unique that this novel experience can teach as a lot about ourselves.
