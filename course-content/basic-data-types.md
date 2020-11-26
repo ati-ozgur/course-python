@@ -69,7 +69,7 @@ How to solve this problem? Change their types using object changing functions.
 ## Links References
 
 
-- [Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
+- [Python Data Types in w3schools.com](https://www.w3schools.com/python/python_datatypes.asp)
 
 - 
 

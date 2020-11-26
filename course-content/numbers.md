@@ -7,3 +7,12 @@ numbers.md
 
 price = 99_000
 
+
+
+## Links References
+
+- [Numbers in w3schools.com](https://www.w3schools.com/python/python_numbers.asp)
+
+
+## Video Tutorials
+

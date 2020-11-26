@@ -1,4 +1,4 @@
-naming-convention.txt
+# python naming convention
 
 https://namingconvention.org/python/
 

@@ -18,4 +18,13 @@ We do not need to give variable type.
 You can find type of variable using type() function.
 
 
-Try to follow [python naming conventions for naming variables](https://namingconvention.org/python/variable-naming.html).
+Try to follow [python naming conventions for naming variables](naming-conventions).
+
+
+
+## Links References
+
+
+- [variables in w3schools.com](https://www.w3schools.com/python/python_variables.asp)
+
+## Video Tutorials
