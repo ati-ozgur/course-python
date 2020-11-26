@@ -28,4 +28,17 @@
     dict.clear()  # removes all items from dict
 
 
-see more information in [official documentation for dictionary](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
+
+## Links References
+
+ - [official documentation for dictionary](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
+
+ - [Non-Programmer's Tutorial for Python 3/Dictionaries](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Dictionaries)
+
+
+## Video Tutorials
+
+
+
+
+

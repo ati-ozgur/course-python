@@ -54,8 +54,13 @@ See below examples
 
 
 
-## References
+## Links References
 
-[Python 101: Exception Handling](https://python101.pythonlibrary.org/chapter7_exception_handling.html)
+- [Python 101: Exception Handling](https://python101.pythonlibrary.org/chapter7_exception_handling.html)
+
+- [Non-Programmer's Tutorial for Python 3/Dealing with the imperfect](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Dealing_with_the_imperfect)
+
+## Video Tutorials
+
 
 

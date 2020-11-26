@@ -66,10 +66,20 @@ we can use item in list to find if a item in the list.
 
 ## list comprehension
 
-todo
+See [python comprehension](python-comprehensions.md)
 
 
+
+## Links References
+
+- [Non-Programmer's Tutorial for Python 3/Lists](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Lists)
 - [W3C Schools Python lists](https://www.w3schools.com/python/python_lists.asp)
+
+- [Non-Programmer's Tutorial for Python 3/More on Lists](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/More_on_Lists)
+
+## Video Tutorials
+
+
 - [Video Tutorial Lists 1](https://youtu.be/tw7ror9x32s)
 - [Video Tutorial Lists 2](https://youtu.be/ohCDWZgNIU0)
 

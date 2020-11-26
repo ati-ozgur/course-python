@@ -59,5 +59,6 @@ See [Ascii table](https://www.asciitable.com/) for answer to this question.
 
 
 - [boolean-operations](https://python101.pythonlibrary.org/chapter4_conditionals.html#boolean-operations)
+- [Non-Programmer's Tutorial for Python 3/Boolean Expressions](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Boolean_Expressions)
 
 

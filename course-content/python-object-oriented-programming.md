@@ -87,3 +87,15 @@ To find a methods of an object use dir function
 	    def __str__():
 	    	return self.greeting()
 
+
+
+## Links References
+
+- [Non-Programmer's Tutorial for Python 3/Intro to Object Oriented Programming in Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Intro_to_Object_Oriented_Programming_in_Python_3)
+
+## Video Tutorials
+
+
+
+
+

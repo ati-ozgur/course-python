@@ -47,11 +47,14 @@ This is a better example for recursion since it is not easily solved with loops.
 In general, any tree structure are more easily solved using recursion.
 
 
+## Links References
+
+- [Non-Programmer's Tutorial for Python 3/Recursion](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Recursion)
 
 
 
+## Video Tutorials
 
-## Recursion videos
 
 - [Recursion video 1](https://www.youtube.com/watch?v=zbfRgC3kukk)
 
