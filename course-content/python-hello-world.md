@@ -20,4 +20,12 @@ For python this is very easy one line code.
 
 [example code](Examples/helloworld.py)
 
-[Video: Python Hello World](https://youtu.be/KOdfpbnWLVo)
+
+## Links References
+
+- [Hello World in Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Hello,_World)
+
+
+## Video Tutorials
+
+- [Video: Python Hello World](https://youtu.be/KOdfpbnWLVo)
