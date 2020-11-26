@@ -64,9 +64,9 @@ we can use item in list to find if a item in the list.
     list.extend(another_list) appends all elements of another_list to list
 
 
-## list comprehension
+## list comprehensions
 
-See [python comprehension](python-comprehensions.md)
+See [python comprehensions](python-comprehensions.md)
 
 
 
