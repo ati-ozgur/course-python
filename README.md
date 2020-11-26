@@ -20,7 +20,7 @@ Another quote from [same 1972 talk](https://www.cs.utexas.edu/~EWD/transcription
 
 
 
-## Lessons
+## Lessons in 2020
 
 - [2020-09-11](2020/2020-09-11.md)
 - [2020-09-18](2020/2020-09-18.md)
@@ -42,6 +42,7 @@ Another quote from [same 1972 talk](https://www.cs.utexas.edu/~EWD/transcription
 
 - [Welcome to Python 101!](https://python101.pythonlibrary.org/)
 	Only Part I - Learning the Basics
+
 
 ## The Python Tutorial
 
