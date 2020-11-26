@@ -26,3 +26,31 @@ A recursive function is a function that calls itself.
 
 See following [stackoverflow question](https://softwareengineering.stackexchange.com/questions/25052/in-plain-english-what-is-recursion)
 
+
+## Examples
+
+### Factorial 
+
+Factorial example used widely for recursion but it is not a good example in my opinion since it could be easily solved with loops also.
+
+### Fibonacci
+
+
+### Files in a folder
+
+Consider a folder in operating system. 
+Starting from a this base folder, print names of all files in this folder. 
+If this folder contains sub folder, you need also print file names in sub folder too.
+This should go recursively.
+
+
+
+
+
+
+
+## Recursion videos
+
+- [Recursion video 1](https://www.youtube.com/watch?v=zbfRgC3kukk)
+
+- [Recursion video 2](https://www.youtube.com/watch?v=seUpFY_m-us)
