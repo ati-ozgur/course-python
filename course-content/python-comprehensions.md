@@ -45,3 +45,16 @@ int_list = [int(x) for x in str_list]
 ### Examples
 
 [Good blog post](https://towardsdatascience.com/11-examples-to-master-python-list-comprehensions-33c681b56212)
+
+## Links References
+
+- [python Comprehensions in python 101](https://python101.pythonlibrary.org/chapter6_comprehensions.html)
+
+
+
+## Video Tutorials
+
+
+
+
+

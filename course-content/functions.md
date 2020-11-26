@@ -72,5 +72,7 @@ Since say_hello function do not use return keyword, it returns python special ty
 
 - [Non-Programmer's Tutorial for Python 3/Advanced Functions Example](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Advanced_Functions_Example)
 
+- [Functions in Python 101](https://python101.pythonlibrary.org/chapter10_functions.html)
+
 ## Video Tutorials
 
