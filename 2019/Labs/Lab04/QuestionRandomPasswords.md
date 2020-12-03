@@ -1,4 +1,4 @@
-RandomPasswords.md
+# Random Passwords
 
 Please write a code that creates a random password for 1000 users.
 
