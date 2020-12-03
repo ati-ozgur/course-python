@@ -19,3 +19,4 @@
 13. [Missing Number in List](2019/Labs/Lab06/missing-number-in-list.md)
 14. [find sum between indexes](2019/Labs/Lab06/find-sum-between-indexes.md)
 
+15. [High light a given word in a sentence](2019/Labs/Lab07/high-light-word.md)]

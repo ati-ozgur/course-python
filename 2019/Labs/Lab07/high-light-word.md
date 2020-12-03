@@ -1,7 +1,3 @@
-# Lab 07 Questions
-
-
-
 # High light a given word in a sentence
 
 Return a given word in a highlighted form in a given sentence.
