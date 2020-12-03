@@ -13,11 +13,11 @@ Russian dolls are good example for recursion.
 Recursive functions calls itself.
 
 
-def recursive(x):
-	# do something
-	x = x - 1
-	print(x)
-	recursive(x)
+	def recursive(x):
+		# do something
+		x = x - 1
+		print(x)
+		recursive(x)
 
 
 But this way without any exit condition will lead to error.
