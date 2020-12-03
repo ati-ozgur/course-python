@@ -2,7 +2,9 @@
 
 get an input from user a number named total.
 Sum the numbers starting from 1 to n till they are greater than this total.
-Print out the number n.
+Print out the number 
+
+	sum(1..n) = new_total > total
 
 Example 1:  given total is 20, you stop at 6 since
 
