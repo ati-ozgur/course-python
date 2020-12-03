@@ -110,7 +110,7 @@ What is the output of following code:
 
 ### Video tutorials
 
-[Video 1](https://www.youtube.com/watch?v=f4KOjWS_KZs).
+1. [Video If, Then, Else in Python](https://www.youtube.com/watch?v=f4KOjWS_KZs).
 
 Note: On this video, raw_input (Python 2) is used. For python 3, you need to use input().
 
