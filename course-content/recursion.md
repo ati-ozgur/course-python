@@ -69,13 +69,13 @@ This is sometimes called base case, function returns no value or return a defaul
 
 
 
-def recursive(x):
-	# do something
-	x = x - 1
-	print(x)
-	if (x > 0):
-		recursive(x)
-	# else do nothing, exit from function
+	def recursive(x):
+		# do something
+		x = x - 1
+		print(x)
+		if (x > 0):
+			recursive(x)
+		# else do nothing, exit from function
 
 
 Then, a recursive function will have following structure.
