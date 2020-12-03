@@ -76,5 +76,5 @@ How to solve this problem? Change their types using object changing functions.
 
 ## Video Tutorials
 
-- https://youtu.be/gCCVsvgR2KU
+- [Data Types in Python](https://youtu.be/gCCVsvgR2KU)
 
