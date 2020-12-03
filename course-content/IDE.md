@@ -25,7 +25,7 @@ Only thing, I dislike about it is its simple debugging environment.
 
 ## Links References
 
-	- [IDLE in Python 1010](https://python101.pythonlibrary.org/chapter1_idle.html)
+	- [IDLE in Python 101](https://python101.pythonlibrary.org/chapter1_idle.html)
 
 ## Video Tutorials
 
