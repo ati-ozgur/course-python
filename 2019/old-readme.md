@@ -12,4 +12,4 @@ old-readme.md
 10. [Conditionals Statements (if-elif-else)](../conditionals-statements.md)
 11. [Loop Statements](../loop-statements.md)
 12. [Functions](../functions.md)
-13. [Recursive Functions](../recursive-functions.md)
+13. [Recursive Functions](../recursion.md)
