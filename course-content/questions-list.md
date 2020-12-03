@@ -25,3 +25,5 @@
 17. [nth prime](questions/n-th-prime.md)
 
 18. [list of digits](questions/list-of-digits.md)
+
+19. [sentence in a frame](questions/sentence-in-a-frame.md)
