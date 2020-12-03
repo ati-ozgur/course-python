@@ -22,7 +22,7 @@ Try to follow [python naming conventions for naming variables](naming-convention
 
 
 
-## Links References
+## Links in our references
 
 
 - [variables in w3schools.com](https://www.w3schools.com/python/python_variables.asp)

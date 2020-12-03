@@ -70,7 +70,7 @@ See [python comprehensions](python-comprehensions.md)
 
 
 
-## Links References
+## Links in our references
 
 - [Non-Programmer's Tutorial for Python 3/Lists](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Lists)
 - [W3C Schools Python lists](https://www.w3schools.com/python/python_lists.asp)

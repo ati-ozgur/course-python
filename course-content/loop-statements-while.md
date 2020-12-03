@@ -42,7 +42,7 @@ correct solution should be.
         x = x +1
 
 
-## Links References
+## Links in our references
 
 
 - [Python wiki while](https://wiki.python.org/moin/WhileLoop)

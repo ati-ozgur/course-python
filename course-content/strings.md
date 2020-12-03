@@ -114,7 +114,7 @@ In [10]: name[2:6]
 Out[10]: 'illa'
 
 
-## Links References
+## Links in our references
 
 - [strings in w3schools.com](https://www.w3schools.com/python/python_strings.asp)
 

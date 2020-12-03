@@ -15,7 +15,7 @@ See following examples:
 
 
 
-## Links References
+## Links in our references
 
 - [input in Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Who_Goes_There%3F)
 

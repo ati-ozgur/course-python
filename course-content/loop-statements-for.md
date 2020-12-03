@@ -32,7 +32,7 @@ for statement mostly used with [range](range.md).
     9
     >>>
 
-## Links References
+## Links in our references
 
  - [Python wiki For loop](https://wiki.python.org/moin/ForLoop)
  - [Python For Loops in w3schools.com](https://www.w3schools.com/python/python_for_loops.asp)

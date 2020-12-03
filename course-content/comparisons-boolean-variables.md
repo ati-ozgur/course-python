@@ -55,7 +55,7 @@ See [Ascii table](https://www.asciitable.com/) for answer to this question.
 	Out[4]: False
 
 
-## Links References
+## Links in our references
 
 
 - [boolean-operations](https://python101.pythonlibrary.org/chapter4_conditionals.html#boolean-operations)

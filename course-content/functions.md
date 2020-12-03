@@ -66,7 +66,7 @@ Since say_hello function do not use return keyword, it returns python special ty
 
 
 
-## Links References
+## Links in our references
 
 - [Non-Programmer's Tutorial for Python 3/Defining Functions](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Defining_Functions)
 

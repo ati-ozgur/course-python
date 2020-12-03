@@ -20,7 +20,7 @@ Python has no multi-line comment but multi-line string is used for this purpose.
 
 
 
-## Links References
+## Links in our references
 
 - [comments in w3schools.com](https://www.w3schools.com/python/python_comments.asp)
 
