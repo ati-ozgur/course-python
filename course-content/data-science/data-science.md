@@ -6,7 +6,8 @@
 3. [matplotlib](matplotlib.md) Comprehensive 2D Plotting
 4. [pandas](pandas.md) Data structures & analysis
 5. scikit-learn - machine learning library
-6. ipython/jupyter notebooks
+6. ipython
+7. [jupyter notebooks](jupyter-notebooks.md)
 
 
 
