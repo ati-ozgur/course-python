@@ -20,3 +20,8 @@
 14. [find sum between indexes](../2019/Labs/Lab06/find-sum-between-indexes.md)
 
 15. [High light a given word in a sentence](../2019/Labs/Lab07/high-light-word.md)
+
+16. [Armstrong number](questions/Armstrong-number.md)
+17. [nth prime](questions/n-th-prime.md)
+
+18. [list of digits](questions/list-of-digits.md)
