@@ -1,4 +1,0 @@
-notes.txt
-
-- [Jupyter Notebook Book for teaching](https://jupyter4edu.github.io/jupyter-edu-book/) jupyter4edu
-
