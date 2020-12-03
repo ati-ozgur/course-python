@@ -1,4 +1,4 @@
-# three-five-fifteen
+# Three five fifteen
 
 This question is a [common interview question](http://wiki.c2.com/?FizzBuzzTest)
 
