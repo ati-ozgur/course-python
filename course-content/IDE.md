@@ -23,9 +23,9 @@ Only thing, I dislike about it is its simple debugging environment.
 6. Visual Studio (Windows only):
 
 
-## Links References
+## Links in Our References
 
-	- [IDLE in Python 101](https://python101.pythonlibrary.org/chapter1_idle.html)
+1. [IDLE in Python 101](https://python101.pythonlibrary.org/chapter1_idle.html)
 
 ## Video Tutorials
 
