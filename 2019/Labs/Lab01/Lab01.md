@@ -13,10 +13,10 @@
     if n % 3 == 0: # Disible by 3
         # do something here
 
-Q1) find summation 1..10
-Q2) find summation 1..N
-Q3) find summation 1..N only even numbers
-Q4) find summation 1..N only odd numbers
-Q5) find summation 1..N only divisible by 3 numbers
+01. find summation 1..10
+02. find summation 1..N
+03. find summation 1..N only even numbers
+04. find summation 1..N only odd numbers
+05. find summation 1..N only divisible by 3 numbers
 
 
