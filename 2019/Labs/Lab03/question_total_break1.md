@@ -22,4 +22,4 @@ Find me sum(1..n) > 1000.
 What is n? 
 Here n would be 45.
 
-	sum(1..n) = 1035 > 1000
+	sum(1..45) = 1035 > 1000
