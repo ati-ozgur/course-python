@@ -126,9 +126,13 @@ Factorial example used widely for recursion but it is not a good example in my o
 
 ### Fibonacci
 
+### Tree structures
+
+- Most tree structures. For example going through a family tree and searching files in operating system.
 
 ### Files in a folder
 
+1. getting list of files and directories in a given directory and going deeper in existing directories to search for a given text or filename.
 Consider a folder in operating system. 
 Starting from a this base folder, print names of all files in this folder. 
 If this folder contains sub folder, you need also print file names in sub folder too.
@@ -136,6 +140,15 @@ This should go recursively.
 
 This is a better example for recursion since it is not easily solved with loops.
 In general, any tree structure are more easily solved using recursion.
+
+
+
+### More reading for recursion
+
+
+- [google search for recursion](https://www.google.com/search?q=recursion)
+
+- [wikipedia recursion](https://en.wikipedia.org/wiki/Recursion)
 
 
 ## Links in our references
