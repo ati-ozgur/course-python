@@ -18,6 +18,11 @@ Another quote from [same 1972 talk](https://www.cs.utexas.edu/~EWD/transcription
 > If it did not do so, to my taste we should not deserve the computer at all!
 
 
+## See Review Questions
+
+- [Question list 2020-12-03](course-content/questions-list.md)
+- [Question list 2020-10-29](2020/homeworks/2020-10-29-Python-Review-Questions.pdf)
+
 
 
 ## Lessons in 2020
