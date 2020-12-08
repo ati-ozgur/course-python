@@ -16,4 +16,4 @@ For this question only worry about English characters.
 
 
 	Plain:    ABCDEFGHIJKLMNOPQRSTUVWXYZ
-	Cipher:   XYZABCDEFGHIJKLMNOPQRSTUVW
+	Cipher:   DEFGHIJKLMNOPQRSTUVWXYZABC
