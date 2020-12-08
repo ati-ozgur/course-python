@@ -1,15 +1,23 @@
 def check_armstrong_number(num):
-	first = num % 10
-	num = (num - first) // 10
-	second = num % 10
-	num = (num - second) // 10
-	third = num % 10
+	temp = num
+	first = temp % 10
+	temp = (temp - first) // 10
+	second = temp % 10
+	temp = (temp - second) // 10
+	third = temp % 10
 
-	print(third,second,first)
+	val = (first ** 3) + (second ** 3) + (third ** 3)
+	#print(third,second,first)
+	return val == num
 
 
-check_armstrong_number(371)
-check_armstrong_number(999)
-check_armstrong_number(100)
+for num in range(100,1000):
+	if check_armstrong_number(num):
+		print(num)
+
+#print(check_armstrong_number(371))
+#print(check_armstrong_number(317))
+#print(check_armstrong_number(999))
+#print(check_armstrong_number(100))
 
 
