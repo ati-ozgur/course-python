@@ -10,7 +10,11 @@
 
 [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher) shifts the characters of the given string to right by three for example A becomes D.
 See below example.
-Do not forget that character in python string are also numbers.
+
+	Plain:    ABCDEFGHIJKLMNOPQRSTUVWXYZ
+	Cipher:   DEFGHIJKLMNOPQRSTUVWXYZABC
+
+Do not forget that characters in python string are also numbers.
 For this question only worry about English Upper case characters.
 
 You will need to use following python functions.
@@ -19,5 +23,3 @@ You will need to use following python functions.
 	chr
 
 
-	Plain:    ABCDEFGHIJKLMNOPQRSTUVWXYZ
-	Cipher:   DEFGHIJKLMNOPQRSTUVWXYZABC
