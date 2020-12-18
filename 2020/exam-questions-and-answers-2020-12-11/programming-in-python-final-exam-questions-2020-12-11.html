@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>programming-in-python-final-exam-questions-2020-12-11</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="programming-in-python-exam-2020-12-11">Programming in Python Exam 2020-12-11</h1>
+<h2 id="instructor-atilla-özgür">Instructor Atilla Özgür</h2>
+<ul>
+<li>Student Name:</li>
+<li>Student LastName</li>
+<li>Student No:</li>
+</ul>
+<h2 id="summary">Summary</h2>
+<p>Make a backup copy of the exam-questions folder before starting the exam. If you make a mistake, it will be easier to return back to your backup copy. Every question is worth 10 points. Question difficulty increases with question numbers.</p>
+<h2 id="question-01-wrong-arguments">Question 01 wrong arguments</h2>
+<p>Look at the question_wrong_arguments.py file. Make a copy of this file as answer_wrong_arguments.py. Fix the compile problems of this program.</p>
+<h2 id="question-02-compile-problems">Question 02 compile problems</h2>
+<p>Look at the question_tree_command.py file. Make a copy of this file as answer_tree_command.py. Fix the compile problems of this program. There are only simple (most of them one char) problems in this program. A necessary character is missing or need to replaced.</p>
+<h2 id="question-03-compile-and-logical-problems">Question 03 compile and logical problems</h2>
+<p>Look at the question_born_year.py file. Make a copy of this file as answer_born_year.py. Fix the compile and logical bugs of this program. When the code fixed, it should give an output similar to following.</p>
+<pre><code>please enter your age:
+43
+hello, you were born in 1977</code></pre>
+<h2 id="question-04-compile-and-logical-problems">Question 04 compile and logical problems</h2>
+<p>Look at the question_print_division.py file. Make a copy of this file as answer_print_division.py. Fix the compile and logical problems of this program. When the code fixed, it should give an output similar to following. Look at errors and exception handling topics in your references, if you do not know these problems.</p>
+<pre><code>Types are not compatible &lt;class &#39;str&#39;&gt; and &lt;class &#39;str&#39;&gt;, check your inputs
+Zero division error occurred, check your inputs
+result: 2.0
+else part:no error
+result: 5.0
+else part:no error</code></pre>
+<h2 id="question-05-printing-stars">Question 05 printing stars</h2>
+<p>Please write a code so that you will see the following output on the screen. Name your python file as printing_stars.py</p>
+<h3 id="star-rectangle-with-edge-5">star rectangle with edge 5</h3>
+<pre><code>*
+**
+***
+****
+*****</code></pre>
+<h2 id="question-06-list-comprehension">Question 06 list comprehension</h2>
+<p>Look at the question_summation_with_list_comprehension.py file. Make a copy of this file as answer_summation_with_list_comprehension.py. Write a <strong>one line list comprehension</strong> so that list l1 filtered and only numbers divisible by 7 in the new_list.</p>
+<pre><code>l1 = list(range(100))
+new_list = # list comprehension is here filter numbers divisible by 7
+print(sum(new_list))</code></pre>
+<p>When your code is working, output of this code should be 735.</p>
+<h2 id="question-07-2-5-10-two-five-ten">Question 07 (2 5 10) (two five ten)</h2>
+<p>Write a program that prints the numbers from 1 to 100. But for multiples of 2 print “two” instead of the number and for the multiples of 5 print “five”. For numbers which are multiples of both 2 and 10 print “ten”. Name your python file as two_five_ten.py</p>
+<h2 id="question-08-is-number-a-prime-number">Question 08 is number a prime number</h2>
+<p>Write a function named is_prime. This function should return True or False according to given input number. Name your python file as answer_is_prime.py Test your function is_prime with the numbers between 1-20.</p>
+<h2 id="question-09-find-digits-of-number">Question 09 find digits of number</h2>
+<p>Write a function named find_digits which returns digits of a given number as an list of integers. You should either use string functions/indexing for this question or mathematical operators of \ integer division or % modulus. Name your python file as answer_find_digits.py</p>
+<p>Example run</p>
+<pre><code>print(find_digits(100))
+print(find_digits(987))
+print(find_digits(121))
+print(find_digits(34543))
+print(find_digits(4567))</code></pre>
+<p>Example code</p>
+<pre><code>[1, 0, 0]
+[9, 8, 7]
+[1, 2, 1]
+[3, 4, 5, 4, 3]
+[4, 5, 6, 7]</code></pre>
+<h2 id="question-10-palindrome">Question 10 Palindrome</h2>
+<p>Definition of <strong>Palindrome</strong> from wikipedia.</p>
+<pre><code>A palindrome is a word, number, phrase, or other sequence of characters 
+which reads the same backward as forward, 
+such as taco cat or madam or racecar or the number 10801. </code></pre>
+<p>If we give some palindrome number examples:</p>
+<ul>
+<li>121</li>
+<li>3443</li>
+<li>34543</li>
+</ul>
+<p>Some not palindrome numbers</p>
+<ul>
+<li>321</li>
+<li>4567</li>
+<li>123421</li>
+</ul>
+<p>Please write a code that finds if given input number is palindrome?</p>
+<p><strong>Note</strong> Please do not use string library functions. Use the function you have written in the find_digits question. It is not a problem if you have used string functions in the find_digits.</p>
+<p>Example output:</p>
+<pre><code>Please enter a number to test: 123
+Number 123 is not a Palindrome.
+Please enter a number to test: 1221
+Number 1221 is a Palindrome.</code></pre>
+</body>
+</html>
