@@ -62,3 +62,8 @@ See [Ascii table](https://www.asciitable.com/) for answer to this question.
 - [Non-Programmer's Tutorial for Python 3/Boolean Expressions](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Boolean_Expressions)
 - [Python Booleans in w3schools.com](https://www.w3schools.com/python/python_booleans.asp)
 
+
+
+### Chaining comparison operators
+TODO
+
