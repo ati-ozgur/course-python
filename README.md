@@ -23,7 +23,7 @@ Another quote from [same 1972 talk](https://www.cs.utexas.edu/~EWD/transcription
 
 ## Lessons in 2021
 
-- [2020-09-03](2021/2020-09-03.md)
+- [2021-09-03](2021/2021-09-03.md)
 
 ## Reference Books
 
