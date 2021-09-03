@@ -18,12 +18,28 @@ Another quote from [same 1972 talk](https://www.cs.utexas.edu/~EWD/transcription
 > If it did not do so, to my taste we should not deserve the computer at all!
 
 
+## See Review Questions
+
+- [Question list 2020-12-03](course-content/questions-list.md)
+- [Question list 2020-10-29](2020/homeworks/2020-10-29-Python-Review-Questions.pdf)
 
 
 
-## Lessons in 2021
+## Lessons in 2020
 
-- [2020-09-03](2021/2020-09-03.md)
+- [2020-09-11](2020/2020-09-11.md)
+- [2020-09-18](2020/2020-09-18.md)
+- [2020-09-24](2020/2020-09-24.md)
+- [2020-10-01](2020/2020-10-01.md)
+- [2020-10-08](2020/2020-10-08.md)
+- [2020-10-15](2020/2020-10-15.md)
+- [2020-10-22](2020/2020-10-22.md)
+- [2020-10-29](2020/2020-10-29.md)
+- [2020-11-05](2020/2020-11-05.md)
+- [2020-11-12](2020/2020-11-12.md)
+- [2020-11-19](2020/2020-11-19.md)
+- [2020-11-26](2020/2020-11-26.md)
+
 
 ## Reference Books
 
