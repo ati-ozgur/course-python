@@ -31,7 +31,7 @@ if-elif-else block. This block also used similar to switch statements in other l
 ### Short example
 
 
-    n = int(input("Please enter an integer: "))
+    x = int(input("Please enter an integer: "))
     if x < 0:
         print('A negative number is entered')
     elif x == 0:
