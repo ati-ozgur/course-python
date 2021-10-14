@@ -28,6 +28,7 @@ Another quote from [same 1972 talk](https://www.cs.utexas.edu/~EWD/transcription
 - [2021-09-24](2021/2021-09-24.md)
 - [2021-10-01](2021/2021-10-01.md)
 - [2021-10-08](2021/2021-10-08.md)
+- [2021-10-15](2021/2021-10-15.md)
 
 
 
