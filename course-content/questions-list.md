@@ -35,3 +35,5 @@
 22. [Grade school multiplication table](questions/grade-school-multiplication-table.md)
 
 23. [Find the largest int value in an int array](questions/largest-value-int-array.md)
+
+24. [Repeating numbers in list](questions/repeating-numbers-in-list.md)
