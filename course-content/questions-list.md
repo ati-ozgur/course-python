@@ -32,3 +32,4 @@
 
 21. [numbers-in-list-find-statistics][questions/numbers-in-list-find-statistics.md]
 
+22. [Grade school multiplication table](questions/grade-school-multiplication-table.md)
