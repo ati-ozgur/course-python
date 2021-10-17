@@ -29,3 +29,6 @@
 19. [sentence in a frame](questions/sentence-in-a-frame.md)
 
 20. [Caesar cipher](questions/Caesar-cipher.md)
+
+21. [numbers-in-list-find-statistics][questions/numbers-in-list-find-statistics.md]
+
