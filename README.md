@@ -17,6 +17,12 @@ Another quote from [same 1972 talk](https://www.cs.utexas.edu/~EWD/transcription
 > It should deepen our understanding of the processes of design and creation; it should give us better control over the task of organizing our thoughts. 
 > If it did not do so, to my taste we should not deserve the computer at all!
 
+# Syllabus
+
+[See Syllabus](Syllabus.md)
+
+
+
 
 
 
