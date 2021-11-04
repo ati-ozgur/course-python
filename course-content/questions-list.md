@@ -40,3 +40,6 @@
 
 
 25. [Pythagoras-doubles](questions/Pythagoras-doubles.md)
+
+
+26. [Number guessing game](questions/number-guessing-game.md)
