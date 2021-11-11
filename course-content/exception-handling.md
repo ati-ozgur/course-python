@@ -53,6 +53,10 @@ See below examples
 ## try..except..else..finally
 
 
+## exception handling hierarchy
+
+see following code for [Python Error Classes](Examples(exception_handling/print_exception_hierarchy.py)
+
 
 ## Links in our references
 
