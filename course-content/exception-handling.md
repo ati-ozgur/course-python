@@ -55,7 +55,7 @@ See below examples
 
 ## exception handling hierarchy
 
-see following code for [Python Error Classes](Examples(exception_handling/print_exception_hierarchy.py)
+see [following code for Python Error Classes](./Examples(exception_handling/print_exception_hierarchy.py)
 
 
 ## Links in our references
