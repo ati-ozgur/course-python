@@ -20,3 +20,8 @@ In addition, you should [remove](https://www.w3schools.com/python/gloss_python_r
 
 
 
+## Solutions
+
+- [Video of the solution](https://youtu.be/GwjrQY4EHVE)
+- [code of the solution](solutions/Bulgarian_solitaire.py)
+
