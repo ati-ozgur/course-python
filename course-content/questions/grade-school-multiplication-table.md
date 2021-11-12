@@ -10,3 +10,8 @@ For example below is the output for 3
 	3   6   9
 
 
+
+## Solutions
+
+- [Video of the solution](https://youtu.be/kivqfygMGYU)
+- [code of the solution](solutions/grade_school_multiplication_table.py)
