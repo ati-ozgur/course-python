@@ -163,3 +163,5 @@ In general, any tree structure are more easily solved using recursion.
 - [Recursion video 1](https://www.youtube.com/watch?v=zbfRgC3kukk)
 
 - [Recursion video 2](https://www.youtube.com/watch?v=seUpFY_m-us)
+
+- [Recursion video 3](https://youtu.be/TO4-Px3T9Zs)
