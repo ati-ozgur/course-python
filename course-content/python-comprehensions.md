@@ -54,7 +54,7 @@ int_list = [int(x) for x in str_list]
 
 ## Video Tutorials
 
-
+- a good [video tutorial](https://youtu.be/1HlyKKiGg-4)
 
 
 
