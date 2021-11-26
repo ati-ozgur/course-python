@@ -39,6 +39,7 @@ Another quote from [same 1972 talk](https://www.cs.utexas.edu/~EWD/transcription
 - [2021-11-05](2021/2021-11-05.md)
 - [2021-11-12](2021/2021-11-12.md)
 - [2021-11-19](2021/2021-11-19.md)
+- [2021-11-26](2021/2021-11-26.md)
 
 
 
