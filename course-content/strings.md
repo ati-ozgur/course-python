@@ -4,8 +4,19 @@
 Strings are defined using either double quotes "" or single quotes. ''
 
 
-    name1 = "atilla"
-    name2 = 'atilla'
+    name1 = "Atilla"
+    name2 = 'Atilla'
+
+
+- If you need to use single quote in your string, use double quote for enclosing your string
+
+    ex1 = "Atilla's Car"
+
+- If you need to use double quote in your string, use single quote for enclosing your string
+
+    ex2 = 'Atilla said that "please open your notebooks"'
+
+
 
 
 Multiline string are defined using 3 quotes.
@@ -137,3 +148,5 @@ Out[10]: 'illa'
 ## Video Tutorials
 
 - [Video Tutorial Strings](https://www.youtube.com/watch?v=UsCQXe1OHZk)
+
+- [Python Single vs. Double Quotes - Which Should You Use And Why? | Better Data Science](https://www.youtube.com/watch?v=yR384WW0kOg&t=3s)
