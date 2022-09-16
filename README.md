@@ -30,7 +30,7 @@ Another quote from [same 1972 talk](https://www.cs.utexas.edu/~EWD/transcription
 ## Lessons in 2022
 
 - [2022-09-09](2022/2022-09-09.md)
-
+- [2022-09-16](2022/2022-09-16.md)
 
 ## Reference Books
 
