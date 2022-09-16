@@ -39,8 +39,25 @@ See [Ascii table](https://www.asciitable.com/) for answer to this question.
 ### Logical operators and, or, not
 
 - and operator returns true if both sides are true
+
+|       |       | AND   |
+|-------|-------|-------|
+| True  | True  | True  |
+| True  | False | False |
+| False | True  | False |
+| False | False | False |
+
 - or operator return trues if one of the sides are true
-- not reverse the boolean, False -> True, True -> False
+
+|       |       | OR    |
+|-------|-------|-------|
+| True  | True  | True  |
+| True  | False | True |
+| False | True  | True |
+| False | False | False |
+
+- not reverse the boolean, 
+	False -> True, True -> False
 
 
 	In [1]: birth_year = 1999
