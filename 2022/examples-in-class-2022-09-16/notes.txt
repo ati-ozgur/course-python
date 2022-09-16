@@ -1,0 +1,5 @@
+why we need programmer editor
+- see whitespace 
+- color syntax
+- show simple errors
+
