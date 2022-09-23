@@ -8,11 +8,18 @@ Strings are defined using either double quotes "" or single quotes. ''
     name2 = 'Atilla'
 
 
-- If you need to use single quote in your string, use double quote for enclosing your string
+If we need to use single quote inside a string enclosed by single quotes, we need to escape it using backslash \ character.
+Like below:
+
+    name2 = 'Atilla\'s Car'
+
+To avoid using escape characters, it is recommended that:
+
+- use double quote for enclosing your string, if you need to use single quote in your string, 
 
     ex1 = "Atilla's Car"
 
-- If you need to use double quote in your string, use single quote for enclosing your string
+- use single quote for enclosing your string, if you need to use double quote in your string, 
 
     ex2 = 'Atilla said that "please open your notebooks"'
 
