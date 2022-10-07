@@ -32,7 +32,7 @@ Another quote from [same 1972 talk](https://www.cs.utexas.edu/~EWD/transcription
 - [2022-09-09](2022/2022-09-09.md)
 - [2022-09-16](2022/2022-09-16.md)
 - [2022-09-23](2022/2022-09-23.md)
-
+- [2022-09-30 postponed](2022/2022-09-30.md)
 
 
 ## Reference Books
