@@ -44,3 +44,13 @@ See following example.
 	----> 1 abs(-2.0)
 
 	TypeError: 'int' object is not callable
+
+
+## How to remember them built in function names
+
+You do not have to remember names of the built in functions, you may always look at them from python documentation or your python itself.
+If we write following in the interactive shell, we should see a big list. 
+All of the lowercase names in this list are built in functions.
+Try and see it.
+
+	dir(__builtins__)
