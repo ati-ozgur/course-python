@@ -36,6 +36,8 @@ Another quote from [same 1972 talk](https://www.cs.utexas.edu/~EWD/transcription
 - [2022-10-07](2022/2022-10-07.md)
 - [2022-10-14](2022/2022-10-14.md)
 - [2022-10-21 postponed](2022/2022-10-21.md)
+- [2022-10-28](2022/2022-10-28.md)
+
 
 ## Reference Books
 
