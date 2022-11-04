@@ -4,7 +4,14 @@
 [PIP](https://pip.pypa.io/en/stable/) is the package installer for python.
 It is the default and most used tool for installing other packages.
 
-Normally, you install packages from [Python Package Index](https://pypi.org/) but you can also install from
+Normally, you install packages from [Python Package Index](https://pypi.org/).
+You can search for packages in its own web site.
+As of 2022-11, python package index had more than 400_000 projects.
+
+
+But you can also install from
+
+
 
 - project files itself
 	
