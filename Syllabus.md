@@ -27,7 +27,7 @@
 - [list indexing](course-content/indexing-list.md)
 - [string indexing](course-content/indexing-string.md)
 - [Functions](course-content/functions.md)
-- [Function arguments](course-content/function-arguments)
+- [Function arguments](course-content/function-arguments.md)
 - [Recursive Functions](course-content/recursion.md)
 - [Dictionaries](course-content/python-dictionary.md)
 - [string module](https://docs.python.org/3/library/string.html)
