@@ -32,7 +32,7 @@
 - [Dictionaries](course-content/python-dictionary.md)
 - [string module](https://docs.python.org/3/library/string.html)
 - [random numbers](https://docs.python.org/3/library/random.html)
-- [read files in python]
+- [read/write files in python](course-content/file-input-output.md)
 - [creation of our own modules](course-content/modules.md)
 - [PIP](course-content/PIP.md)
 - [using other people's modules/packages](course-content/using-other-modules-packages.md)
