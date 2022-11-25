@@ -32,8 +32,8 @@ Another interesting example.
 Change a list of strings to list of integers
 
 
-str_list = ["1", "2", "3", "4", "5"]
-int_list = [int(x) for x in str_list]
+	str_list = ["1", "2", "3", "4", "5"]
+	int_list = [int(x) for x in str_list]
 
 
 ## Dictionary Comprehensions
