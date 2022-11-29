@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "Programming in Python"
+  author: "Atilla Özgür"
+  cover-image: cover.png
+  date: today
+  date-format: "YYYY-MM-DD"
+  chapters:
+    - index.md
+    - intro.md
+    - Syllabus.md
+    - summary.md
+    - references.md
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
