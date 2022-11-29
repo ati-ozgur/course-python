@@ -1,4 +1,4 @@
-## strings
+# strings
 
 
 Strings are defined using either double quotes "" or single quotes. ''

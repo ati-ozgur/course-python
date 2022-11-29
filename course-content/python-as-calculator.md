@@ -1,4 +1,4 @@
-## python as a calculator
+# python as a calculator
 
 
 Python can be used a calculator. 

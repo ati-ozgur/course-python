@@ -1,3 +1,0 @@
-variable-scope.md
-
-

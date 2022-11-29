@@ -1,4 +1,4 @@
-## Conditionals Statements (if-elif-else)
+# Conditionals Statements (if-elif-else)
 
 
 Python uses if, elif and else statements for branching operations
