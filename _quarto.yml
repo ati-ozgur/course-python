@@ -24,24 +24,24 @@ book:
     - course-content/python-as-calculator.md
     - course-content/basic-data-types.md
     - course-content/variables.md
-    # - course-content/comparisons-boolean-variables.md
+    - course-content/comparisons-boolean-variables.md
     - course-content/conditionals-statements.md
     - course-content/strings.md
     - course-content/f-strings.md
     - course-content/simple-function-definition.md
     - course-content/importing-modules.md
     - course-content/loop-intution.md
-    #- course-content/loop-statements-while.md
-    #- course-content/loop-statements-for.md
-    #- course-content/loop-statements.md
-    #- course-content/python-list.md
-    #- course-content/python-range.md
-    #- course-content/indexing-list.md
-    #- course-content/indexing-string.md
-    #- course-content/functions.md
-    #- course-content/function-arguments.md
-    #- course-content/recursion.md
-    #- course-content/python-dictionary.md
+    - course-content/loop-statements-while.md
+    - course-content/loop-statements-for.md
+    - course-content/loop-statements.md
+    - course-content/python-list.md
+    - course-content/python-range.md
+    - course-content/indexing-list.md
+    - course-content/indexing-string.md
+    - course-content/functions.md
+    - course-content/function-arguments.md
+    - course-content/recursion.md
+    - course-content/python-dictionary.md
     - course-content/file-input-output.md
     - course-content/modules.md
     - course-content/PIP.md
