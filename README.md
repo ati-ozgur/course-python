@@ -41,6 +41,8 @@ Another quote from [same 1972 talk](https://www.cs.utexas.edu/~EWD/transcription
 - [2022-11-11](2022/2022-11-11.md)
 - [2022-11-18](2022/2022-11-18.md)
 - [2022-11-25](2022/2022-11-25.md)
+- [2022-12-02](2022/2022-12-02.md)
+- [2022-12-10 Extra Lesson](2022/2022-12-10.md) 
 
 ## Reference Books
 
