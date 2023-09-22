@@ -24,7 +24,7 @@ Another quote from [same 1972 talk](https://www.cs.utexas.edu/~EWD/transcription
 
 ## Lessons in 2023
 
-- [2022-09-09](2022/2022-09-09.md)
+- [2023-09-22](2023/2023-09-22.md)
 
 
 ## Reference Books
