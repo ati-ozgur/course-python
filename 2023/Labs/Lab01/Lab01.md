@@ -16,6 +16,12 @@ Ask user for their name, birthday and country information and print this informa
 You should use standard summation formula in the calculation
 You do not need loop.
 
+Summation formula is below:
+
+![](../../../course-content/images/summation-formula.svg)
+
+
+
 ## Question 04: Greatest among 3 numbers
 
 Please write a program which find the greatest number among three numbers.
