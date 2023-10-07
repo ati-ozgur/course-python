@@ -16,6 +16,21 @@ Ask user for their name, birthday and country information and print this informa
 You should use standard summation formula in the calculation
 You do not need loop.
 
+## Question: Greatest among 3 numbers
+
+Please write a program which find the greatest number among three numbers.
+You will ask the user for these three numbers and print greatest of them in the screen.
+
+
+## Question: simple error 1
+
+please look at [wrong_code1.py](wrong_code1.py). Fix its errors so that it runs correctly.
+
+
+## Question: simple error 2
+
+please look at [wrong_code2.py](wrong_code2.py). Fix its errors so that it runs correctly. There are logical errors on this code.
+
 ## Question: simple random password
 
 Create simple program which will print out random password of length 8 in the screen.
