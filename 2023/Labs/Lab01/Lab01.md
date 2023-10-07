@@ -16,6 +16,28 @@ Ask user for their name, birthday and country information and print this informa
 You should use standard summation formula in the calculation
 You do not need loop.
 
+## Question: simple random password
+
+Create simple program which will print out random password of length 8 in the screen.
+You do not need loops for simple solution of this question.
+
+following code snippets are useful:
+
+	import string
+	print(string.printable)
+	print(string.printable[25])
+	print(string.ascii_letters)
+	print(string.ascii_letters[20])
+
+
+Python [random module](https://docs.python.org/3/library/random.html) is also necessary.
+
+We can use following code to get [random integers](https://www.w3schools.com/python/ref_random_randint.asp):
+
+	import random
+	print(random.randint(3, 9)) 
+
+
 ## Question: generation nickname
 
 4. Ask user for their birth year and print out generation nickname.
@@ -35,7 +57,34 @@ For example Baby Boomers: Baby boomers were born between 1946 and 1964; therefor
 
 You have born in 1960. You are a baby boomer.
 
+
+## Question: Palindrome
+
+**Palindrome** from wikipedia.
+
+    A palindrome is a word, number, phrase, or other sequence of characters 
+    which reads the same backward as forward, such as taco cat or madam or racecar or the number 10801. 
+
+
+Please write a code that finds if given input is a palindrome. 
+For example: efe,  hannah, ava, anna are palindromes.
+Test your code with above examples and test with at least 3 different non-Palindrome examples.
+nixon, example, xxxzz
+For our purposes space and whitespace characters are distinct characters; therefore, "taco cat" is not a palindrome.
+
+Example output: 
+
+    Please enter a input to test for palindrome: 123
+    Input text 123 is not a Palindrome.
+
+    Please enter a input to test for palindrome: 1221
+    Input text 1221 is a Palindrome.
+
+    Please enter a input to test for palindrome: madam
+    Input text madam is a Palindrome.
+
 ## Question:  Write a number guess game. 
+
 At the start of your program, you will choose a random integer between 0-100. 
 Your user will try to find this number.
 You will answer guesses from your user as:
