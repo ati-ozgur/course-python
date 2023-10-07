@@ -56,6 +56,8 @@ We can use following code to get [random integers](https://www.w3schools.com/pyt
 ## Question: generation nickname
 
 4. Ask user for their birth year and print out generation nickname.
+
+
 | Generation nickname     |  years            |
 |-------------------------|-------------------|
 | The Greatest Generation | born 1901 to 1924 |
