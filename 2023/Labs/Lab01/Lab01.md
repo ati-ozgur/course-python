@@ -78,38 +78,3 @@ For example Baby Boomers: Baby boomers were born between 1946 and 1964; therefor
 
 You have born in 1960. You are a baby boomer.
 
-
-## Question 09: Palindrome
-
-**Palindrome** from wikipedia.
-
-    A palindrome is a word, number, phrase, or other sequence of characters 
-    which reads the same backward as forward, such as taco cat or madam or racecar or the number 10801. 
-
-
-Please write a code that finds if given input is a palindrome. 
-For example: efe,  hannah, ava, anna are palindromes.
-Test your code with above examples and test with at least 3 different non-Palindrome examples.
-nixon, example, xxxzz
-For our purposes space and whitespace characters are distinct characters; therefore, "taco cat" is not a palindrome.
-
-Example output: 
-
-    Please enter a input to test for palindrome: 123
-    Input text 123 is not a Palindrome.
-
-    Please enter a input to test for palindrome: 1221
-    Input text 1221 is a Palindrome.
-
-    Please enter a input to test for palindrome: madam
-    Input text madam is a Palindrome.
-
-## Question 10:  Write a number guess game. 
-
-At the start of your program, you will choose a random integer between 0-100. 
-Your user will try to find this number.
-You will answer guesses from your user as:
-	- too low
-	- too high
-	- you have found the number
-
