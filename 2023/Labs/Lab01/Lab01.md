@@ -45,8 +45,6 @@ You do not need loops for simple solution of this question.
 following code snippets are useful:
 
 	import string
-	print(string.printable)
-	print(string.printable[25])
 	print(string.ascii_letters)
 	print(string.ascii_letters[20])
 
