@@ -25,7 +25,9 @@ Another quote from [same 1972 talk](https://www.cs.utexas.edu/~EWD/transcription
 ## Lessons in 2023
 
 - [2023-09-22](2023/2023-09-22.md)
-
+- [2023-09-29 Postponed](2023/2023-09-29.md)
+- [2023-10-06](2023/2023-10-06.md)
+- [2023-10-07](2023/2023-10-07.md)
 
 ## Reference Books
 
