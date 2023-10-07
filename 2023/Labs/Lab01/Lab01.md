@@ -2,36 +2,36 @@
 
 Questions goes from simpler to harder.
 
-## Question: Simple Hello World
+## Question 01: Simple Hello World
 
 Please write a simple hello world example with saying your full name and your country of origin.
 
-## Question: Print
+## Question 02: Print
 
 Ask user for their name, birthday and country information and print this information in the screen.
 
-## Question: summation
+## Question 03: summation
 
  write a code that find summation of 1..N, where N is an integer given by a user.
 You should use standard summation formula in the calculation
 You do not need loop.
 
-## Question: Greatest among 3 numbers
+## Question 04: Greatest among 3 numbers
 
 Please write a program which find the greatest number among three numbers.
 You will ask the user for these three numbers and print greatest of them in the screen.
 
 
-## Question: simple error 1
+## Question 05: simple error 1
 
 please look at [wrong_code1.py](wrong_code1.py). Fix its errors so that it runs correctly.
 
 
-## Question: simple error 2
+## Question 06: simple error 2
 
 please look at [wrong_code2.py](wrong_code2.py). Fix its errors so that it runs correctly. There are logical errors on this code.
 
-## Question: simple random password
+## Question 07: simple random password
 
 Create simple program which will print out random password of length 8 in the screen.
 You do not need loops for simple solution of this question.
@@ -53,9 +53,9 @@ We can use following code to get [random integers](https://www.w3schools.com/pyt
 	print(random.randint(3, 9)) 
 
 
-## Question: generation nickname
+## Question 08: generation nickname
 
-4. Ask user for their birth year and print out generation nickname.
+Ask user for their birth year and print out generation nickname.
 
 
 | Generation nickname     |  years            |
@@ -75,7 +75,7 @@ For example Baby Boomers: Baby boomers were born between 1946 and 1964; therefor
 You have born in 1960. You are a baby boomer.
 
 
-## Question: Palindrome
+## Question 09: Palindrome
 
 **Palindrome** from wikipedia.
 
@@ -100,7 +100,7 @@ Example output:
     Please enter a input to test for palindrome: madam
     Input text madam is a Palindrome.
 
-## Question:  Write a number guess game. 
+## Question 10:  Write a number guess game. 
 
 At the start of your program, you will choose a random integer between 0-100. 
 Your user will try to find this number.
