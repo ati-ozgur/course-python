@@ -33,7 +33,7 @@ If we write this in python code.
 
 	index = 1
 	total = 0
-	while index < 10:
+	while index <= 10:
 		total = total + index
 		index = index + 1
 
@@ -46,7 +46,7 @@ change it so that it works with 1..N
 	index = 1
 	last_number = 10
 	total = 0
-	while index < last_number:
+	while index <= last_number:
 		total = total + index
 		index = index + 1
 
