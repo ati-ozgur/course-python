@@ -81,7 +81,42 @@ Example output:
     Please enter a input to test for palindrome: madam
     Input text madam is a Palindrome.
 
-## Question 06:  Write a number guess game. 
+
+
+## Question 06 1..N Summation - ( 10 points)
+
+Write a python code that gets an input number N from user and finds summation 1..N only divisible by 3 numbers.
+For example, N = 10, then summation is 3+6+9 = 18.
+
+
+
+## Question 07 (3 5 15) (three five fifteen) 
+
+Write a program which prints the numbers up to 100.
+For every number, your program should write normal number, but numbers divisible by three it should print out English word three, for numbers divisible by 5, it should print out English word five and for numbers divisible by 15, it should print out fifteen.
+An example output is below:
+
+	1
+	2
+	three
+	4
+	five
+	three
+	7
+	8
+	three
+	five
+	11
+	three
+	13
+	14
+	fifteen
+	16
+	17
+
+
+
+## Question 08:  Write a number guess game. 
 
 At the start of your program, you will choose a random integer between 0-100. 
 Your user will try to find this number.
