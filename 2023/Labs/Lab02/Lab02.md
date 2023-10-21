@@ -56,7 +56,32 @@ There are logical errors on this code.
 
 
 
-## Question 05: Palindrome
+
+## Question 05 star pyramid
+
+Write a simple program, which asks the user for a number N.
+According to number, which prints out star pyramid.
+
+An example run:
+
+Please enter a number: 5
+
+	*
+	**
+	***
+	****
+	*****
+
+
+
+
+## Question 06 1..N Summation - ( 10 points)
+
+Write a python code that gets an input number N from user and finds summation 1..N only divisible by 3 numbers.
+For example, N = 10, then summation is 3+6+9 = 18.
+
+
+## Question 07: Palindrome
 
 **Palindrome** from wikipedia.
 
@@ -80,29 +105,6 @@ Example output:
 
     Please enter a input to test for palindrome: madam
     Input text madam is a Palindrome.
-
-## Question 06 star pyramid
-
-Write a simple program, which asks the user for a number N.
-According to number, which prints out star pyramid.
-
-An example run:
-
-Please enter a number: 5
-*
-**
-***
-****
-*****
-
-
-
-
-## Question 07 1..N Summation - ( 10 points)
-
-Write a python code that gets an input number N from user and finds summation 1..N only divisible by 3 numbers.
-For example, N = 10, then summation is 3+6+9 = 18.
-
 
 
 ## Question 08 (3 5 15) (three five fifteen) 
