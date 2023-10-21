@@ -81,16 +81,31 @@ Example output:
     Please enter a input to test for palindrome: madam
     Input text madam is a Palindrome.
 
+## Question 06 star pyramid
+
+Write a simple program, which asks the user for a number N.
+According to number, which prints out star pyramid.
+
+An example run:
+
+Please enter a number: 5
+*
+**
+***
+****
+*****
 
 
-## Question 06 1..N Summation - ( 10 points)
+
+
+## Question 07 1..N Summation - ( 10 points)
 
 Write a python code that gets an input number N from user and finds summation 1..N only divisible by 3 numbers.
 For example, N = 10, then summation is 3+6+9 = 18.
 
 
 
-## Question 07 (3 5 15) (three five fifteen) 
+## Question 08 (3 5 15) (three five fifteen) 
 
 Write a program which prints the numbers up to 100.
 For every number, your program should write normal number, but numbers divisible by three it should print out English word three, for numbers divisible by 5, it should print out English word five and for numbers divisible by 15, it should print out fifteen.
@@ -116,7 +131,7 @@ An example output is below:
 
 
 
-## Question 08:  Write a number guess game. 
+## Question 09:  Write a number guess game. 
 
 At the start of your program, you will choose a random integer between 0-100. 
 Your user will try to find this number.
