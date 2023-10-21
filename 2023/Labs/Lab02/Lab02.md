@@ -4,7 +4,7 @@ Questions goes from simpler to harder.
 
 ## Question 01: Input and Print 1
 
-Ask the use following inputs in different lines.
+Ask the user following inputs in different lines.
 	
 	- Their name
 	- Their birth year
