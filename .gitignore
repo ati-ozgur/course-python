@@ -1,4 +1,5 @@
 _book/*
+_site_libs/*
 course-content/*.html
 # Byte-compiled / optimized / DLL files
 __pycache__/
