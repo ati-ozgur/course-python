@@ -12,8 +12,8 @@ book:
     - intro.md
     #- Syllabus.md
     - course-content/online-interpreters.md
-    - course-content/python-hello-world.md
     - course-content/python-installation.md
+    - course-content/python-hello-world.md
     - course-content/command-line.md
     - course-content/getting-started.md
     - course-content/programmers-text-editor.md
