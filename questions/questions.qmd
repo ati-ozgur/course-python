@@ -7,6 +7,8 @@
 {{< include ./summation-with-formula.md >}}
 
 
+{{< include ./greatest-among-3-numbers.md >}}
+
 
 {{< include ./three-five-fifteen.md >}}
 
