@@ -1,4 +1,4 @@
-## Question 07 (3 5 15) (three five fifteen) 
+## (3 5 15) (three five fifteen) 
 
 This question is a [very common interview question](http://wiki.c2.com/?FizzBuzzTest)
 
