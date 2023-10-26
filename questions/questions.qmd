@@ -1,5 +1,11 @@
 # Questions to solve
 
 
+{{< include ./simple-hello-world.md >}}
+{{< include ./input-name-birthday-country.md >}}
+
+
+
+
 {{< include ./three-five-fifteen.md >}}
 
