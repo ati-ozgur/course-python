@@ -2,9 +2,13 @@
 
 
 {{< include ./simple-hello-world.md >}}
+
 {{< include ./input-name-birthday-country.md >}}
 
 {{< include ./input-print2.md >}}
+
+{{< include ./input-celsius-to-fahrenheit-and-fahrenheit-to-celsius.md >}}
+
 
 
 
