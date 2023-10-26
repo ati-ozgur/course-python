@@ -10,5 +10,12 @@
 {{< include ./greatest-among-3-numbers.md >}}
 
 
+{{< include ./simple-error1.md >}}
+{{< include ./simple-error2.md >}}
+
+
+{{< include ./simple-random-password1.md >}}
+
 {{< include ./three-five-fifteen.md >}}
+
 
