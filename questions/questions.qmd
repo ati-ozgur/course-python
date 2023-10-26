@@ -24,6 +24,11 @@
 {{< include ./simple-error2.md >}}
 
 
+{{< include ./simple-error3.md >}}
+
+{{< include ./simple-error4.md >}}
+
+
 {{< include ./simple-random-password1.md >}}
 
 
