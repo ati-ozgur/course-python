@@ -18,6 +18,10 @@
 
 {{< include ./simple-random-password1.md >}}
 
+
+{{< include ./generation-nickname1.md >}}
+
+
 {{< include ./three-five-fifteen.md >}}
 
 
