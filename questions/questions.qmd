@@ -38,3 +38,11 @@
 {{< include ./three-five-fifteen.md >}}
 
 
+{{< include ./star-pyramid1.md >}}
+
+{{< include ./one-to-n-summation-divisible-by-3.md >}}
+
+{{< include ./number-guess-game.md >}}
+
+
+{{< include ./palindrome1.md >}}

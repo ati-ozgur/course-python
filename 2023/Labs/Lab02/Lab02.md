@@ -1,4 +1,4 @@
-# Lab01 2023-10-21
+# Lab02 2023-10-21
 
 Questions goes from simpler to harder.
 
