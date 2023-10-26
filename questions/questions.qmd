@@ -4,6 +4,10 @@
 {{< include ./simple-hello-world.md >}}
 {{< include ./input-name-birthday-country.md >}}
 
+{{< include ./input-print2.md >}}
+
+
+
 {{< include ./summation-with-formula.md >}}
 
 
