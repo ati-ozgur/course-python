@@ -48,6 +48,7 @@ book:
     - course-content/using-other-modules-packages.md
     - course-content/exception-handling.md
     - course-content/python-comprehensions.md
+    - course-content/useful-python-code-snippets.md
     #- course-content/python-object-oriented-programming.md    
     - summary.md
     - questions/questions.qmd
