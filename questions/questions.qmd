@@ -4,6 +4,7 @@
 {{< include ./simple-hello-world.md >}}
 {{< include ./input-name-birthday-country.md >}}
 
+{{< include ./summation-with-formula.md >}}
 
 
 
