@@ -50,6 +50,7 @@ book:
     - course-content/python-comprehensions.md
     #- course-content/python-object-oriented-programming.md    
     - summary.md
+    - questions/questions.qmd
     - references.md
 
 bibliography: references.bib
