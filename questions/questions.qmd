@@ -46,3 +46,7 @@
 
 
 {{< include ./palindrome1.md >}}
+
+
+{{< include ./input-loop-exception-handling-find-age.md >}}
+
