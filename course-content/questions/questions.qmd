@@ -53,7 +53,7 @@ Next: 2019/Lab03
 {{< include ./input-loop-exception-handling-find-age.md >}}
 
 
-{{< include ./Armstrong-number.md.md >}}
+{{< include ./Armstrong-number.md >}}
 
 
 {{< include ./Bulgarian-solitaire.md >}}
