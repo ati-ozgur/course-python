@@ -1,3 +1,5 @@
+*.html
+site_libs/*
 *.pdf
 *.aux
 *.tex
