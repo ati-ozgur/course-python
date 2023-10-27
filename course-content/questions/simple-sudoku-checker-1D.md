@@ -1,4 +1,4 @@
-# simple-sudoku-checker
+## simple-sudoku-checker
 
 Write a simple function which check if a given list obeys the rules of sudoku.
 In a sudoku puzzle game, a given a list can only contains numbers between 1 to 9. 

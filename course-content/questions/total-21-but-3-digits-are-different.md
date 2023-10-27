@@ -8,7 +8,7 @@ For example, 498, 786, 948 fit this definition.
 According to this definition, how many different natural numbers can be written?
 
 
-## Solutions
+### Solutions
 
 - [Video of the solution](https://youtu.be/M3q4aq02BIg)
 - [code of the solution 1](solutions/digit_total_of_21.py)
