@@ -1,4 +1,4 @@
-# Number Guessing game
+## Number Guessing game
 
 At the start of the game, create a random number using following code.
 

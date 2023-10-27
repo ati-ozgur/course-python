@@ -1,4 +1,4 @@
-# Find sum(1..n) > total
+## Find sum(1..n) > total
 
 get an input from user a number named total.
 Sum the numbers starting from 1 to n till they are greater than this total.

@@ -1,4 +1,4 @@
-# list of digits
+## list of digits
 
 Write a python function with one input number.
 This function returns a list of digits of input number.

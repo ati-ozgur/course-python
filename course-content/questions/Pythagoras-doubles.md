@@ -1,4 +1,4 @@
-# Pythagoras-doubles.md
+## Pythagoras-doubles.md
 
 find list of two number tuples their squared addition is also squared number.
 

@@ -1,4 +1,4 @@
-# digit total of 21 but all 3 digits are different
+## digit total of 21 but all 3 digits are different
 
 
 You are asked to find 3-digit numbers which have a digit summation of 21.

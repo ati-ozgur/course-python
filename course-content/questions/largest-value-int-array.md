@@ -1,4 +1,4 @@
-# Find the largest int value in an int array
+## Find the largest int value in an int array
 
 Write a function which accepts and int array as an input like below:
 

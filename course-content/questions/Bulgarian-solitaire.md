@@ -1,4 +1,4 @@
-# Bulgarian solitaire
+## Bulgarian solitaire
 
 In the [Bulgarian solitaire](https://en.wikipedia.org/wiki/Bulgarian_solitaire), you have card list of size 52.
 Cards in this list have value between 1 and 52.

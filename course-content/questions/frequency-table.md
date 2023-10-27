@@ -1,4 +1,4 @@
-# Create frequency table
+## Create frequency table
 extract following compressed file [animals.7z](animals.7z) in your computer.
 Read the file using python file functions.
 And create a following frequency table and print it out.

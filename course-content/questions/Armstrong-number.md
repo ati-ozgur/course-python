@@ -1,4 +1,4 @@
-# Armstrong number
+## Armstrong number
 
 1. 
 

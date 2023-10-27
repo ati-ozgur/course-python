@@ -1,4 +1,4 @@
-# sentence-in-a-frame
+## sentence-in-a-frame
 
 Write a function that takes two input, sentence and frame character.
 This function should return a multiline string which surrounds every word in the sentence with a frame character.
