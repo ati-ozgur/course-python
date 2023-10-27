@@ -52,3 +52,23 @@ Next: 2019/Lab03
 
 {{< include ./input-loop-exception-handling-find-age.md >}}
 
+
+{{< include ./Armstrong-number.md.md >}}
+
+
+{{< include ./Bulgarian-solitaire.md >}}
+{{< include ./Caesar-cipher.md >}}
+{{< include ./frequency-table.md >}}
+{{< include ./grade-school-multiplication-table.md >}}
+{{< include ./largest-value-int-array.md >}}
+{{< include ./list-of-digits.md >}}
+{{< include ./n-th-prime.md >}}
+{{< include ./number-guessing-game.md >}}
+{{< include ./numbers-in-list-find-statistics.md >}}
+{{< include ./Pig-Latin.md >}}
+{{< include ./Pythagoras-doubles.md >}}
+{{< include ./repeating-numbers-in-list.md >}}
+{{< include ./sentence-in-a-frame.md >}}
+{{< include ./simple-sudoku-checker-1D.md >}}
+solutions
+{{< include ./total-21-but-3-digits-are-different.md >}}
