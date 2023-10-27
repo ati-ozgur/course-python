@@ -1,6 +1,6 @@
 # Questions to solve
 
-Next: 2019/Lab03
+Next: 2019/Lab04
 
 
 {{< include ./simple-hello-world.md >}}
@@ -51,6 +51,9 @@ Next: 2019/Lab03
 
 
 {{< include ./input-loop-exception-handling-find-age.md >}}
+
+{{< include ./question_total_break1.md >}}
+
 
 
 {{< include ./Armstrong-number.md >}}
