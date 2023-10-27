@@ -1,3 +1,7 @@
+*.pdf
+*.aux
+*.tex
+*.toc
 _book/*
 _site_libs/*
 course-content/*.html
