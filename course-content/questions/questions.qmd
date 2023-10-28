@@ -72,6 +72,10 @@ Next: 2019/Lab05
 {{< include ./find-max-and-min-in-a-list-of-numbers.md >}}
 
 
+{{< include ./find-sum-between-indexes.md >}}
+
+{{< include ./missing-number-in-list.md >}}
+
 
 {{< include ./input-loop-exception-handling-find-age.md >}}
 
