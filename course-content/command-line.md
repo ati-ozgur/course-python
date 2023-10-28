@@ -1,10 +1,19 @@
 # command-line
 
 Command line is where we execute our python programs.
-
-
+You can see an example of command line in linux below:
 
 ![Command Line Linux](images/command-line-linux.png)
+
+We can open command line in windows two ways.
+
+1. Using run menu, use Windows+R and write cmd
+
+
+![run cmd](images/cmd-open1.png)
+
+![cmd example window](images/cmd-example.png)
+
 
 
 After we open command line (windows) / Terminal (MacOS), we go to directory of our source files and run following command.
