@@ -43,7 +43,10 @@ Next: 2019/Lab05
 {{< include ./three-five-fifteen.md >}}
 
 
-{{< include ./star-pyramid1.md >}}
+{{< include ./star-triangle-1.md >}}
+
+{{< include ./star-pyramid-1.md >}}
+
 
 {{< include ./one-to-n-summation-divisible-by-3.md >}}
 
