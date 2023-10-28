@@ -47,6 +47,9 @@ Next: 2019/Lab04
 {{< include ./number-guess-game.md >}}
 
 
+{{< include ./project-Euler-question-1.md >}}
+
+
 {{< include ./palindrome1.md >}}
 
 
