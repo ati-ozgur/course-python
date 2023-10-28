@@ -17,7 +17,7 @@ Easiest way to solve this problem is to use data structure, we learned in this l
 
 
 
-## Solutions
+### Solutions
 
 - [Video of the solution](https://youtu.be/FKOxM7YEtvc)
 - [code of the solution 1](solutions/frequency_table1.py)
