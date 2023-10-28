@@ -1,6 +1,6 @@
 # Questions to solve
 
-Next: 2019/Lab04
+Next: 2019/Lab05
 
 
 {{< include ./simple-hello-world.md >}}
@@ -18,6 +18,9 @@ Next: 2019/Lab04
 
 
 {{< include ./greatest-among-3-numbers.md >}}
+
+
+{{< include ./lucky-number.md >}}
 
 
 {{< include ./simple-error1.md >}}
@@ -51,6 +54,13 @@ Next: 2019/Lab04
 
 
 {{< include ./palindrome1.md >}}
+
+{{< include ./palindrome-number.md >}}
+
+
+
+{{< include ./find-max-and-min-in-a-list-of-numbers.md >}}
+
 
 
 {{< include ./input-loop-exception-handling-find-age.md >}}
