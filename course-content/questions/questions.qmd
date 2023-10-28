@@ -52,10 +52,17 @@ Next: 2019/Lab05
 
 {{< include ./project-Euler-question-1.md >}}
 
+{{< include ./project-Euler-question-2.md >}}
+
+
 
 {{< include ./palindrome1.md >}}
 
 {{< include ./palindrome-number.md >}}
+
+
+{{< include ./digit-summation-of-any-integer-number.md >}}
+
 
 
 
