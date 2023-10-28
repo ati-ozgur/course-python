@@ -47,6 +47,8 @@ Next: 2019/Lab05
 
 {{< include ./star-pyramid-1.md >}}
 
+{{< include ./star-rhombus-1.md >}}
+
 
 {{< include ./one-to-n-summation-divisible-by-3.md >}}
 
