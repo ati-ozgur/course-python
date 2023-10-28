@@ -64,6 +64,9 @@ Next: 2019/Lab05
 {{< include ./palindrome-number.md >}}
 
 
+{{< include ./high-light-word.md >}}
+
+
 {{< include ./digit-summation-of-any-integer-number.md >}}
 
 
