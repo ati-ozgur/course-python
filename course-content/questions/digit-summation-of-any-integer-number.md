@@ -1,4 +1,4 @@
-# Digit summation of any integer number
+## Digit summation of any integer number
 
 entered_number = 190837523478
 

@@ -1,4 +1,4 @@
-# Find Lucky Number
+##  Find Lucky Number
 
 Your lucky number is a number between 1 and 9. 
 You can find your lucky number via following procedure:
