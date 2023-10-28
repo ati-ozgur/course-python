@@ -48,7 +48,7 @@ second example, input number is 6 and character is x, therefore 6 lines of xxx a
 
 3. Write a function named number_to_english.
 this  function will get 1 integer argument that is between 0 and 10. 
-it will output english form of number.
+it will output English form of number.
 
 	0 zero
 	1 one
