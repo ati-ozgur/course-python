@@ -6,4 +6,4 @@ You do not need loop.
 
 Summation formula is below:
 
-![](/../course-content/images/summation-formula.png)
+![](../images/summation-formula.png)
