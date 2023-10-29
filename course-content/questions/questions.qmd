@@ -41,6 +41,9 @@ Next: 2020/Lab01
 {{< include ./simple-random-password1.md >}}
 
 
+{{< include ./number_to_english.md >}}
+
+
 {{< include ./generation-nickname1.md >}}
 
 
