@@ -3,7 +3,8 @@
 **Palindrome** from wikipedia.
 
     A palindrome is a word, number, phrase, or other sequence of characters 
-    which reads the same backward as forward, such as taco cat or madam or racecar or the number 10801. 
+    which reads the same backward as forward, 
+    such as taco cat or madam or racecar or the number 10801. 
 
 
 Please write a code that finds if given input is a palindrome. 

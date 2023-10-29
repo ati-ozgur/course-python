@@ -96,6 +96,7 @@ Next: 2020/Lab01
 
 {{< include ./question_total_break1.md >}}
 
+{{< include ./palindrome-recursion.md >}}
 
 
 {{< include ./Armstrong-number.md >}}
