@@ -17,6 +17,10 @@ Next: 2020/Lab01
 {{< include ./summation-with-formula.md >}}
 
 
+{{< include ./is_odd_or_even.md >}}
+
+
+
 {{< include ./greatest-among-3-numbers.md >}}
 
 
