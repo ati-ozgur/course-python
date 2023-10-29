@@ -54,6 +54,9 @@ Next: 2020/Lab01
 {{< include ./star-rhombus-1.md >}}
 
 
+{{< include ./is_odd_or_even_function.md >}}
+
+
 {{< include ./one-to-n-summation-divisible-by-3.md >}}
 
 {{< include ./number-guess-game.md >}}
