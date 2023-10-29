@@ -75,6 +75,7 @@ Next: 2020/Lab01
 
 {{< include ./palindrome-number.md >}}
 
+{{< include ./prime-number.md >}}
 
 {{< include ./high-light-word.md >}}
 
@@ -97,6 +98,9 @@ Next: 2020/Lab01
 {{< include ./question_total_break1.md >}}
 
 {{< include ./palindrome-recursion.md >}}
+
+{{< include ./prime-number_recursion.md >}}
+
 
 
 {{< include ./Armstrong-number.md >}}
