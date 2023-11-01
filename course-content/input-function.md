@@ -8,10 +8,39 @@ If we need to change it to other types, we need to cast them.
 
 See following examples:
 
+## input example 1
 
-[example input code 1](Examples/input_example.py)
+```python
+print("Please give me your Name")
+name = input()
+print("Hello",name)
+print(f"Hello {name}, I am from XX")
+print("Where are you from?")
+country = input()
+print(f"Hello {name} from {country}")
 
-[example input code 2 - changing type from string](Examples/input_example_type_change.py)
+```
+
+
+[Download above code example](Examples/input_example.py)
+
+
+## input example 2 changing data type
+
+
+```python
+print("Please give your name")
+name = input()
+print("hello",name)
+print("please enter your birth year")
+birth_year_str = input()
+birth_year = int(birth_year_str)
+age = 2023-birth_year
+print(f"hello {name}, you are {age} years old")
+```
+
+
+[Download above code example input code 2 - changing type from string](Examples/input_example_type_change.py)
 
 
 
