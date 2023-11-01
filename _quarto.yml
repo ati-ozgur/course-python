@@ -13,10 +13,10 @@ book:
     #- Syllabus.md
     - course-content/online-interpreters.md
     - course-content/python-installation.md
+    - course-content/programmers-text-editor.md
     - course-content/python-hello-world.md
     - course-content/command-line.md
     - course-content/getting-started.md
-    - course-content/programmers-text-editor.md
     - course-content/IDE.md
     - course-content/debugging.md
     - course-content/input-function.md
