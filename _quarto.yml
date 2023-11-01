@@ -51,7 +51,7 @@ book:
     - course-content/useful-python-code-snippets.md
     #- course-content/python-object-oriented-programming.md    
     - summary.md
-    - course-content/questions/questions.qmd
+    - course-content/questions/000questions.qmd
     - references.md
 
 bibliography: references.bib
