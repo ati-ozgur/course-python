@@ -37,6 +37,10 @@ Next: 2020/Example-Question-2020-11-12
 
 {{< include ./simple-error4.md >}}
 
+{{< include ./errors-generation-nickname.md >}}
+
+
+
 
 {{< include ./simple-random-password1.md >}}
 
