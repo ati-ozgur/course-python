@@ -35,7 +35,7 @@ Do not forget to change hello.py to name of your program like "program_name.py"
 ## In Explorer writing cmd
 
 Go to the folder where your python files are.
-Below in "C:\Users\ati_o\Desktop\python-codes"
+Below in "C:\\Users\\ati_o\\Desktop\\python-codes"
 
 ![open folder in explorer](images/cmd-explorer-example1.png)
 
