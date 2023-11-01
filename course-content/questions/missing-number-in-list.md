@@ -10,3 +10,14 @@ Start with following code.
     from random import sample 
     numbers = sample(range(1,101),99)
     print(numbers)
+
+
+Generalize above function so that it takes supposed min and max values in the list.
+For example, it should work with list of numbers with minimum and maximum values as below.
+
+- 50-100
+- 1000-2000
+- 10-20
+
+Always input list size is the (maximum-minimum-1).
+
