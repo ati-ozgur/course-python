@@ -16,12 +16,16 @@ Next: 2020/Example-Question-2020-11-12
 
 {{< include ./summation-with-formula.md >}}
 
+{{< include ./modified-bavarian-formula.md >}}
+
+
 
 {{< include ./is_odd_or_even.md >}}
 
 
 
 {{< include ./greatest-among-3-numbers.md >}}
+
 
 
 {{< include ./lucky-number.md >}}
