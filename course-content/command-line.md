@@ -7,6 +7,8 @@ You can see an example of command line in linux below:
 
 We can open command line in windows two ways.
 
+## opening command line using run menu
+
 1. Using run menu, use Windows+R and write cmd
 
 
@@ -14,11 +16,20 @@ We can open command line in windows two ways.
 
 ![cmd example window](images/cmd-example.png)
 
-
-
+2. 
 After we open command line (windows) / Terminal (MacOS), we go to directory of our source files and run following command.
+Here **cd** means change directory.
+We are starting in our home directory, from there going to Desktop and python-codes directory.
 
-	python program_filename.py
+	cd Desktop
+	cd python-codes
+	python hello.py
+
+
+![run cmd](images/cmd-run-program.png)
+
+
+## In Explorer writing cmd
 
 
 
