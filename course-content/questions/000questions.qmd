@@ -108,6 +108,10 @@ Next: 2020/Example-Question-2020-11-12
 
 {{< include ./question_total_break1.md >}}
 
+{{< include ./exception-handling-simple1.md >}}
+
+
+
 {{< include ./palindrome-recursion.md >}}
 
 {{< include ./prime-number_recursion.md >}}
