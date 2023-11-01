@@ -95,6 +95,8 @@ Next: 2020/Example-Question-2020-11-12
 
 {{< include ./find-max-and-min-in-a-list-of-numbers.md >}}
 
+{{< include ./total-21-but-3-digits-are-different.md >}}
+
 
 {{< include ./find-sum-between-indexes.md >}}
 
@@ -129,4 +131,4 @@ Next: 2020/Example-Question-2020-11-12
 {{< include ./sentence-in-a-frame.md >}}
 {{< include ./simple-sudoku-checker-1D.md >}}
 solutions
-{{< include ./total-21-but-3-digits-are-different.md >}}
+
