@@ -12,7 +12,7 @@ There are a lot of choices for Programmers Text Editors.
 You can use anyone of them but please do not use word or wordpad for editing your text files.
 
 - Sublime Text (Cross Platform).
-This is normally my editor of choice but we will use Visual Studio Coee mostly in the course.
+This is normally my editor of choice but we will use Visual Studio Code mostly in the course.
 
 	- [Video: Install Sublime Text MacOS](https://youtu.be/0Mrxn_Ugjdo)
 	- [Video: Install Sublime Text Windows](https://youtu.be/j61dqr7geRo)
