@@ -40,6 +40,9 @@ Next: 2020/Example-Question-2020-11-12
 
 {{< include ./simple-random-password1.md >}}
 
+{{< include ./find-first-digit.md >}}
+
+
 
 {{< include ./number_to_english.md >}}
 
