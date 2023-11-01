@@ -43,13 +43,14 @@ write **cmd** in address bar like below:
 
 ![write cmd in address bar](images/cmd-explorer-example2.png)
 
-a new **cmd** window will be opened in this folder.
+A new **cmd** window will be opened in this folder.
+Write python hello.py to run example hello world program.
+Do not forget to change hello.py to name of your program like "program_name.py"
 
 ![write cmd in address bar](images/cmd-explorer-example3.png)
 
 
-Write python hello.py to run example hello world program.
-Do not forget to change hello.py to name of your program like "program_name.py"
+
 
 	python hello.py
 
