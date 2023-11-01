@@ -14,3 +14,11 @@ Please enter a number: 5
 	 *******
 	*********
 
+Do not forget to use string multiplication of python. 
+Run below code and see the output:
+
+	print("*" * 1)
+	print("*" * 2)
+	print("*" * 3)
+	print("*" * 4)
+	
