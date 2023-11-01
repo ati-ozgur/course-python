@@ -1,6 +1,7 @@
 # Python Integrated Development Environments (IDEs)
 
 1. IDLE (Cross Platform):  included in the python installation. 
+
 	- [Video: Install Python and IDLE](https://youtu.be/vUdVNWyAUAU)
 
 2. [Thonny Python IDE for beginners](https://thonny.org/) (Cross Platform):
