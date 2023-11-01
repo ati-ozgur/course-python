@@ -38,7 +38,8 @@ Common operators
 
 Only following operators are a bit different than normal mathematical ones.
 
-- % is remainder operator 
+- % is remainder operator. [Remainder operator](useful-python-code-snippets.md#divisible-by-some-number) is used in a lot of question to find if a number is divisible by another number.
+
 - // is integer division.
 - ** power operator. 2\*\*5 is equal to 2\*2\*2\*2\*2 
 
