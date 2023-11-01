@@ -20,6 +20,9 @@ We can open command line in windows two ways.
 After we open command line (windows) / Terminal (MacOS), we go to directory of our source files and run following command.
 Here **cd** means change directory.
 We are starting in our home directory, from there going to Desktop and python-codes directory.
+Write python hello.py to run example hello world program.
+Do not forget to change hello.py to name of your program like "program_name.py"
+
 
 	cd Desktop
 	cd python-codes
@@ -31,7 +34,24 @@ We are starting in our home directory, from there going to Desktop and python-co
 
 ## In Explorer writing cmd
 
+Go to the folder where your python files are.
+Below in "C:\Users\ati_o\Desktop\python-codes"
 
+![open folder in explorer](images/cmd-explorer-example1.png)
+
+write **cmd** in address bar like below:
+
+![write cmd in address bar](images/cmd-explorer-example2.png)
+
+a new **cmd** window will be opened in this folder.
+
+![write cmd in address bar](images/cmd-explorer-example3.png)
+
+
+Write python hello.py to run example hello world program.
+Do not forget to change hello.py to name of your program like "program_name.py"
+
+	python hello.py
 
 
 ## Video Tutorials
