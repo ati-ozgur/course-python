@@ -59,6 +59,9 @@ Next: 2020/Example-Question-2020-11-12
 
 {{< include ./is_odd_or_even_function.md >}}
 
+{{< include ./function-title-case.md >}}
+
+
 
 {{< include ./one-to-n-summation-divisible-by-3.md >}}
 
