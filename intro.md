@@ -1,7 +1,8 @@
 # Introduction
 
-This book is an introduction python programming.
-The book content is not comprehensive for suitable content for beginners are added.
+This book is an introduction to python programming.
+The book content is not comprehensive.
+Only the suitable content for beginners are added.
 Programming in not an easy task but like every skill is learnable and with practice it improves.
 
 I would like to quote following end passage of excellent talk of [ACM Turing Lecture 1972 The Humble Programmer by Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html) 
