@@ -65,8 +65,6 @@ Next: 2020/Example-Question-2020-11-12
 
 {{< include ./one-to-n-summation-divisible-by-3.md >}}
 
-{{< include ./number-guess-game.md >}}
-
 
 {{< include ./project-Euler-question-1.md >}}
 
