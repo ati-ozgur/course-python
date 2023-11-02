@@ -11,6 +11,7 @@ book:
     - index.md
     - intro.md
     - course-content/why-learn-python.md
+    - course-content/references-courses.md
     #- Syllabus.md
     - course-content/online-interpreters.md
     - course-content/python-installation.md
