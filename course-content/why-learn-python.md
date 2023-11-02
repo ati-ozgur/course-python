@@ -8,7 +8,13 @@ According [the same index](https://www.tiobe.com/tiobe-index/python/), python ar
  - Language of the Year: 2007, 2010, 2018, 2020, 2021
 
 
-![python-tiobe-index-2023](./images/python-tiobe-index-2023.png)
+![python tiobe index 2023](./images/python-tiobe-index-2023.png)
+
+
+Similarly, according to [Stackoverflow 2023 Survey](https://survey.stackoverflow.co/2023/#most-popular-technologies-language), python is the 3rd popular programming language among the 87,585 respondents.
+
+![stackoverflow survey programming languages 2023](./images/stackoverflow-survey-programming-languages-2023.png)
+
 
 
 
