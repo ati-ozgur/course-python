@@ -1,24 +1,39 @@
 # While
 
-    while condition_is_true:
-        do_something
+## First example
+
+```python
+while condition_is_true:
+    do_something
+```
+
+
+
+```python
+a = 0            
+while a < 10:
+    a = a + 1
+    print(a)
+```
 
 
 
 When you use while loops, you need to first initialize your loop variable, and you need to also modify that variable so that loop will finish at some time.
 
-no initialization example:
+## No initialization example
 
+```python
     while x < 10: 
         print(x) 
+```
 
 Output will be like below.
 
+```python
+    while x < 10: 
+        print(x) 
+```
 
-    In [1]:     while x < 10:
-       ...:         print(x)
-       ...:
-    ---------------------------------------------------------------------------
     NameError                                 Traceback (most recent call last)
     <ipython-input-1-c956f313d152> in <module>
     ----> 1 while x < 10:
@@ -26,20 +41,26 @@ Output will be like below.
 
     NameError: name 'x' is not defined
 
+
+## infinite loop
+
 Not modifying condition variable. Following code will be infinite loops of 1 until you close the program or use CTRL-c.
 
-    x = 1
-    while x < 10: 
-        print(x) 
-
+```python
+x = 1
+while x < 10: 
+    print(x) 
+```
 
 correct solution should be.
 
 
-    x = 1
-    while x < 10: 
-        print(x) 
-        x = x +1
+```python
+x = 1
+while x < 10: 
+    print(x) 
+    x = x +1
+```
 
 
 ## Links in our references
