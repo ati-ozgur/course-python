@@ -1,14 +1,26 @@
 # input function
 
 We use input function to get user input from user.
-Input function always gives string input.
-If we need to change it to other types, we need to cast them.
-
-
-
-See following examples:
 
 ## input example 1
+
+```python
+print("Please give me your Name")
+name = input()
+print("Hello",name)
+
+```
+## input example 2
+
+We can also give a string argument to input example.
+
+```python
+name = input("Please give me your Name")
+print("Hello",name)
+```
+
+## input example 3
+
 
 ```python
 print("Please give me your Name")
@@ -21,11 +33,14 @@ print(f"Hello {name} from {country}")
 
 ```
 
-
 [Download above code example](Examples/input_example.py)
 
 
-## input example 2 changing data type
+Input function always gives string input.
+If we need to change it to other types, we need to cast them.
+
+
+## input example 4: change data type
 
 
 ```python
@@ -40,7 +55,7 @@ print(f"hello {name}, you are {age} years old")
 ```
 
 
-[Download above code example input code 2 - changing type from string](Examples/input_example_type_change.py)
+[Download above code example input code - changing type from string](Examples/input_example_type_change.py)
 
 
 
