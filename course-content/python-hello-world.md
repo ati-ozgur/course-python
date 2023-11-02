@@ -5,7 +5,9 @@ For python this is very easy one line code.
 
 1. Open a new file in a Programmers Text Editor and write following line
 
+```python
 	print("hello world!")
+```
 
 2. save the file as helloworld.py and exit editor.
 
@@ -19,6 +21,44 @@ For python this is very easy one line code.
 
 
 [example code](Examples/helloworld.py)
+
+
+## Python interpreter
+
+Python is different from some languages such as C and java that it is not a compiled language but an interpreted language.
+
+
+	python code --> python interpreter --> output
+
+## comments
+
+If we want to some of the writing to be not interpreted (executed) by python, we should use comments.
+Comments are ignore by python.
+See below example for comments.
+
+
+```python
+# this will not run
+print("hello world!")
+# this will also not run
+
+# There is not multi line comments 
+# but you can use multi line strings as such
+
+'''
+This is a multiline
+comment.
+'''
+
+
+"""
+This is an another multiline
+comment.
+"""
+
+```
+
+[download above example comments code](Examples/comments.py)
 
 
 ## Links in our references
