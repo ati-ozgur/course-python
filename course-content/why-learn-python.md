@@ -15,6 +15,7 @@ Similarly, according to [Stackoverflow 2023 Survey](https://survey.stackoverflow
 
 ![stackoverflow survey programming languages 2023](./images/stackoverflow-survey-programming-languages-2023.png)
 
+You can see similar information in [google trends](https://bit.ly/2kjMj3j) also.
 
 
 
