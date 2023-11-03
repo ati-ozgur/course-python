@@ -31,6 +31,7 @@ Another quote from [same 1972 talk](https://www.cs.utexas.edu/~EWD/transcription
 - [2023-10-13 Postponed](2023/2023-10-13.md)
 - [2023-10-20](2023/2023-10-20.md)
 - [2023-10-21](2023/2023-10-21.md)
+- [2023-11-03](2023/2023-11-03.md)
 
 ## Reference Books
 
