@@ -1,5 +1,3 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+This short course notes are prepared for an introduction to programming in python.
