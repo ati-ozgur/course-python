@@ -3,41 +3,53 @@
 
 Python uses if, elif and else statements for branching operations
 
-Only if
+## Only if
 
-	if condition1:
-		block-if
+```python
+if condition1:
+	block-if
 
-if-else block
-
-	if condition1:
-		block-if
-	else:
-		block-else
+```
 
 
-if-elif-else block. This block also used similar to switch statements in other languages.
+## if-else block
 
-	if condition1:
-		block-if
-	elif condition2:
-		block-elif
-	else:
-		block-else
-
-
+```python
+if condition1:
+	block-if
+else:
+	block-else
+```
 
 
-### Short example
+## if-elif-else block 
+
+This block also used similar to switch statements in other languages.
+
+```python
+if condition1:
+	block-if
+elif condition2:
+	block-elif
+else:
+	block-else
+```
 
 
-    x = int(input("Please enter an integer: "))
-    if x < 0:
-        print('A negative number is entered')
-    elif x == 0:
-        print('Zero is entered')
-    else:
-        print('A positive number is entered')
+
+
+## Short example
+
+
+```python
+x = int(input("Please enter an integer: "))
+if x < 0:
+    print('A negative number is entered')
+elif x == 0:
+    print('Zero is entered')
+else:
+    print('A positive number is entered')
+```
 
 
 
@@ -46,9 +58,11 @@ if-elif-else block. This block also used similar to switch statements in other l
 Following function, is_negative should return True for negative numbers. 
 Fill the blanks
 
-	def is_negative(x):
-		.....
-	    return ___
+```python
+def is_negative(x):
+	.....
+    return ___
+```
 
 
 ### Sample Question 2
@@ -58,9 +72,11 @@ Normally, before 12, you say Guten Morgen, between 12 and 18 you use Guten Tag, 
 
 Fill the blanks
 
-	def greeting_in_german(hour):
-		.....
-	    return ___
+```python
+def greeting_in_german(hour):
+	.....
+    return ___
+```
 
 ### Sample Question 3
 
@@ -73,24 +89,28 @@ A complex password should satisfy following conditions
 
 please write following function.
 
-	def is_password_complex(password):
-		.....
-	    return ___
+```python
+def is_password_complex(password):
+	.....
+    return ___
+```
 
 
 ### Sample Question 4
 
 What is the output of following code:
 
-	number = 100
-	if number > 110: 
-	  print("block if")
-	elif number != 110:
-	  print("block elif1")
-	elif number >= 90 or number < 120:
-	  print("block elif2")
-	else:
-	  print("block else")
+```python
+number = 100
+if number > 110: 
+  print("block if")
+elif number != 110:
+  print("block elif1")
+elif number >= 90 or number < 120:
+  print("block elif2")
+else:
+  print("block else")
+```
 
 
 

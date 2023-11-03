@@ -1,28 +1,32 @@
 # comparisons boolean variables
 
 
-	In [1]: print( 5 > 2)
-	True
+```python
+In [1]: print( 5 > 2)
+True
 
-	In [2]: print( 5 < 2)
-	False
+In [2]: print( 5 < 2)
+False
 
-	In [3]: print( 2 == 2)
-	True
+In [3]: print( 2 == 2)
+True
 
-	In [4]: print( "2" == 2)
-	False
+In [4]: print( "2" == 2)
+False
 
-	In [5]: print( 1 != 2)
-	True
+In [5]: print( 1 != 2)
+True
 
-	In [6]: print( 1 < "1")
-	---------------------------------------------------------------------------
-	TypeError                                 Traceback (most recent call last)
-	<ipython-input-6-eef05bdfaefd> in <module>
-	----> 1 print( 1 < "1")
+In [6]: print( 1 < "1")
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+<ipython-input-6-eef05bdfaefd> in <module>
+----> 1 print( 1 < "1")
 
-	TypeError: '<' not supported between instances of 'int' and 'str'
+TypeError: '<' not supported between instances of 'int' and 'str'
+
+```
+
 
 
 
@@ -57,20 +61,23 @@ See [Ascii table](https://www.asciitable.com/) for answer to this question.
 | False | False | False |
 
 - not reverse the boolean, 
+
 	False -> True, True -> False
 
+```python
 
-	In [1]: birth_year = 1999
 
-	In [2]: birth_year < 2000 and birth_year < 2019
-	Out[2]: True
+In [1]: birth_year = 1999
 
-	In [3]: birth_year < 1900 or birth_year > 1950
-	Out[3]: True
+In [2]: birth_year < 2000 and birth_year < 2019
+Out[2]: True
 
-	In [4]: not (birth_year < 1900 or birth_year > 1950 )
-	Out[4]: False
+In [3]: birth_year < 1900 or birth_year > 1950
+Out[3]: True
 
+In [4]: not (birth_year < 1900 or birth_year > 1950 )
+Out[4]: False
+```
 
 ## Links in our references
 
