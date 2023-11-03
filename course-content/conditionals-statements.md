@@ -11,6 +11,22 @@ if condition1:
 
 ```
 
+```python
+a = 10
+if a > 0:
+    print("positive number")
+```
+
+Here since a is 10 and it is greater than 0, "positive number" is printed in the screen.
+
+```python
+a = 0
+if a > 0:
+    print("positive number")
+```
+
+Here 0 is not greater than 0, **nothing** is printed in the screen.
+
 
 ## if-else block
 
@@ -20,6 +36,32 @@ if condition1:
 else:
 	block-else
 ```
+
+
+```python
+a = 10
+if a > 0:
+    print("positive number")
+else:
+    print("negative number")
+```
+
+Here since a is 10 and it is greater than 0, "positive number" is printed in the screen.
+else block does not run since if block is already run.
+
+
+```python
+a = -10
+if a > 0:
+    print("positive number")
+else:
+    print("negative number")
+```
+
+Here since a is -10 and it is **NOT** greater than 0, "positive number" is **NOT** printed in the screen.
+else block runs and "negative number" is printed on the screen.
+
+
 
 
 ## if-elif-else block 
@@ -35,6 +77,16 @@ else:
 	block-else
 ```
 
+
+```python
+a = 10
+if a > 0:
+    print("positive number")
+elif a == 0:
+    print("zero")
+else:
+    print("negative number")
+```
 
 
 
@@ -52,6 +104,24 @@ else:
 ```
 
 
+```python
+str_input = input("Enter years of experience of python")
+x = int(str_input)
+#Please enter an integer: 1
+if x < 0:
+        x = 0
+        print('Negative experience is not possible')
+        print('changed to zero')
+    elif x == 0:
+        print('Ah, you are just beginning')
+        print("welcome to class")
+    elif x == 1:
+        print('A Junior Programmer')
+        print('May be you will learn some things')
+    else:
+        print('A python expert in our class')
+
+```
 
 ### Sample Question 1
 
