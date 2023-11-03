@@ -9,6 +9,9 @@ Next: Check 2022 list questions IMDB movie list
 
 {{< include ./input-print2.md >}}
 
+{{< include ./simple-arithmetic.md >}}
+
+
 {{< include ./input-celsius-to-fahrenheit-and-fahrenheit-to-celsius.md >}}
 
 
