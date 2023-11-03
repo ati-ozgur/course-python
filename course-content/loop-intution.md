@@ -1,4 +1,28 @@
-# summation number 1..N
+# loop intuition
+## repeating something
+
+Repeating something is the most easy loop.
+For example, writing your name 4 times in the screen.
+
+	Atilla
+	Atilla
+	Atilla
+	Atilla
+
+We can accomplish above with loops in the python, while or for loops.
+We will see how they work.	
+
+
+## increasing numbers
+
+This is again very common loop type.
+For example, printing out numbers from 1 to 10.
+This requirement could be accomplished with while or for loops again.
+
+
+
+
+## summation number 1..N
 
 
 We want to find find summation of 1..10.
