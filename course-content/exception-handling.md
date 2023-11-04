@@ -49,9 +49,11 @@ See below examples
 
 ## try..except..else
 
+Else part runs if there is no error.
 
 ## try..except..else..finally
 
+finally part **always** runs.
 
 ## exception handling hierarchy
 
