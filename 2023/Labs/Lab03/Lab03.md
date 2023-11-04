@@ -31,3 +31,7 @@ Fix its errors so that it runs correctly.
 ## Question 04: 
 Please try to solve [Find first digit without string functions](../../../course-content/questions/find-first-digit.md)
 
+
+## Question 05: 
+Please try to solve [Stars pyramid](../../../course-content/questions/star-pyramid-1.md)
+
