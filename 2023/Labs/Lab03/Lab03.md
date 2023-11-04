@@ -35,16 +35,29 @@ Please try to solve [Find first digit without string functions](../../../course-
 ## Question 05: 
 Please try to solve [Stars pyramid](../../../course-content/questions/star-pyramid-1.md)
 
-## Question 06 (3 4 20) (three four twenty)
+## Question 06 (3 4 20) (three four twelve)
 
-Write a function that returns a list.
-Look at the code of question_three_four_twenty.py.
-Make a backup copy as answer_three_four_twenty.py.
-You should write your answer in this answer_three_four_twenty.py.
+Write a program which prints the numbers up to 100.
+For every number, your program should write normal number, but numbers divisible by three it should print out English word three, for numbers divisible by 4, it should print out English word four and for numbers divisible by 12, it should print out twelve.
+An example output is below:
 
-You need to fill empty function,create_list_three_four_twenty, with your code.
-The lists returned from this function will consists of numbers from 1 to max_number (included) but for multiples of 3  "three" instead of the number; and for the multiples of 4, "four"; and for numbers which are multiples of both 3 and 4, "twelve".
-If you write your function correctly, both asserts should not give you any error.
+	1
+	2
+	three
+	four
+	5
+	three
+	7
+	four
+	three
+	10
+	11
+	twelve
+	13
+	14
+	three
+	four
+	17
 
 
 ## Question 07: 
