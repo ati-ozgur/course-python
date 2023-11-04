@@ -35,13 +35,25 @@ Please try to solve [Find first digit without string functions](../../../course-
 ## Question 05: 
 Please try to solve [Stars pyramid](../../../course-content/questions/star-pyramid-1.md)
 
-## Question 06: 
-Please try to solve [prime number](../../../course-content/questions/prime-number.md)
+## Question 06 (3 4 20) (three four twenty)
+
+Write a function that returns a list.
+Look at the code of question_three_four_twenty.py.
+Make a backup copy as answer_three_four_twenty.py.
+You should write your answer in this answer_three_four_twenty.py.
+
+You need to fill empty function,create_list_three_four_twenty, with your code.
+The lists returned from this function will consists of numbers from 1 to max_number (included) but for multiples of 3  "three" instead of the number; and for the multiples of 4, "four"; and for numbers which are multiples of both 3 and 4, "twelve".
+If you write your function correctly, both asserts should not give you any error.
+
 
 ## Question 07: 
+Please try to solve [prime number](../../../course-content/questions/prime-number.md)
+
+## Question 08: 
 Please try to solve [prime number recursion](../../../course-content/questions/prime-number_recursion.md)
 
-## Question 08:  Sentence in a frame
+## Question 09:  Sentence in a frame
 
 Write a function that takes two input, sentence and frame character. 
 This function should return a multiline string which surrounds every word in the sentence with a frame character. 
@@ -59,3 +71,12 @@ Then output would be following
 	+ 2019       +
 	+ Class      +
 	++++++++++++++
+
+## Question 10 list comprehension
+
+Look at the [question_summation_with_list_comprehension.py](question_summation_with_list_comprehension.py) file.
+Make a copy  of this file as answer_summation_with_list_comprehension.py.
+Write a function that will filter numbers according to given input list and  number. 
+Your function will consists of a **one line list comprehension** so that given filtered and only numbers divisible by given input number are in the new_list.
+
+If your written code is correct, asserts should not give you any error.
