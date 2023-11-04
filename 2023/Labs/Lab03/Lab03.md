@@ -41,4 +41,21 @@ Please try to solve [prime number](../../../course-content/questions/prime-numbe
 ## Question 07: 
 Please try to solve [prime number recursion](../../../course-content/questions/prime-number_recursion.md)
 
+## Question 08:  Sentence in a frame
 
+Write a function that takes two input, sentence and frame character. 
+This function should return a multiline string which surrounds every word in the sentence with a frame character. 
+For example
+
+```python
+sentence_in_frame("Jacobs University 2023 Class", "+")
+```
+
+Then output would be following
+
+	++++++++++++++
+	+ Jacobs     +
+	+ University +
+	+ 2019       +
+	+ Class      +
+	++++++++++++++
