@@ -29,5 +29,5 @@ please look at [wrong_code1.py](wrong_code1.py).
 Fix its errors so that it runs correctly.
 
 ## Question 04: 
-Please try to solve [Find first digit without string functions](../../course-content/questions/find-first-digit.md)
+Please try to solve [Find first digit without string functions](../../../course-content/questions/find-first-digit.md)
 
