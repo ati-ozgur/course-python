@@ -33,7 +33,7 @@ Python is different from some languages such as C and java that it is not a comp
 ## comments
 
 If we want to some of the writing to be not interpreted (executed) by python, we should use comments.
-Comments are ignore by python.
+Comments are ignored by python interpreter.
 See below example for comments.
 
 
