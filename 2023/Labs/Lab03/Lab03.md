@@ -2,6 +2,19 @@
 
 Questions goes from simpler to harder.
 
+## Question 01:  Simple hello function
+
+Please write a simple hello function with three arguments, name, birth_day and country.
+Call this function two times
+
+	- your information 
+ 	- one of your friend's information
+
+possible output
+
+	Hello Atilla, you have born 1977 and you are from Türkiye.
+	Hello Duru, you have born 2012 and you are from Türkiye.
+
 
 ## Question 02:  Is Number odd or even function
 
