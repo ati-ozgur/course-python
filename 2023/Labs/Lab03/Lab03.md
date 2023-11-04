@@ -35,3 +35,10 @@ Please try to solve [Find first digit without string functions](../../../course-
 ## Question 05: 
 Please try to solve [Stars pyramid](../../../course-content/questions/star-pyramid-1.md)
 
+## Question 06: 
+Please try to solve [prime number](../../../course-content/questions/prime-number.md)
+
+## Question 07: 
+Please try to solve [prime number recursion](../../../course-content/questions/prime-number_recursion.md)
+
+
