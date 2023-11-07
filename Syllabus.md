@@ -34,9 +34,9 @@
 - [random numbers](https://docs.python.org/3/library/random.html)
 - [read/write files in python](course-content/file-input-output.md)
 - [creation of our own modules](course-content/modules.md)
-- [PIP](course-content/PIP.md)
 - [using other people's modules/packages](course-content/using-other-modules-packages.md)
-
+- [PIP](course-content/PIP.md)
+- [Virtual environments](course-content/virtual-environments.md)
 - [exception handling](course-content/exception-handling.md)
 - [Python List and Dictionary Comprehensions](course-content/python-comprehensions.md)
 - [Python Object Oriented Programming](course-content/python-object-oriented-programming.md)
