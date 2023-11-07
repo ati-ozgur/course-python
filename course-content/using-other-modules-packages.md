@@ -16,12 +16,15 @@ As we have talked before, we can use our own modules very easily, if they are in
 
 If we use a package manager like PIP to install a package. We can easily use it.
 
-	pip3 install emoji
+	python -m pip install emoji
 
 then
 
 	import emoji
 	print(emoji.emojize('Python is :thumbs_up:'))
+
+see longer [PIP](PIP.md) explanation in course notes.
+
 
 # Where this modules are stored?
 
