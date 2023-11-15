@@ -33,6 +33,7 @@ Another quote from [same 1972 talk](https://www.cs.utexas.edu/~EWD/transcription
 - [2023-10-21](2023/2023-10-21.md)
 - [2023-11-03](2023/2023-11-03.md)
 - [2023-11-04](2023/2023-11-04.md)
+- [2023-11-11](2023/2023-11-11.md)
 
 ## Reference Books
 
