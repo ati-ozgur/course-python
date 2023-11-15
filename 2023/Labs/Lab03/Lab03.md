@@ -35,7 +35,7 @@ Please try to solve [Find first digit without string functions](../../../course-
 ## Question 05: 
 Please try to solve [Stars pyramid](../../../course-content/questions/star-pyramid-1.md)
 
-## Question 06 (3 4 20) (three four twelve)
+## Question 06 (3 4 12) (three four twelve)
 
 Write a program which prints the numbers up to 100.
 For every number, your program should write normal number, but numbers divisible by three it should print out English word three, for numbers divisible by 4, it should print out English word four and for numbers divisible by 12, it should print out twelve.
