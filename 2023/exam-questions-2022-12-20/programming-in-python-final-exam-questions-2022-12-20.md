@@ -124,11 +124,11 @@ Look at the [question_fibonacci.py](question_fibonacci.py).
 You need to fill empty function definition of fibonacci with correct recursive python code.
 Do not forget that fibonacci definition is as follows:
 
-F0 = 1, F1 = 1
+F0 = 0, F1 = 1
 Fn = Fn-1 + Fn-2
 
 For example:
-F6 = F5 + F6
+F6 = F5 + F4
 
 If your written code is correct, asserts should not give you any error.
 
