@@ -12,4 +12,8 @@
 
  - continue TODO
 
+## Video links about the loops
+
+[Python Loops Tutorial 30 min](https://www.youtube.com/watch?v=R1xXdm-shw4)
+
  
