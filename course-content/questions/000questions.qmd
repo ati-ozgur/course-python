@@ -50,6 +50,7 @@ Next: Check 2022 list questions IMDB movie list
 {{< include ./errors-generation-nickname.md >}}
 {{< include ./errors-exception1.md >}}
 
+{{< include ./find-area-and-circumference-of-the-circle.md >}}
 
 
 
