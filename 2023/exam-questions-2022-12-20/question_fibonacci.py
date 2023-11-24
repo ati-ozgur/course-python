@@ -1,6 +1,10 @@
 def fibonacci(n):
     pass
 
+F0 = fibonacci(0)
+assert F0 == 0
+
+
 F1 = fibonacci(1)
 assert F1 == 1
 
