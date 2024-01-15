@@ -21,4 +21,6 @@ see output of following code examples:
 	for x in range(3,n):
 		print(x)
 
+## Other Tutorials
 
+https://realpython.com/python-range/
