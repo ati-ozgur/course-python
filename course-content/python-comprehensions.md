@@ -44,7 +44,9 @@ Change a list of strings to list of integers
 
 ### Examples
 
-[Good blog post](https://towardsdatascience.com/11-examples-to-master-python-list-comprehensions-33c681b56212)
+- [Good blog post](https://towardsdatascience.com/11-examples-to-master-python-list-comprehensions-33c681b56212)
+- [real python list comprehension tutorial](https://realpython.com/list-comprehension-python/)
+
 
 ## Links in our references
 
