@@ -67,10 +67,16 @@ finally part **always** runs.
 
 - [Non-Programmer's Tutorial for Python 3/Dealing with the imperfect](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Dealing_with_the_imperfect)
 
+
+
+## other references
+
+- [exceptions in real python](https://realpython.com/python-exceptions/)
 - [Python Try Except in w3schools.com](https://www.w3schools.com/python/python_try_except.asp)
 
 
 ## Video Tutorials
+
 
 
 
