@@ -10,7 +10,6 @@
 |  | [debugging](../course-content/debugging.md)  |
 |  | [Python input function](../course-content/input-function.md)  |
 |  | [random numbers](https://docs.python.org/3/library/random.html)  |
-
 | Week 03 |	[python built-in functions](../course-content/python-built-in-functions.md)|
 |  | [python as calculator](../course-content/python-as-calculator.md)  |
 |  | [Basic Data Types](../course-content/basic-data-types.md) |
@@ -20,7 +19,6 @@
 | Week 05 |	[Strings](../course-content/strings.md)	|
 |  | [f-strings](../course-content/f-strings.md)  |
 |  | [string module](https://docs.python.org/3/library/string.html)  |
-
 | Week 06 |	[simple function definition](../course-content/simple-function-definition.md)	|
 |  | [importing modules](../course-content/importing-modules.md) |
 | Week 07 |	[Loops intuition](../course-content/loop-intution.md)	|
