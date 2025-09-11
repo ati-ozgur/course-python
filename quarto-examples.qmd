@@ -1,0 +1,29 @@
+## examples to use while writing book
+
+# Temeller Açıklamalar (Comments)  {#sec-temeller-aciklamalar}
+
+
+{{< include ./dosyaadi.qmd >}}
+
+Image add
+![](./images/imagename.png)
+
+
+```python
+l2 = []
+for x in range(10):
+    l2.append(x*x)
+print(l2)
+```
+
+
+
+
+:::{.callout-tip}
+import komutuna neden ihtiyacımız olduğu hakkında daha fazla bilgi için [Bölüm -@sec-temeller-import] okuyabilirsiniz.
+:::
+
+
+:::{.callout-tip}
+Yapmanız istenen fonksiyon çıkarma kurgulaması hakkında daha fazla bilgi ve örnekler için  [Bölüm -@sec-tr-kurgulamalar-refactorings-fonksiyon-cikarma-extract-function] okuyabilirsiniz.
+:::
