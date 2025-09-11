@@ -36,27 +36,27 @@ Change a list of strings to list of integers
 	int_list = [int(x) for x in str_list]
 
 
+### Tutorials/Videos for list comprehension
+
+- [Good blog post](https://towardsdatascience.com/11-examples-to-master-python-list-comprehensions-33c681b56212)
+- [real python list comprehension tutorial](https://realpython.com/list-comprehension-python/)
+- a good video tutorial: [Python Tutorial: List Comprehensions Step-By-Step
+](https://youtu.be/1HlyKKiGg-4)
+
+
 ## Dictionary Comprehensions
 
 
 ## Set Comprehensions
 
 
-### Examples
-
-- [Good blog post](https://towardsdatascience.com/11-examples-to-master-python-list-comprehensions-33c681b56212)
-- [real python list comprehension tutorial](https://realpython.com/list-comprehension-python/)
-
 
 ## Links in our references
 
-- [python Comprehensions in python 101](https://python101.pythonlibrary.org/chapter6_comprehensions.html)
+- [Python 101 book: Python Comprehensions](https://python101.pythonlibrary.org/chapter6_comprehensions.html)
+- [Python tutorial: list-comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
 
 
-
-## Video Tutorials
-
-- a good [video tutorial](https://youtu.be/1HlyKKiGg-4)
 
 
 
