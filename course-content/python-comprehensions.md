@@ -7,26 +7,48 @@
 
 It is a way of creating lists without loops.
 Comprehensions could be a more readable solution instead of loops.
+Every list comprehension could be written by normal loops.
+
+Lets start with following python loop.
+This loop creates squared numbers from 0 to 9.
+Resulting numbers should 0,1,4,9,...81
+
+```python
+l2 = []
+for x in range(10):
+    l2.append(x*x)
+print(l2)
+```
+
+List comprehensions code would be:
+
+```python
+l1 = [x*x for x in range(10)]
+print(l1)
+```
 
 
-
-Simple example
-
-
-	l1 = [x*x for x in range(10)]
-
-
-
-Template for this example is
+Template for simple list comprehension is:
 
 [expression for item in iterable]
 
 
 We can also filter items in the iterable with optional if
 
+```python
+l2 = [x*x for x in range(10) if x % 3 == 1]
+print(l2)
+```
 
-
-	l2 = [x*x for x in range(10) if x % 3 == 1]
+loop version would be:
+	
+```python
+l2 = []
+for x in range(10):
+	if x % 3 == 1
+	    l2.append(x*x)
+print(l2)
+```
 
 Another interesting example.
 Change a list of strings to list of integers
@@ -34,6 +56,8 @@ Change a list of strings to list of integers
 
 	str_list = ["1", "2", "3", "4", "5"]
 	int_list = [int(x) for x in str_list]
+
+
 
 
 ### Tutorials/Videos for list comprehension
