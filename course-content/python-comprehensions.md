@@ -32,15 +32,33 @@ Template for simple list comprehension is:
 
 [expression for item in iterable]
 
+Another interesting example.
+Change a list of strings to list of integers
 
-We can also filter items in the iterable with optional if
+
+	str_list = ["1", "2", "3", "4", "5"]
+	int_list = [int(x) for x in str_list]
+
+
+As could be seen from above example, we could call functions in the comprehensions.
 
 ```python
-l2 = [x*x for x in range(10) if x % 3 == 1]
+name_list = ["atilla","aydın","duru"]
+
+l2 = []
+for name in name_list:
+    l2 = l2 + [name.capitalize()]
 print(l2)
+
+l1 = [name.capitalize() for name in name_list]
+print(l1)
 ```
 
-loop version would be:
+
+### Filtering
+
+Filtering the list is a common operation.
+loop version:
 	
 ```python
 l2 = []
@@ -50,13 +68,17 @@ for x in range(10):
 print(l2)
 ```
 
-Another interesting example.
-Change a list of strings to list of integers
+In list comprehension, we could also filter items in the iterable with optional if
+
+```python
+l2 = [x*x for x in range(10) if x % 3 == 1]
+print(l2)
+```
 
 
-	str_list = ["1", "2", "3", "4", "5"]
-	int_list = [int(x) for x in str_list]
 
+
+## Double loop example
 
 
 
