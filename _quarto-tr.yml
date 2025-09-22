@@ -2,6 +2,7 @@ project:
   type: book
 
 book:
+  title: "Python Giriş"
   chapters:
     - course-content/python-list-tr.md
 

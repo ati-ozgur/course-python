@@ -2,10 +2,7 @@ project:
   type: book
 
 book:
-  title: "Programming in Python"
-  author: "Atilla Özgür"
-  date: today
-  date-format: "YYYY-MM-DD"
+  title: "Introduction to Python"
   chapters:
     - index.md
     - intro.md
@@ -57,13 +54,6 @@ book:
     - course-content/questions/000questions.qmd
     - references.md
 
-bibliography: references.bib
-
-format:
-  html:
-    theme: cosmo
-  pdf:
-    documentclass: scrreprt
 
 
 
