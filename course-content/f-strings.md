@@ -13,11 +13,11 @@ They work after Python 3.6+ version.
 	print(output_line)
 
 
-# fixed digits example
+## fixed digits example
 
 	decimal_value = 1.454554
 	print(f"{decimal_value:.2f}")
 
 
-of course there formatting options for date time and other objects too.
+Of course, there are formatting options for date time and other objects too.
 
