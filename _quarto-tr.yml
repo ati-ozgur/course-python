@@ -12,6 +12,7 @@ book:
       - text: "Türkçe"
         href: ../tr/index.html  
   chapters:
+    - course-content/python-range-tr.md
     - course-content/python-list-tr.md
 
 
