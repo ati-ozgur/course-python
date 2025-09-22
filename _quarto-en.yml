@@ -2,6 +2,7 @@ project:
   output-dir: ./_site/en
 
 book:
+  output-file: "python-introduction"
   title: "Introduction to Python"
   navbar:
     background: primary

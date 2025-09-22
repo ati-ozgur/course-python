@@ -2,6 +2,7 @@ project:
   output-dir: ./_site/tr
 
 book:
+  output-file: "python-giris"
   title: "Python Giriş"
   navbar:
     background: primary
