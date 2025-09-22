@@ -20,13 +20,18 @@ değerlerini üretir.
 1. For döngüsü kullanarak 
 2. listeye çevirerek
 
-	for x in range(5):
-		print(x)
+
+```python
+for x in range(5):
+	print(x)
+```
 
 veya
 
-	l1 = list(range(5))
-	print(l1)
+```python
+l1 = list(range(5))
+print(l1)
+```
 
 
 
@@ -41,28 +46,32 @@ Bundan dolayı bitiş degeri sonuçlarda yoktur.
 
 Örneğin aşağıdaki kodların çıktısına bakalım:
 
-	baslangıc = 5
-	bitis = 10
-	adim = 2
-	for x in range(bitis):
-		print(x)
+```python
+baslangıc = 5
+bitis = 10
+adim = 2
+for x in range(bitis):
+	print(x)
 
-	for x in range(baslangıc,bitis):
-		print(x)
+for x in range(baslangıc,bitis):
+	print(x)
 
 
 
-	for x in range(baslangıc,bitis,adim):
-		print(x)
+for x in range(baslangıc,bitis,adim):
+	print(x)
+```
 
 
 Başlangıç, bitiş ve adım değerleri ayarlanarak tersten sayma yapılabilir.
 
-	baslangıc = 20
-	bitis = 3
-	adim = -1
-	for x in range(baslangıc,bitis,adim):
-		print(x)
+```python
+baslangıc = 20
+bitis = 3
+adim = -1
+for x in range(baslangıc,bitis,adim):
+	print(x)
+```
 
 
 
