@@ -4,7 +4,6 @@ project:
 book:
   title: "Programming in Python"
   author: "Atilla Özgür"
-  cover-image: course-content/images/logos/Python-logo-notext.svg
   date: today
   date-format: "YYYY-MM-DD"
   chapters:

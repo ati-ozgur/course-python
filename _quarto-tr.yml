@@ -1,0 +1,8 @@
+project:
+  type: book
+
+book:
+  chapters:
+    - course-content/python-list-tr.md
+
+
