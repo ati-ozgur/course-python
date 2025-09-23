@@ -110,10 +110,54 @@ print(pairs)
 
 ## Sözlük Anlamaları (Comprehensions)
 
+Sözlük Anlama, liste anlama ile oldukça benzerdir.
+[] yerine sözlük sembolü {} kullanılır.
+Aşağıdaki kod, sözlük ve for döngüsü kullanarak kareler versiyonunu oluşturur.
+
+
+```python
+kareler = {}
+for x in range(5):
+    kareler[x] = x * x
+
+print(kareler)
+```
+
+Sözlük Anlama daha kısadır.
+
+
+```python
+kareler = {x: x * x for x in range(5)}
+
+print(kareler)
+```
+
 
 ## Küme Anlamaları (Set Comprehensions)
 
+Küme anlamaları, liste anlamalarına çok benzer; kümeler oluşturmak için [] yerine {} kullanın.
+Kümeler oluşturduğumuz için **hiçbir yineleme** yoktur yani tekrar edilen eleman yoktur.
+Çıktı sırasız olabilir.
 
+Aşağıdakiler liste oluşturur:
+
+```python
+sayi_listesi = [x % 3 for x in range(10)]
+print(sayi_listesi)
+```
+Aşağıdaki kod küme oluşturur
+
+```python
+sayi_kumesi = {x % 3 for x in range(10)}
+print(sayi_kumesi)
+```
+
+Çıktı farklı olacaktır.
+
+- sayi_listesi:  [0, 1, 2, 0, 1, 2, 0, 1, 2, 0] 
+- sayi_kumesi:  {0, 1, 2}
+
+Küme versiyonunda mükerrer (tekrar eden) eleman yoktur.
 
 ## Referans kitaplarımız da bu konu
 
