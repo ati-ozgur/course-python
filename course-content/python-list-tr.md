@@ -36,53 +36,76 @@ Aşağıdaki yapıyı kullanarak listelerden bir başka listeyi dilim kesme mant
 Dilimleme sonucunda başka bir liste elde edilir.
 
 
-    a_liste[başlangıc_indeks:bitis_indeks]
+    a_liste[başlangıc:bitiş:adım]
 
 
-Dikkat edilmesi gereken nokta bitis_indeks dilimlemeye dahil edilmez.
+Dikkat edilmesi gereken nokta bitiş dilimlemeye dahil edilmez.
 Buradaki mantık, range kullanımı ile aynıdır.
 
+```python
+bir_liste = list(range(10))
+print(bir_liste)
+#[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+l1 = bir_liste[2:5]
+print(l1)
+#[2, 3, 4]
+l2 = bir_liste[:5:2]
+print(l2)
+#[0, 2, 4]
+l_cift = bir_liste[::2]
+print(l_cift)
+#[0, 2, 4, 6, 8]
+l_tek = bir_liste[1::2]
+print(l_tek)
+#[1, 3, 6, 7, 9]
+```
 
-    >>> bir_liste = list(range(10))
-    >>> bir_liste
-    [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-    >>> bir_liste[2:5]
-    [2, 3, 4]
+
+Örneğin bu yapıyı kullanarak listenin tersini bulabiliriz.
 
 
-Liste uzunluğunu bulmak için **len** fonksiyonu kullanılır.
+```python
+bir_liste = list(range(10))
+print(bir_liste)
+ters_liste = bir_liste[::-1]
+print(ters_liste)
+```
 
 
-
-    print(len(yeni_liste))
 
 **liste içindeki eleman kontrolü**
 
 **in** kullanarak bir elemanın liste içinde olup olmadığını kontrol edebiliriz.
 
-
-    bir_liste = ["Jacobs","university","is","in","Germany"]
-    if "Germany" in bir_liste:
-        print("liste içinde")
-
+```python
+l1 = ["Jacobs","university","is","in","Germany"]
+if "Germany" in l1:
+    print("liste içinde")
+```
 
 ## List fonksiyonları
 
-    list[index] = new_item
-    list.append(item)
-    list.insert(index, item)
-    list.pop(index)
-    list.remove(item)
-    list.sort()
-    list.reverse()
-    list.clear()
-    list.copy()
-    list.extend(another_list) appends all elements of another_list to list
 
+Liste uzunluğunu bulmak için **len** fonksiyonu kullanılır.
+```python
+print(len(yeni_liste))
 
-## python liste kavrayışları (comprehensions)
+list[indeks] = yeni_öğe
+list.append(öğe)
+list.insert(indeks, öğe)
+list.pop(indeks)
+list.remove(öğe)
+list.sort()
+list.reverse()
+list.clear()
+list.copy()
+list.extend(başka_liste) 
+#appends all elements of başka_liste to list
+```
 
-Bakınız [python comprehensions](python-comprehensions-tr.md):
+## python liste anlamaları (comprehensions)
+
+Bakınız [python anlamaları](python-comprehensions-tr.md):
 
 
 
