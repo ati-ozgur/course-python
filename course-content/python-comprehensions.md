@@ -112,10 +112,52 @@ print(pairs)
 
 ## Dictionary Comprehensions
 
+Dictionary Comprehension are very similar to list comprehension.
+Instead of [], dictionary symbol {} is used.
+Following code creates squares version using dictionary and for loop.
+
+
+```python
+squares = {}
+for x in range(5):
+    squares[x] = x ** 2
+
+print(squares)
+```
+
+Dictionary comprehension is more compact.
+
+```python
+squares = {x: x ** 2 for x in range(5)}
+
+print(squares)
+```
+
 
 ## Set Comprehensions
 
+Set comprehensions are very similar to list comprehensions, use {} to create sets instead of [].
+Since we create sets, there are **no duplicates** and output may be unordered.
 
+Following creates list
+
+```python
+nums_list = [x % 3 for x in range(10)]
+print(nums_list)
+```
+Following creates set
+
+```python
+nums_set = {x % 3 for x in range(10)}
+print(nums_set)
+```
+
+Output will be different:
+
+- nums_list:  [0, 1, 2, 0, 1, 2, 0, 1, 2, 0] 
+- nums_set:  {0, 1, 2}
+
+In set version, no duplicates exist.
 
 ## Links in our references
 
