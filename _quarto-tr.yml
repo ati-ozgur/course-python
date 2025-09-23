@@ -13,9 +13,14 @@ book:
       - text: "Türkçe"
         href: ../tr/index.html  
   chapters:
-    - index.md  
-    - course-content/why-learn-python-tr.md      
-    - course-content/python-range-tr.md
-    - course-content/python-list-tr.md
+    - part: "Giriş"
+      chapters:
+        - index.md  
+        - course-content/why-learn-python-tr.md      
+        - course-content/python-range-tr.md
+        - course-content/python-list-tr.md
+    - part: "Ekstralar"    
+      chapters:
+        - course-content/PIP-tr.md      
 
 
