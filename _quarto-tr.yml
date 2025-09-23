@@ -13,7 +13,8 @@ book:
       - text: "Türkçe"
         href: ../tr/index.html  
   chapters:
-    - index.md    
+    - index.md  
+    - course-content/why-learn-python-tr.md      
     - course-content/python-range-tr.md
     - course-content/python-list-tr.md
 
