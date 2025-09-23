@@ -79,6 +79,25 @@ print(l2)
 
 ## Çift döngü örneği
 
+Aşağıdaki kod for döngüsünü kullanarak çiftler oluşturur:
+
+```python
+pairs = []
+for i in range(3):
+    for c in ["a","b","c"]:
+        pairs.append((i, c))
+
+print(pairs)
+```
+
+Anlama versiyonu daha kısadır.
+
+```python
+pairs = [(i, c) for i in range(3) for c in ["a","b","c"]]
+
+print(pairs)
+```
+
 
 
 ### Liste anlamlara yönelik öğreticiler/vidyolar

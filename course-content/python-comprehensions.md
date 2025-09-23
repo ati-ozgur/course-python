@@ -80,6 +80,26 @@ print(l2)
 
 ## Double loop example
 
+Following code creates pairs using for loop:
+
+```python
+pairs = []
+for i in range(3):
+    for c in ["a","b","c"]:
+        pairs.append((i, c))
+
+print(pairs)
+```
+
+Comprehension version is more compact.
+
+```python
+pairs = [(i, c) for i in range(3) for c in ["a","b","c"]]
+
+print(pairs)
+```
+
+
 
 
 ### Tutorials/Videos for list comprehension
