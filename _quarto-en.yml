@@ -45,9 +45,8 @@ book:
         - course-content/loop-statements-while.md
         - course-content/loop-statements-for.md
         - course-content/loop-statements.md
-        - course-content/python-list.md
         - course-content/python-range.md
-        - course-content/indexing-list.md
+        - course-content/python-list.md
         - course-content/indexing-string.md
         - course-content/functions.md
         - course-content/function-arguments.md
