@@ -26,9 +26,9 @@ book:
         - course-content/programmers-text-editor.md
         - course-content/python-hello-world.md
         - course-content/command-line-en.md
-        - course-content/getting-started.md
+        - course-content/getting-started-en.md
         - course-content/IDE.md
-        - course-content/helpful-tools.md
+        - course-content/helpful-tools-en.md
         - course-content/debugging-en.md
         - course-content/input-function.md
         - course-content/python-built-in-functions.md
@@ -42,7 +42,7 @@ book:
         - course-content/strings.md
         - course-content/f-strings-en.md
         - course-content/simple-function-definition.md
-        - course-content/importing-modules.md
+        - course-content/importing-modules-en.md
         - course-content/loop-intution.md
         - course-content/loop-statements-while.md
         - course-content/loop-statements-for.md
@@ -51,7 +51,7 @@ book:
         - course-content/python-range-en.md
         - course-content/python-list-en.md
 
-        - course-content/indexing-string.md
+        - course-content/indexing-string-en.md
         - course-content/functions-en.md
         - course-content/function-arguments-en.md
         - course-content/recursion.md
