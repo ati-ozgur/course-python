@@ -21,9 +21,9 @@ book:
         - course-content/references-courses-en.md
         - course-content/references-books-en.md
         #- Syllabus.md
-        - course-content/online-interpreters.md
+        - course-content/online-interpreters-en.md
         - course-content/python-installation.md
-        - course-content/programmers-text-editor.md
+        - course-content/programmers-text-editor-en.md
         - course-content/python-hello-world.md
         - course-content/command-line-en.md
         - course-content/getting-started-en.md
@@ -31,8 +31,8 @@ book:
         - course-content/helpful-tools-en.md
         - course-content/debugging-en.md
         - course-content/input-function-en.md
-        - course-content/python-built-in-functions.md
-        - course-content/python-as-calculator.md
+        - course-content/python-built-in-functions-en.md
+        - course-content/python-as-calculator-en.md
         - course-content/basic-data-types-en.md
         - course-content/variables.md
 
