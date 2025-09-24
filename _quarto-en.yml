@@ -84,8 +84,8 @@ book:
         - course-content/inheritance-en.md
     - part: "Summary"
       chapters:    
-        - summary.md
-        - references.md
+        - summary-en.md
+        - references-en.md
 
 
 
