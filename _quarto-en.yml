@@ -22,9 +22,10 @@ book:
         - course-content/references-books-en.md
         #- Syllabus.md
         - course-content/online-interpreters-en.md
-        - course-content/python-installation.md
+        - course-content/python-installation-en.md
         - course-content/programmers-text-editor-en.md
-        - course-content/python-hello-world.md
+        - course-content/python-hello-world-en.md
+        - course-content/python-comments-en.md
         - course-content/command-line-en.md
         - course-content/getting-started-en.md
         - course-content/IDE-en.md
@@ -34,8 +35,8 @@ book:
         - course-content/python-built-in-functions-en.md
         - course-content/python-as-calculator-en.md
         - course-content/basic-data-types-en.md
-        - course-content/variables.md
-
+        - course-content/variables-en.md
+        - course-content/python-keywords-en.md
 
         - course-content/comparisons-boolean-variables-en.md
         - course-content/conditionals-statements-en.md
@@ -56,7 +57,7 @@ book:
         - course-content/functions-en.md
         - course-content/function-arguments-en.md
         - course-content/recursion-en.md
-        - course-content/python-dictionary.md
+        - course-content/python-dictionary-en.md
         - course-content/file-input-output-en.md
         - course-content/modules-en.md
         - course-content/PIP-en.md
