@@ -10,5 +10,6 @@ We will be using following two reference books and python tutorial in our course
 
 3. [Python tutorial](https://docs.python.org/3/tutorial/index.html)
 
-Python tutorial is more geared toward already experienced programmers but after you learn basics it would be helpful to go over it.
+Python tutorial is geared toward already experienced programmers.
+But after you learn basics it would be helpful to go over it.
 Especially, a lot of Internet searches would lead to it.
