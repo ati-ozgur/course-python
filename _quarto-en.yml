@@ -17,9 +17,9 @@ book:
       chapters:    
         - index.md
         - intro.md
-        - course-content/why-learn-python.md
-        - course-content/references-courses.md
-        - course-content/references-books.md
+        - course-content/why-learn-python-en.md
+        - course-content/references-courses-en.md
+        - course-content/references-books-en.md
         #- Syllabus.md
         - course-content/online-interpreters.md
         - course-content/python-installation.md
