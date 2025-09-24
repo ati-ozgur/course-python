@@ -65,7 +65,8 @@ book:
     - part: "Extras"
       chapters:
         - course-content/virtual-environments-en.md
-        - course-content/docstring-en.md        
+        - course-content/docstring-en.md
+        - course-content/code-quality-style-analyzers.md
         # TODO does not work in quarto, fix markdown
         #- course-content/python-object-oriented-programming.md    
     - part: "Summary"
