@@ -63,7 +63,7 @@ book:
         - course-content/PIP-en.md
         - course-content/using-other-modules-packages.md
         - course-content/exception-handling-en.md
-        - course-content/python-comprehensions.md
+        - course-content/python-comprehensions-en.md
         - course-content/useful-python-code-snippets.md
         - course-content/questions/000questions.qmd
     - part: "Extras"
