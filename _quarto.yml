@@ -13,6 +13,14 @@ book:
   cover-image: course-content/images/logos/Python-logo-notext.svg
   output-file: "course-python"
   title: "Introduction to python (Python giriş)"
+  navbar:
+    background: primary
+    search: true
+    right:
+      - text: "English"
+        href: ../en/index.html
+      - text: "Türkçe"
+        href: ../tr/index.html      
   chapters:
       - index.md
 
