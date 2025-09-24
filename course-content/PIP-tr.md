@@ -1,46 +1,53 @@
 # PIP (Package installer for python, Python için paket yükleyici)
 
 
-[PIP](https://pip.pypa.io/en/stable/) is the package installer for python.
-It is the default and most used tool for installing other packages.
-
-Normally, you install packages from [Python Package Index](https://pypi.org/).
-You can search for packages in its own web site.
-As of 2022-11, python package index had more than 400_000 projects.
+[PIP](https://pip.pypa.io/en/stable/), Python için paket yükleyicisidir.
+Diğer paketleri yüklemek için varsayılan ve en çok kullanılan araçtır.
 
 
-But you can also install from
+Aşağıdaki komutu 
+
+	pip install paket_adi
+
+kullanarak, paketleri [Python Paket Dizini](https://pypi.org/) adresinden yüklersiniz.
+Aynı zamanda bu adreste paketleri arayabilirsiniz.
+Python paket dizininde 2022-11'de 400_000'den fazla proje, 2025-11'de ise 680_000'den fazla project bulunmaktadır.
+Bu python'un populerliğini göstermektedir.
 
 
 
-- project files itself
+Ancak aşağıdaki diğer şekillerde de kurulum yapabilirsiniz.
+
+- proje dosyasından 
 	
 	python -m pip install projectfiles-1.0.zip
 
-- git repositories like github
+- git sitelerinde mesela github
 
 	python -m pip install git+https://github.com/ati-ozgur/Pyevolve3.git@main
 
-- distribution files (especially useful behind proxies)
+- Dağıtım dosyalarının kendisinden  (Özellikle proxy arkasında çalışılan firmalar için güzeldir)
 	
-	- source distribution 
+	- Kaynak kod
 
 	python -m pip install projectfiles-1.0.zip
 
-	- wheel distribution 	
+	- wheel dağıtımı 	
 
 	python -m pip install projectfiles-1.0.py3-none-any.whl
 
-Also you can install multiple packages using requirements.txt files
+
+
+Ayrıca requirements.txt dosyalarını kullanarak birden fazla paket kurabilirsiniz
 
 	python -m pip install -r requirements.txt
 
 
-with pip list, you can see which packages are installed in your computer.
+pip list ile bilgisayarınızda hangi paketlerin yüklü olduğunu görebilirsiniz.
 
 	python -m pip list
 
-If you want, you can uninstall any package
+İsterseniz herhangi bir paketi kaldırabilirsiniz
 
 
 	python -m pip uninstall projectfiles
