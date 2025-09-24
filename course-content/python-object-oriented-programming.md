@@ -2,8 +2,8 @@
 
 Classes are templates to create objects.
 
-	data
-	methods (functions that belongs classes, most of the time uses data in the object)
+- data
+- methods (functions that belongs classes, most of the time uses data in the object)
 
 Everything in python is an object.
 To find a methods of an object use **dir** function
@@ -16,8 +16,6 @@ To find a methods of an object use **dir** function
 	type("")
 	dir(1)
 ```
-
-
 
 
 
@@ -63,7 +61,7 @@ To find a methods of an object use **dir** function
 
 ## Special methods
 
-- python classes have special methods that start and end with \_\_.
+- python classes have special methods that start and end with __.
 - __init__ constructor method for initializing objects
 - __str__  a method when object converted to string, for example in print() function.
 
@@ -98,6 +96,7 @@ To find a methods of an object use **dir** function
 
 ## Video Tutorials
 
+TODO
 
 
 
