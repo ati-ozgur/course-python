@@ -63,7 +63,8 @@ book:
     - part: "Extras"
       chapters:
         - course-content/virtual-environments-en.md
-        - course-content/python-object-oriented-programming.md    
+        # TODO does not work in quarto, fix markdown
+        #- course-content/python-object-oriented-programming.md    
     - part: "Summary"
       chapters:    
         - summary.md
