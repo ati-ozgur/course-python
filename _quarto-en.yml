@@ -52,11 +52,11 @@ book:
         - course-content/python-list-en.md
 
         - course-content/indexing-string.md
-        - course-content/functions.md
-        - course-content/function-arguments.md
+        - course-content/functions-en.md
+        - course-content/function-arguments-en.md
         - course-content/recursion.md
         - course-content/python-dictionary.md
-        - course-content/file-input-output.md
+        - course-content/file-input-output-en.md
         - course-content/modules.md
         - course-content/PIP-en.md
         - course-content/using-other-modules-packages.md
