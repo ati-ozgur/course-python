@@ -21,15 +21,19 @@ Out[7]: int
 
 
 
-## Converting between types
+## Converting/Casting between types
 
-use object changing functions.
+use object functions to change to different types.
 
     int
     float
     bool
     str
     complex
+
+
+- [casting in w3schools.com](https://www.w3schools.com/python/python_casting.asp)
+
 
 
 ## + operator works with same types
