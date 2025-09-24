@@ -30,7 +30,7 @@ book:
         - course-content/IDE-en.md
         - course-content/helpful-tools-en.md
         - course-content/debugging-en.md
-        - course-content/input-function.md
+        - course-content/input-function-en.md
         - course-content/python-built-in-functions.md
         - course-content/python-as-calculator.md
         - course-content/basic-data-types-en.md
@@ -43,10 +43,10 @@ book:
         - course-content/f-strings-en.md
         - course-content/simple-function-definition.md
         - course-content/importing-modules-en.md
-        - course-content/loop-intution.md
-        - course-content/loop-statements-while.md
-        - course-content/loop-statements-for.md
-        - course-content/loop-statements.md
+        - course-content/loop-intution-en.md
+        - course-content/loop-statements-while-en.md
+        - course-content/loop-statements-for-en.md
+        - course-content/loop-statements-en.md
 
         - course-content/python-range-en.md
         - course-content/python-list-en.md
