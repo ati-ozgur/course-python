@@ -64,10 +64,11 @@ book:
         - course-content/using-other-modules-packages.md
         - course-content/exception-handling-en.md
         - course-content/python-comprehensions-en.md
-        - course-content/useful-python-code-snippets.md
+        - course-content/useful-python-code-snippets-en.md
         - course-content/questions/000questions.qmd
     - part: "Extras"
       chapters:
+        - course-content/software-bugs-en.md
         - course-content/python-variable-scope-en.md
         - course-content/python-tuples-en.md
         - course-content/python-pointers-en.md
