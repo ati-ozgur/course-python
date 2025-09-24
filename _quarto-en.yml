@@ -25,7 +25,7 @@ book:
         - course-content/python-installation.md
         - course-content/programmers-text-editor.md
         - course-content/python-hello-world.md
-        - course-content/command-line.md
+        - course-content/command-line-en.md
         - course-content/getting-started.md
         - course-content/IDE.md
         - course-content/helpful-tools.md
@@ -66,7 +66,7 @@ book:
       chapters:
         - course-content/virtual-environments-en.md
         - course-content/docstring-en.md
-        - course-content/code-quality-style-analyzers.md
+        - course-content/code-quality-style-analyzers-en.md
         # TODO does not work in quarto, fix markdown
         #- course-content/python-object-oriented-programming.md    
     - part: "Summary"
