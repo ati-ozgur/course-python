@@ -25,8 +25,8 @@ To find a methods of an object use **dir** function
 ## Minimal example
 
 ```python
-	class Person:
-		pass
+class Person:
+	pass
 ```
 
 
@@ -35,11 +35,11 @@ To find a methods of an object use **dir** function
 
 
 ```python
-	class Person:
+class Person:
 
-		def __init__(self,first_name,last_name):
-			self.first_name = first_name
-			self.last_name = last_name
+	def __init__(self,first_name,last_name):
+		self.first_name = first_name
+		self.last_name = last_name
 ```
 
 
@@ -47,15 +47,15 @@ To find a methods of an object use **dir** function
 ## instance method
 
 ```python
-	class Person:
+class Person:
 
-		def __init__(self,first_name,last_name):
-			self.first_name = first_name
-			self.last_name = last_name
+	def __init__(self,first_name,last_name):
+		self.first_name = first_name
+		self.last_name = last_name
 
 
-	    def greeting(self):
-	        return f"hello, {self.first_name} {self.last_name}"
+    def greeting(self):
+        return f"hello, {self.first_name} {self.last_name}"
 ```
 
 
@@ -72,18 +72,18 @@ To find a methods of an object use **dir** function
 
 
 ```python
-	class Person:
+class Person:
 
-		def __init__(self,first_name,last_name):
-			self.first_name = first_name
-			self.last_name = last_name
+	def __init__(self,first_name,last_name):
+		self.first_name = first_name
+		self.last_name = last_name
 
 
-	    def greeting(self):
-	        return f"hello, {first_name} {last_name}"
+	def greeting(self):
+		return f"hello, {first_name} {last_name}"
 
-	    def __str__():
-	    	return self.greeting()
+	def __str__():
+		return self.greeting()
 ```
 
 
