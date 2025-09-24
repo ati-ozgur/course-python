@@ -1,56 +1,54 @@
-# object oriented programming
+# Object oriented programming
 
 Classes are templates to create objects.
 
 	data
 	methods (functions that belongs classes, most of the time uses data in the object)
 
+Everything in python is an object.
+To find a methods of an object use **dir** function
 
-
-
-
-
-
-
-
-everything is python is an object.
-To find a methods of an object use dir function
-
+```python
 	type("")
 	dir("")
 
 
 	type("")
 	dir(1)
+```
 
 
 
 
 
-# define new classes
+## Define new classes
 
 
-## minimal example
+## Minimal example
 
+```python
 	class Person:
 		pass
-
+```
 
 
 
 ## constructor
 
+
+```python
 	class Person:
 
 		def __init__(self,first_name,last_name):
 			self.first_name = first_name
 			self.last_name = last_name
-
+```
 
 
 
 ## instance method
 
+```python
 	class Person:
 
 		def __init__(self,first_name,last_name):
@@ -60,6 +58,7 @@ To find a methods of an object use dir function
 
 	    def greeting(self):
 	        return f"hello, {self.first_name} {self.last_name}"
+```
 
 
 ## Special methods
@@ -74,6 +73,7 @@ To find a methods of an object use dir function
 ## override __str__ method
 
 
+```python
 	class Person:
 
 		def __init__(self,first_name,last_name):
@@ -86,6 +86,7 @@ To find a methods of an object use dir function
 
 	    def __str__():
 	    	return self.greeting()
+```
 
 
 
