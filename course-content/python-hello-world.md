@@ -11,7 +11,7 @@ For python this is very easy one line code.
 
 2. save the file as helloworld.py and exit editor.
 
-3. Open a [command line/Terminal](command-line.md)
+3. Open a [command line/Terminal](command-line-en.md)
 
 4. Go to folder you have saved your file 
 
