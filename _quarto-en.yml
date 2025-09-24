@@ -68,6 +68,8 @@ book:
         - course-content/questions/000questions.qmd
     - part: "Extras"
       chapters:
+        - course-content/python-variable-scope-en.md
+        - course-content/python-tuples-en.md
         - course-content/python-pointers-en.md
         - course-content/numbers-en.md
         - course-content/naming-conventions-en.md
