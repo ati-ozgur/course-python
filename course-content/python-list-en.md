@@ -66,7 +66,7 @@ we can use item in list to find if a item in the list.
 
 ## list comprehensions
 
-See [python comprehensions](python-comprehensions.md)
+See [python comprehensions](python-comprehensions-en.md)
 
 
 
