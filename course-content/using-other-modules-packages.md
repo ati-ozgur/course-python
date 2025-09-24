@@ -23,7 +23,7 @@ then
 	import emoji
 	print(emoji.emojize('Python is :thumbs_up:'))
 
-see longer [PIP](PIP.md) explanation in course notes.
+see longer [PIP](PIP-en.md) explanation in course notes.
 
 
 # Where this modules are stored?
