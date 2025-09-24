@@ -16,7 +16,9 @@ book:
     - part: "Giriş"
       chapters:
         - index.md  
-        - course-content/why-learn-python-tr.md      
+        - course-content/why-learn-python-tr.md
+        - course-content/references-courses-tr.md
+
         - course-content/python-range-tr.md
         - course-content/python-list-tr.md
         - course-content/python-comprehensions-tr.md
