@@ -29,16 +29,18 @@ book:
         - course-content/getting-started.md
         - course-content/IDE.md
         - course-content/helpful-tools.md
-        - course-content/debugging.md
+        - course-content/debugging-en.md
         - course-content/input-function.md
         - course-content/python-built-in-functions.md
         - course-content/python-as-calculator.md
         - course-content/basic-data-types-en.md
         - course-content/variables.md
-        - course-content/comparisons-boolean-variables.md
-        - course-content/conditionals-statements.md
+
+        - course-content/comparisons-boolean-variables-en.md
+        - course-content/conditionals-statements-en.md
+
         - course-content/strings.md
-        - course-content/f-strings.md
+        - course-content/f-strings-en.md
         - course-content/simple-function-definition.md
         - course-content/importing-modules.md
         - course-content/loop-intution.md
@@ -58,7 +60,7 @@ book:
         - course-content/modules.md
         - course-content/PIP-en.md
         - course-content/using-other-modules-packages.md
-        - course-content/exception-handling.md
+        - course-content/exception-handling-en.md
         - course-content/python-comprehensions.md
         - course-content/useful-python-code-snippets.md
         - course-content/questions/000questions.qmd
@@ -67,6 +69,7 @@ book:
         - course-content/virtual-environments-en.md
         - course-content/docstring-en.md
         - course-content/code-quality-style-analyzers-en.md
+        - course-content/composition-en.md
         # TODO does not work in quarto, fix markdown
         #- course-content/python-object-oriented-programming.md    
     - part: "Summary"
