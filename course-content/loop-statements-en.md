@@ -1,11 +1,11 @@
 # Loop Statements
 
 
-- [loop-intution](loop-intution.md)
+- [loop-intution](loop-intution-en.md)
 
-- [while loop](loop-statements-while.md)
+- [while loop](loop-statements-while-en.md)
 
-- [for loop](loop-statements-for.md)
+- [for loop](loop-statements-for-en.md)
 
 
  - break TODO
