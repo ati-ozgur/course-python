@@ -65,7 +65,7 @@ book:
         - course-content/exception-handling-en.md
         - course-content/python-comprehensions-en.md
         - course-content/useful-python-code-snippets-en.md
-        - course-content/questions/000questions.qmd
+        - course-content/questions/000questions-en.qmd
     - part: "Extras"
       chapters:
         - course-content/type-vs-isinstance-en.md
