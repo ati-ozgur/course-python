@@ -32,7 +32,7 @@ use object functions to change to different types.
     complex
 
 
-- [casting in w3schools.com](https://www.w3schools.com/python/python_casting.asp)
+
 
 
 
@@ -74,12 +74,12 @@ hello10
 ```
 
 
-## Links in our references
+## Other tutorials 
 
 
 - [Python Data Types in w3schools.com](https://www.w3schools.com/python/python_datatypes.asp)
 
-- 
+- [casting in w3schools.com](https://www.w3schools.com/python/python_casting.asp)
 
 
 ## Video Tutorials
