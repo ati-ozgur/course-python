@@ -54,7 +54,7 @@ book:
         - course-content/python-dictionary.md
         - course-content/file-input-output.md
         - course-content/modules.md
-        - course-content/PIP.md
+        - course-content/PIP-en.md
         - course-content/using-other-modules-packages.md
         - course-content/exception-handling.md
         - course-content/python-comprehensions.md
