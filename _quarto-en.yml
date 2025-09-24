@@ -36,6 +36,7 @@ book:
         - course-content/basic-data-types-en.md
         - course-content/variables.md
 
+
         - course-content/comparisons-boolean-variables-en.md
         - course-content/conditionals-statements-en.md
 
@@ -54,10 +55,10 @@ book:
         - course-content/indexing-string-en.md
         - course-content/functions-en.md
         - course-content/function-arguments-en.md
-        - course-content/recursion.md
+        - course-content/recursion-en.md
         - course-content/python-dictionary.md
         - course-content/file-input-output-en.md
-        - course-content/modules.md
+        - course-content/modules-en.md
         - course-content/PIP-en.md
         - course-content/using-other-modules-packages.md
         - course-content/exception-handling-en.md
@@ -66,6 +67,8 @@ book:
         - course-content/questions/000questions.qmd
     - part: "Extras"
       chapters:
+        - course-content/numbers-en.md
+        - course-content/naming-conventions-en.md
         - course-content/virtual-environments-en.md
         - course-content/docstring-en.md
         - course-content/code-quality-style-analyzers-en.md
