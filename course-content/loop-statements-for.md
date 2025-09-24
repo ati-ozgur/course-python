@@ -14,7 +14,7 @@ Below, we iterate over a name list
     >>>
 
 
-for statement mostly used with [range](python-range.md).
+for statement mostly used with [range](python-range-en.md).
 
 
     >>> for i in range(10):
