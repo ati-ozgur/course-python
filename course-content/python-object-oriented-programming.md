@@ -22,7 +22,7 @@ To find a methods of an object use **dir** function
 ## Define new classes
 
 
-## Minimal example
+### Minimal example
 
 ```python
 class Person:
@@ -31,7 +31,7 @@ class Person:
 
 
 
-## constructor
+### constructor
 
 
 ```python
