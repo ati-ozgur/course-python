@@ -59,9 +59,14 @@ book:
         - course-content/exception-handling.md
         - course-content/python-comprehensions.md
         - course-content/useful-python-code-snippets.md
-        #- course-content/python-object-oriented-programming.md    
-        - summary.md
         - course-content/questions/000questions.qmd
+    - part: "Extras"
+      chapters:
+        - course-content/virtual-environments-en.md
+        - course-content/python-object-oriented-programming.md    
+    - part: "Summary"
+      chapters:    
+        - summary.md
         - references.md
 
 
