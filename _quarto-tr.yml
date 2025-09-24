@@ -4,6 +4,14 @@ project:
 book:
   output-file: "python-giris"
   title: "Python Giriş"
+  navbar:
+    background: primary
+    search: true
+    right:
+      - text: "English"
+        href: ../en/index.html
+      - text: "Türkçe"
+        href: ../tr/index.html  
   chapters:
     - part: "Giriş"
       chapters:
