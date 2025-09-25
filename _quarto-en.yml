@@ -16,12 +16,14 @@ book:
     - part: "Introduction"
       chapters:    
         - index.md
+        #- Syllabus.md
         - course-content/intro-en.md
         - course-content/why-learn-python-en.md
         - course-content/references-courses-en.md
         - course-content/references-books-en.md
-        #- Syllabus.md
         - course-content/online-interpreters-en.md
+
+
         - course-content/python-installation-en.md
         - course-content/programmers-text-editor-en.md
         - course-content/python-hello-world-en.md
