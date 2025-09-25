@@ -16,7 +16,7 @@ book:
     - part: "Introduction"
       chapters:    
         - index.md
-        - intro-en.md
+        - course-content/intro-en.md
         - course-content/why-learn-python-en.md
         - course-content/references-courses-en.md
         - course-content/references-books-en.md
@@ -84,8 +84,8 @@ book:
         - course-content/inheritance-en.md
     - part: "Summary"
       chapters:    
-        - summary-en.md
-        - references-en.md
+        - course-content/summary-en.md
+        - course-content/references-en.md
 
 
 
