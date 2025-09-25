@@ -16,6 +16,7 @@ book:
     - part: "Giriş"
       chapters:
         - index.md  
+        - course-content/intro-tr.md
         - course-content/why-learn-python-tr.md
         - course-content/references-courses-tr.md
         - course-content/references-books-tr.md
