@@ -26,6 +26,7 @@ book:
         - course-content/python-hello-world-tr.md
         - course-content/python-comments-tr.md
         - course-content/command-line-tr.md
+        - course-content/getting-started-tr.md
 
 
         - course-content/python-range-tr.md
