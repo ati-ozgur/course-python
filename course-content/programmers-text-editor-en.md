@@ -23,8 +23,8 @@ This is normally my editor of choice but we will use Visual Studio Code mostly i
 - Notepad++ (Windows only): I also use this one.
 
 - Visual Studio Code (Cross Platform) : Another popular choice.
-Visual studio code (vscode) is an hybrid between programmers text editor and IDE (Integrated Development Environment).
-It is not very powerful like an IDE but provides much more features compared to standard programmers text editor.
+Visual studio code (vscode) is an hybrid between programmers text editor and full IDE (Integrated Development Environment).
+It is not very powerful like an Visual Studio.NET but provides much more features compared to standard programmers text editor, like debugging and some refactorings.
 
 
 

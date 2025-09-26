@@ -22,7 +22,9 @@ book:
         - course-content/references-books-tr.md
         - course-content/online-interpreters-tr.md
         - course-content/python-installation-tr.md
+        - course-content/programmers-text-editor-tr.md
 
+        
         - course-content/python-range-tr.md
         - course-content/python-list-tr.md
         - course-content/python-comprehensions-tr.md
