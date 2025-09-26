@@ -24,6 +24,7 @@ book:
         - course-content/python-installation-tr.md
         - course-content/programmers-text-editor-tr.md
         - course-content/python-hello-world-tr.md
+        - course-content/python-comments-tr.md
 
 
         - course-content/python-range-tr.md
