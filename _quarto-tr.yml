@@ -27,6 +27,7 @@ book:
         - course-content/python-comments-tr.md
         - course-content/command-line-tr.md
         - course-content/getting-started-tr.md
+        - course-content/IDE-tr.md
 
 
         - course-content/python-range-tr.md
