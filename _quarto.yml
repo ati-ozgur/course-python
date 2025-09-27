@@ -1,3 +1,6 @@
+filters:
+   - include-code-files
+   
 project:
   type: book
   execute-dir: "project"
