@@ -1,24 +1,23 @@
-# loop intuition
+# döngü sezgisi
 
-## repeating something
+## bir şeyi tekrarlamak
 
-Repeating something is the most easy loop.
-For example, writing your name 4 times in the screen.
+Bir şeyi tekrarlamak en kolay döngüdür.
+Örneğin, adınızı ekrana 4 kez yazmak.
 
 	Atilla
 	Atilla
 	Atilla
 	Atilla
 
-We can accomplish above with loops in the python, while or for loops.
-We will see how they work.	
+Yukarıdakileri Python'da while veya for döngüleriyle başarabiliriz.
+Nasıl çalıştıklarını göreceğiz.
 
+## Sayıları artırma
 
-## increasing numbers
-
-This is again very common loop type.
-For example, printing out numbers from 1 to 10.
-This requirement could be accomplished with while or for loops again.
+Bu da yine çok yaygın bir döngü türüdür.
+Örneğin, 1'den 10'a kadar sayıları yazdırmak.
+Bu gereksinim yine while veya for döngüleriyle karşılanabilir.
 
 ```python
 1
@@ -32,8 +31,7 @@ This requirement could be accomplished with while or for loops again.
 9 
 10
 ```
-
-If we write this in python code.
+Bunu Python kodu olarak yazarsak.
 
 
 ```python
@@ -43,14 +41,12 @@ while index <= 10:
 	index = index + 1
 ```
 
+## toplam sayısı 1..N
+
+1..10'un toplamını bulmak istiyoruz.
 
 
-## summation number 1..N
-
-
-We want to find find summation of 1..10.
-
-```
+```python
 1 = 1
 1+2 = 3
 1+2+3 = 6
@@ -64,7 +60,8 @@ We want to find find summation of 1..10.
 ```
 
 
-```
+
+```python
  1       = 1
 (1)  + 2 = 3
 (3)  + 3 = 6
@@ -75,9 +72,12 @@ We want to find find summation of 1..10.
 (28) + 8 = 36
 (36) + 9 = 45
 (45) +10 = 55
+
 ```
 
-If we write this in python code.
+
+Bunu Python kodu olarak yazarsak.
+
 
 ```python
 index = 1
@@ -89,9 +89,8 @@ while index <= 10:
 print(total)
 ```
 
+1..N ile çalışacak şekilde değiştirin
 
-
-change it so that it works with 1..N
 
 ```python
 index = 1
