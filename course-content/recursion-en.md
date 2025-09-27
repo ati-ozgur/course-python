@@ -34,7 +34,7 @@ def recursive(x):
 recursive(10)
 ```
 
-Çıktı: 
+Result: 
 
 ```
 10
