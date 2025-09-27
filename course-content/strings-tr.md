@@ -50,33 +50,33 @@ multi_line_string2 = ''' Hello
     this is another multi line string
 '''
 ```
-To change other variable to string, we use **str** function
+
+Diğer değişken tiplerini dizgiye dönüştürmek için **str** fonksiyonunu kullanırız
 
 
 
 ```python
 a = 5
-print("number is " + str(a))
+print("sayı:" + str(a))
 ``` 
 
 
-## String Formatting
+## Dizgi Biçimlendirme
 
-Python 3.6 introduced [f-strings](https://docs.python.org/3/reference/lexical_analysis.html#f-strings) for easy string formatting.
-We will use them in our classes.
-Variable name is enclosed between curly braces in the string.
-
+Python 3.6, kolay dize biçimlendirme için f-dizgilerini (https://docs.python.org/3/reference/lexical_analysis.html#f-strings) kullanıma sundu.
+Bunları derslerimizde kullanacağız.
+Değişken adı, dizgide süslü parantezler arasına alınır.
 
  
 ```python
-age = 42
-print(f"Age is {age}")
+yas = 42
+print(f"Yaşınız {yas}")
 ```   
 
 
-output is
+Çıktı
 
-    Age is 42
+    Yaşınız 42
 
 
 
@@ -154,7 +154,7 @@ Out[10]: 'illa'
 ```
 
 
-## More
+## Daha fazla
 
 - [python f-strings](https://realpython.com/python-f-strings/)
 
