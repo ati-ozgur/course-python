@@ -3,9 +3,12 @@
 Python has built-in functions like str, print and input.
 But we can also define our own functions like below.
 
+```python
+def say_hello(name):
+	print("hello " + name)
+```
 
-	def say_hello(name):
-		print("hello " + name)
+
 
 
 Here def keyword is used to define function.
@@ -16,37 +19,42 @@ In python whitespace is important; therefore, after double column, we need to pu
 
 We can use our defined functions normally.
 
-
-	In [1]: def say_hello(name):
-	   ...:    print("hello " + name)
-	   ...:
-
-	In [2]: say_hello("Atilla")
-	hello Atilla
-
-	In [3]: say_hello("Duru")
-	hello Duru
+```python
+def say_hello(name):
+   print("hello " + name)
 
 
-### Example with more parameters
+say_hello("Atilla")
+#hello Atilla
+
+say_hello("Duru")
+#hello Duru
+
+```
 
 
-### Example with default parameters
+
+## Example with more parameters
 
 
-### Functions returning values
+## Example with default parameters
+
+
+## Functions returning values
 
 
 if a function does not return anything, it by default returns none.
 For example
 
-	In [4]: def say_hello(name):
-	   ...:   print("hello " + name)
-	   ...:
-	   ...: ret = say_hello("atilla")
-	   ...: print(ret)
-	hello atilla
-	None
+```python
+def say_hello(name):
+   print("hello " + name)
+   
+ret = say_hello("atilla")
+print(ret)
+#hello atilla
+#None
+```
 
 
 Since say_hello function do not use return keyword, it returns python special type None.
@@ -54,15 +62,18 @@ Since say_hello function do not use return keyword, it returns python special ty
 
 ## Swap example
 
-    a = 2
-    b = 4
+```python
+a = 2
+b = 4
 
-    def swap(a, b):
-        temp = a
-        a = b
-        b = temp
-    swap(a, b)
-    print(a, b)
+def swap(a, b):
+    temp = a
+    a = b
+    b = temp
+swap(a, b)
+print(a, b)
+
+```
 
 
 
