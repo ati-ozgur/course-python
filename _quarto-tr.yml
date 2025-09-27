@@ -38,6 +38,7 @@ book:
         - course-content/basic-data-types-tr.md
         - course-content/comparisons-boolean-variables-tr.md
         - course-content/conditionals-statements-tr.md
+        - course-content/strings-tr.md
 
 
         - course-content/python-range-tr.md

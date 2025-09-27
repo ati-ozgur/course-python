@@ -1,4 +1,4 @@
-# strings
+# Betikler (strings)
 
 
 Strings are defined using either double quotes "" or single quotes. ''
@@ -141,7 +141,7 @@ Out[10]: 'illa'
 
 
 
-## Links in our references
+## Referanslarımızda bu konu
 
 
 - [Python Strings in python101](https://python101.pythonlibrary.org/chapter2_strings.html)
@@ -152,7 +152,7 @@ Out[10]: 'illa'
 
 - [Non-Programmer's Tutorial for Python 3/Revenge of the Strings](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Revenge_of_the_Strings)
 
-## Video Tutorials
+## Vidyo Öğreticiler
 
 - [Video Tutorial Strings](https://www.youtube.com/watch?v=UsCQXe1OHZk)
 
