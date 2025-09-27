@@ -44,6 +44,7 @@ book:
         - course-content/importing-modules-tr.md
         - course-content/loop-intution-tr.md
         - course-content/loop-statements-while-tr.md
+        - course-content/loop-statements-for-tr.md
 
 
         - course-content/python-range-tr.md
