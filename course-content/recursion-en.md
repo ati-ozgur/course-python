@@ -137,7 +137,7 @@ else:
 See following [stackoverflow question](https://softwareengineering.stackexchange.com/questions/25052/in-plain-english-what-is-recursion)
 
 
-## Examples
+## Recursion Examples
 
 ### Factorial 
 
@@ -162,7 +162,7 @@ In general, any tree structure are more easily solved using recursion.
 
 
 
-### More reading for recursion
+## More reading for recursion
 
 
 - [google search for recursion](https://www.google.com/search?q=recursion)
