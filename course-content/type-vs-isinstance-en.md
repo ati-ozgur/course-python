@@ -8,11 +8,13 @@ type only checks for equality of types.
 
 a good example.
 
+```python
+type(True)  # bool
+type(True) == int # False 
+isinstance(True, int)  # True
+isinstance(False, int) # True
+```
 
-	type(True)  # bool
-	type(True) == int # False 
-	isinstance(True, int)  # True
-	isinstance(False, int) # True
 
 
 
