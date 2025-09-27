@@ -77,6 +77,8 @@ book:
         - course-content/docstring-tr.md
         - course-content/code-quality-style-analyzers-tr.md
         - course-content/python-object-oriented-programming-tr.qmd
+        - course-content/composition-tr.md
+        - course-content/inheritance-tr.md
 
 
     - part: "Son"
