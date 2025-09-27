@@ -40,6 +40,7 @@ book:
         - course-content/comparisons-boolean-variables-en.md
         - course-content/conditionals-statements-en.md
         - course-content/strings-en.md
+        - course-content/f-strings-en.md
 
 
 
