@@ -31,6 +31,7 @@ book:
         - course-content/helpful-tools-tr.md
         - course-content/debugging-tr.md
         - course-content/input-function-tr.md
+        - course-content/python-built-in-functions-tr.md
 
 
         - course-content/python-range-tr.md
