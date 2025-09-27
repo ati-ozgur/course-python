@@ -55,11 +55,11 @@ book:
         - course-content/recursion-en.md
         - course-content/python-dictionary-en.md
         - course-content/file-input-output-en.md
-
-
-
         - course-content/modules-en.md
-        - course-content/PIP-en.md
+
+
+
+
         - course-content/using-other-modules-packages-en.md
         - course-content/exception-handling-en.md
         - course-content/python-comprehensions-en.md
@@ -67,6 +67,7 @@ book:
         - course-content/questions/000questions-en.qmd
     - part: "Extras"
       chapters:
+        - course-content/PIP-en.md
         - course-content/type-vs-isinstance-en.md
         - course-content/software-bugs-en.md
         - course-content/python-variable-scope-en.md
