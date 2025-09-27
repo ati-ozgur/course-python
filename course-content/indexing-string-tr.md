@@ -1,0 +1,2 @@
+# indeksleme dizgi
+
