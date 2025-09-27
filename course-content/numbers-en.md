@@ -4,8 +4,9 @@
 
 ## underscore in numeric literals (Python 3.6)
 
-
+```python
 price = 99_000
+```
 
 
 
