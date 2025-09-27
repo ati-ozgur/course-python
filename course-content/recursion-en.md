@@ -12,80 +12,92 @@ Russian dolls are good example for recursion.
 
 Recursive functions calls itself.
 
+```python
+def recursive(x):
+	# do something
+	x = x - 1
+	print(x)
+	recursive(x)
 
-	def recursive(x):
-		# do something
-		x = x - 1
-		print(x)
-		recursive(x)
+```
 
 
 But this way without any exit condition will lead to error.
 See below.
 
+```python
+def recursive(x):
+	# do something
+	x = x - 1
+	recursive(x)
 
-	In [1]: def recursive(x):
-	   ...: ^I# do something
-	   ...: ^Ix = x - 1
-	   ...: ^Irecursive(x)
-	   ...:
+recursive(10)
+```
 
-	In [2]: recursive(10)
-	10
-	9
-	..
-	-2968
-	-2969
-	-2970
-	-2971
-	-2972
-	-2973
-	-2974
-	-2975
-	-2976
-	---------------------------------------------------------------------------
-	RecursionError                            Traceback (most recent call last)
-	<ipython-input-2-88ae67f210a8> in <module>
-	----> 1 recursive(5)
+Çıktı: 
 
-	<ipython-input-1-c9aaee61b136> in recursive(x)
-	      3         x = x - 1
-	      4         print(x)
-	----> 5         recursive(x)
+```
+10
+9
+..
+-2968
+-2969
+-2970
+-2971
+-2972
+-2973
+-2974
+-2975
+-2976
+---------------------------------------------------------------------------
+RecursionError                            Traceback (most recent call last)
+<ipython-input-2-88ae67f210a8> in <module>
+----> 1 recursive(5)
 
-	... last 1 frames repeated, from the frame below ...
+<ipython-input-1-c9aaee61b136> in recursive(x)
+      3         x = x - 1
+      4         print(x)
+----> 5         recursive(x)
 
-	<ipython-input-1-c9aaee61b136> in recursive(x)
-	      3         x = x - 1
-	      4         print(x)
-	----> 5         recursive(x)
+... last 1 frames repeated, from the frame below ...
 
-	RecursionError: maximum recursion depth exceeded while calling a Python object
+<ipython-input-1-c9aaee61b136> in recursive(x)
+      3         x = x - 1
+      4         print(x)
+----> 5         recursive(x)
 
+RecursionError: maximum recursion depth exceeded while calling a Python object
+```
 
 
 We need to add an exit condition to our function.
 This is sometimes called base case, function returns no value or return a default value effectively exiting.
 
 
+```python
+def recursive(x):
+	# do something
+	x = x - 1
+	print(x)
+	if (x > 0):
+		recursive(x)
+	# else do nothing, exit from function
 
-	def recursive(x):
-		# do something
-		x = x - 1
-		print(x)
-		if (x > 0):
-			recursive(x)
-		# else do nothing, exit from function
+```
 
 
 Then, a recursive function will have following structure.
 
-	def recursive(parameters):
-	    if check parameters:
-	    	# exit or return
-	        return base_case_value
-	    # modify parameters here and call itself again
-	    recursive(modified_parameters)
+```python
+def recursive(parameters):
+    if check parameters:
+    	# exit or return
+        return base_case_value
+    # modify parameters here and call itself again
+    recursive(modified_parameters)
+```
+
+
 
 
 
@@ -100,19 +112,26 @@ A recursive function is a function that calls itself.
 
 ## pseudo code 1
 
-	if exit_condition_true:
-		exit function
-	else:
-	  change input variable
-		call itself again
+```python
+if exit_condition_true:
+	exit function
+else:
+  change input variable
+	call itself again
+```
+
+
 
 ## pseudo code 2
 
-	if not exit_condition_true:
-	  change input variable
-		call itself again
-	else:
-		exit function
+```python
+if not exit_condition_true:
+  change input variable
+	call itself again
+else:
+	exit function
+```
+
 
 
 See following [stackoverflow question](https://softwareengineering.stackexchange.com/questions/25052/in-plain-english-what-is-recursion)
