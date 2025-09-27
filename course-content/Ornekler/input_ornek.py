@@ -1,0 +1,7 @@
+print("İsminizi yazınız")
+isim = input()
+print("Merhaba",isim)
+print(f"Merhaba {isim},Ben XX'ten geliyorum")
+print("Hangi ülkeden geliyorsunuz?")
+ulke = input()
+print(f"Merhaba {isim} {ulke}'ten gelen")
