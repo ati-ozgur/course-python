@@ -41,6 +41,7 @@ book:
         - course-content/strings-tr.md
         - course-content/f-strings-tr.md
         - course-content/simple-function-definition-tr.md
+        - course-content/importing-modules-tr.md
 
 
         - course-content/python-range-tr.md
