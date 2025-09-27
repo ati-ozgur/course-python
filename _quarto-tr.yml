@@ -43,6 +43,7 @@ book:
         - course-content/simple-function-definition-tr.md
         - course-content/importing-modules-tr.md
         - course-content/loop-intution-tr.md
+        - course-content/loop-statements-while-tr.md
 
 
         - course-content/python-range-tr.md
