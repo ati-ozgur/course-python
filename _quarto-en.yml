@@ -79,7 +79,7 @@ book:
 
 
         # TODO does not work in quarto, fix markdown
-        - course-content/python-object-oriented-programming-en.md
+        - course-content/python-object-oriented-programming-en.qmd
         - course-content/composition-en.md
         - course-content/inheritance-en.md
     - part: "Summary"
