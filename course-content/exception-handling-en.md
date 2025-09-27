@@ -3,31 +3,38 @@
 
 Try following code
 
+```python
+print(1/0)
+```
 
-	print(1/0)
 
 
 You should see following error
 
+```
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 ZeroDivisionError: division by zero
+
+```
 
 
 This example seems meaningless why should we knowingly divide a number by zero.
 But, consider that we get this values from end user.
 
-
-	a = 1 # from user input
-	b = 0 # from user input
+```python
+a = 1 # from user input
+b = 0 # from user input
+```
 
 
 Or, we need to read a file from system and this filename is again given by user.
 
 
-
-	filename = "a.txt" # from user input
-	# try to read content with wrong file name
+```python
+filename = "a.txt" # from user input
+# try to read content with wrong file name
+```
 
 
 We will again get an error.

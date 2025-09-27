@@ -2,7 +2,8 @@
 
 ## Referanslarımızda bu konu
 
-
+```python
+```
 
 # Temeller Açıklamalar (Comments)  {#sec-temeller-aciklamalar}
 
@@ -12,8 +13,7 @@
 Image add
 ![](./images/imagename.png)
 
-```python
-```
+
 
 ```python
 l2 = []
