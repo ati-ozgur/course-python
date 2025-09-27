@@ -1,4 +1,4 @@
-# function-arguments
+# function arguments
 
 
 ## positional arguments
