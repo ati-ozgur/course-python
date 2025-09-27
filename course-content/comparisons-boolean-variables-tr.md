@@ -21,7 +21,7 @@ print( 1 < "1")
 ```
 
 
-Last command gives following error since we could not compare two different types, here int and str.
+Son komut, iki farklı türü (burada int ve str) karşılaştıramadığımız için aşağıdaki hatayı vermektedir.
 
 ```
 ---------------------------------------------------------------------------
@@ -37,18 +37,18 @@ TypeError: '<' not supported between instances of 'int' and 'str'
 
 
 
-## Question what is the result of following code execution? Why?
+## Aşağıdaki kod çalıştırıldığında sonuç ne olur? Neden?
 
 	print("Bremen" > "bremen")
 
 
-See [Ascii table](https://www.asciitable.com/) for answer to this question.
+Bu sorunun cevabı için [Ascii tablosuna](https://www.asciitable.com/) bakın.
 
 
 
-### Logical operators and, or, not
+### Mantıksal operatörler and,or,not (ve,veya,değil)
 
-- and operator returns true if both sides are true
+- and (ve) operatörü her iki taraf da doğruysa doğruyu döndürür
 
 |       |       | AND   |
 |-------|-------|-------|
@@ -57,7 +57,7 @@ See [Ascii table](https://www.asciitable.com/) for answer to this question.
 | False | True  | False |
 | False | False | False |
 
-- or operator return trues if one of the sides are true
+- or (veya) operatörü, taraflardan biri doğruysa doğruyu döndürür
 
 |       |       | OR    |
 |-------|-------|-------|
@@ -66,7 +66,7 @@ See [Ascii table](https://www.asciitable.com/) for answer to this question.
 | False | True  | True |
 | False | False | False |
 
-- not reverse the boolean, 
+- Not operatörü Boole değerini tersine çevirir.
 
 	False -> True, True -> False
 
@@ -85,7 +85,7 @@ not (birth_year < 1900 or birth_year > 1950 )
 #False
 ```
 
-## Links in our references
+## Referans kitaplarımız da bu konu
 
 
 - [boolean-operations](https://python101.pythonlibrary.org/chapter4_conditionals.html#boolean-operations)
@@ -94,7 +94,8 @@ not (birth_year < 1900 or birth_year > 1950 )
 
 
 
-### Chaining comparison operators
+### karşılaştırma operatörleri zincirleme
+
 
 TODO
 

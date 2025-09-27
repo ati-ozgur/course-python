@@ -36,6 +36,7 @@ book:
         - course-content/variables-tr.md
         - course-content/python-keywords-tr.md
         - course-content/basic-data-types-tr.md
+        - course-content/comparisons-boolean-variables-tr.md
 
 
         - course-content/python-range-tr.md
