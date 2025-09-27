@@ -73,13 +73,13 @@ book:
         - course-content/numbers-en.md
         - course-content/naming-conventions-en.md
         - course-content/virtual-environments-en.md
-
-
-
         - course-content/docstring-en.md
         - course-content/code-quality-style-analyzers-en.md
+
+
+
         # TODO does not work in quarto, fix markdown
-        #- course-content/python-object-oriented-programming-en.md
+        - course-content/python-object-oriented-programming-en.md
         - course-content/composition-en.md
         - course-content/inheritance-en.md
     - part: "Summary"

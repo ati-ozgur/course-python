@@ -74,6 +74,8 @@ book:
         - course-content/numbers-tr.md
         - course-content/naming-conventions-tr.md
         - course-content/virtual-environments-tr.md
+        - course-content/docstring-tr.md
+        - course-content/code-quality-style-analyzers-tr.md
 
 
     - part: "Son"

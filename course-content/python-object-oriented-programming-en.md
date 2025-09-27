@@ -9,12 +9,12 @@ Everything in python is an object.
 To find a methods of an object use **dir** function
 
 ```python
-	type("")
-	dir("")
+type("")
+dir("")
 
 
-	type("")
-	dir(1)
+type("")
+dir(1)
 ```
 
 
