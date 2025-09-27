@@ -67,10 +67,10 @@ book:
         - course-content/PIP-en.md
         - course-content/type-vs-isinstance-en.md
         - course-content/software-bugs-en.md
-
-
-
         - course-content/python-variable-scope-en.md
+
+
+
         - course-content/python-tuples-en.md
         - course-content/python-pointers-en.md
         - course-content/numbers-en.md
