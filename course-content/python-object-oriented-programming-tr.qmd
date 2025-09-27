@@ -22,7 +22,7 @@ dir(1)
 
 ## Yeni sınıflar tanımlama: Minimal örnek
 
-```{.python include="./Ornekler/Person0.py"}
+```{.python include="course-content/Ornekler/Person0.py"}
 ```
 
 
@@ -31,13 +31,13 @@ dir(1)
 ## Yeni sınıflar tanımlama: yapılandırıcı
 
 
-```{.python include="./Ornekler/Person1.py"}
+```{.python include="course-content/Ornekler/Person1.py"}
 ```
 
 
 ## Yeni sınıflar tanımlama:  örneklem metodları
 
-```{.python include="./Ornekler/Person2.py"}
+```{.python include="course-content/Ornekler/Person2.py"}
 ```
 
 ## özel metodlar
@@ -49,7 +49,7 @@ dir(1)
 ## str metodunu ezme
 
 
-```{.python include="./Ornekler/Person3.py"}
+```{.python include="course-content/Ornekler/Person3.py"}
 ```
 
 

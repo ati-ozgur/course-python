@@ -75,7 +75,7 @@ end
 local function transclude(cb)
   if cb.attributes.include then
     local content = ""
-    local fh = io.open(cb.attributes.include)
+    local fh = io.open(pandoc.path.join({quarto.project.directory, cb.attributes.include}))
     if not fh then
       io.stderr:write("Cannot open file " .. cb.attributes.include .. " | Skipping includes\n")
     else
