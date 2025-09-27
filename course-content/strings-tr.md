@@ -1,46 +1,63 @@
 # Betikler (strings)
 
-
-Strings are defined using either double quotes "" or single quotes. ''
-
-
-    name1 = "Atilla"
-    name2 = 'Atilla'
-
-
-If we need to use single quote inside a string enclosed by single quotes, we need to escape it using backslash \ character.
-Like below:
-
-    name2 = 'Atilla\'s Car'
-
-To avoid using escape characters, it is recommended that:
-
-- use double quote for enclosing your string, if you need to use single quote in your string, 
-
-    ex1 = "Atilla's Car"
-
-- use single quote for enclosing your string, if you need to use double quote in your string, 
-
-    ex2 = 'Atilla said that "please open your notebooks"'
+Dizeler çift tırnak "" veya tek tırnak '' kullanılarak tanımlanır.
 
 
 
+```python
+ad1 = "Atilla"
+ad2 = 'Atilla'
+```
 
-Multiline string are defined using 3 quotes.
 
-    multi_line_string1 = """ Hello
-        this is multi line string
-    """
+Tek tırnak işaretiyle çevrelenmiş bir dizenin içinde tek tırnak işareti kullanmamız gerekiyorsa, ters eğik çizgi \ karakterini kullanarak tırnak işaretini kaçırmamız gerekir.
+Aşağıdaki gibi:
 
-    multi_line_string2 = ''' Hello
-        this is another multi line string
-    '''
 
+```python
+ad2 = 'Atilla\'s Car'
+```    
+
+Kaçış karakterlerinin kullanımından kaçınmak için şunlar önerilir:
+
+- Dizenizde tek tırnak kullanmanız gerekiyorsa, dizenizi çevrelemek için çift tırnak kullanın,
+
+
+```python
+ex1 = "Atilla's Car"
+```
+    
+
+- Dizenizi çevrelemek için tek tırnak kullanın, eğer dizenizde çift tırnak kullanmanız gerekiyorsa,
+
+ 
+```python
+ex2 = 'Atilla said that "please open your notebooks"'
+```
+   
+
+
+
+
+Çok satırlı dizeler 3 tırnak işareti kullanılarak tanımlanır.
+
+```python
+multi_line_string1 = """ Hello
+    this is multi line string
+"""
+
+multi_line_string2 = ''' Hello
+    this is another multi line string
+'''
+```
 To change other variable to string, we use **str** function
 
 
-    a = 5
-    print("number is " + str(a))
+
+```python
+a = 5
+print("number is " + str(a))
+``` 
 
 
 ## String Formatting
@@ -50,8 +67,11 @@ We will use them in our classes.
 Variable name is enclosed between curly braces in the string.
 
 
-    age = 42
-    print(f"Age is {age}")
+ 
+```python
+age = 42
+print(f"Age is {age}")
+```   
 
 
 output is
@@ -62,12 +82,12 @@ output is
 
 
 
-## Common string methods
+## Yaygın betik (string) fonksiyonları
 
-    since strings are immutable in python, all of the methods returns a modified string and do not modify original string.
+Python'da betikler değiştirilemez olduğundan, tüm fonksiyonlar değiştirilmiş bir betik döndürür ve orijinal betiği değiştirmez.
 
-    - lower()  lowercase
-    - upper()  lowercase
+    - lower()  küçük harf
+    - upper()  büyük harf
     - strip()  strips whitespace from both sides of string
     - lstrip  strips whitespace from left side of string
     - rstrip  strips whitespace from right side of string
@@ -77,7 +97,6 @@ output is
     isalpha() True if only alphabetic characters exists
     split(), split(delimiter)   return list of substrings, splited by whitespace/delimiter
 
-## Common string operations/functions
 
 
     len(string)
@@ -94,6 +113,8 @@ output is
     see [all string methods](https://docs.python.org/3/library/stdtypes.html#string-methods)
 
 
+
+```python
 
 In [1]: name = "atilla"
 
@@ -130,7 +151,7 @@ Out[9]: 'ill'
 
 In [10]: name[2:6]
 Out[10]: 'illa'
-
+```
 
 
 ## More

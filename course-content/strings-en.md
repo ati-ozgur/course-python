@@ -64,37 +64,37 @@ output is
 
 ## Common string methods
 
-    since strings are immutable in python, all of the methods returns a modified string and do not modify original string.
+since strings are immutable in python, all of the methods returns a modified string and do not modify original string.
 
-    - lower()  lowercase
-    - upper()  lowercase
-    - strip()  strips whitespace from both sides of string
-    - lstrip  strips whitespace from left side of string
-    - rstrip  strips whitespace from right side of string
+- lower()  lowercase
+- upper()  uppercase
+- strip()  strips whitespace from both sides of string
+- lstrip  strips whitespace from left side of string
+- rstrip  strips whitespace from right side of string
 
-    count(substring) how many time substring occurs
-    isnumeric()
-    isalpha() True if only alphabetic characters exists
-    split(), split(delimiter)   return list of substrings, splited by whitespace/delimiter
-
-## Common string operations/functions
+- count(substring) how many time substring occurs
+- isnumeric()
+- isalpha() True if only alphabetic characters exists
+- split(), split(delimiter)   return list of substrings, splited by whitespace/delimiter
 
 
-    len(string)
-        Returns the length of the string
-    for character in string:
-        # do something
+- len(string)
+    Returns the length of the string
+- for character in string:
+    print(character)  # do something
 
-        iterates over character in string
+iterates over character in string
 
-    substring in string  return True if substring in string
+- substring in string  # return True if substring in string
 
-    string[i] we can use list indexing with string.
-
-    see [all string methods](https://docs.python.org/3/library/stdtypes.html#string-methods)
+- string[i] we can use list indexing with string.
 
 
+see [all string methods](https://docs.python.org/3/library/stdtypes.html#string-methods)
 
+
+
+```python
 In [1]: name = "atilla"
 
 In [2]: len(name)
@@ -130,6 +130,7 @@ Out[9]: 'ill'
 
 In [10]: name[2:6]
 Out[10]: 'illa'
+```
 
 
 
