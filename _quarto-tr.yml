@@ -69,6 +69,8 @@ book:
         - course-content/type-vs-isinstance-tr.md
         - course-content/software-bugs-tr.md
         - course-content/python-variable-scope-tr.md
+        - course-content/python-tuples-tr.md
+
 
 
         - course-content/naming-conventions-tr.md
