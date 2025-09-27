@@ -84,11 +84,11 @@ output is
 
 ## Yaygın betik (string) fonksiyonları
 
-Python'da betikler değiştirilemez olduğundan, tüm fonksiyonlar değiştirilmiş bir betik döndürür ve orijinal betiği değiştirmez.
+Python'da betikler değiştirilemez olduğundan, tüm fonksiyonlar değiştirilmiş bir betik döndürür ve orijinal dizgi değiştirmez.
 
     - lower()  küçük harf
     - upper()  büyük harf
-    - strip()  strips whitespace from both sides of string
+    - strip()  betiğin her iki tarafındaki boşlukları siler
     - lstrip  strips whitespace from left side of string
     - rstrip  strips whitespace from right side of string
 

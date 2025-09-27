@@ -48,5 +48,10 @@ book:
       chapters:
         - course-content/PIP-tr.md
         - course-content/naming-conventions-tr.md
+    - part: "Son"
+      chapters:    
+        - course-content/summary-tr.md
+        - course-content/Sozluk-tr.qmd
+        - course-content/references-tr.md
 
 

@@ -1,0 +1,4 @@
+# Sözlük
+
+
+{{< include ./tables/table-sozluk.md >}}
