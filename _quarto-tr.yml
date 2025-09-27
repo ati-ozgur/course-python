@@ -56,10 +56,9 @@ book:
         - course-content/file-input-output-tr.md
         - course-content/modules-tr.md
         - course-content/using-other-modules-packages-en.md
-
-
-
+        - course-content/exception-handling-tr.md
         - course-content/python-comprehensions-tr.md
+
 
 
     - part: "Ekstralar"
