@@ -32,6 +32,7 @@ book:
         - course-content/debugging-tr.md
         - course-content/input-function-tr.md
         - course-content/python-built-in-functions-tr.md
+        - course-content/python-as-calculator-tr.md
 
 
         - course-content/python-range-tr.md
