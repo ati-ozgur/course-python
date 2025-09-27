@@ -86,31 +86,29 @@ print(f"Yaşınız {yas}")
 
 Python'da betikler değiştirilemez olduğundan, tüm fonksiyonlar değiştirilmiş bir betik döndürür ve orijinal dizgi değiştirmez.
 
-    - lower()  küçük harf
-    - upper()  büyük harf
-    - strip()  betiğin her iki tarafındaki boşlukları siler
-    - lstrip  strips whitespace from left side of string
-    - rstrip  strips whitespace from right side of string
+- lower()  küçük harf
+- upper()  büyük harf
+- strip()  dizginin her iki tarafındaki boşlukları siler
+- lstrip  dizginin sol tarafındaki boşlukları siler
+- rstrip  dizginin sağ tarafındaki boşlukları siler
 
-    count(substring) how many time substring occurs
-    isnumeric()
-    isalpha() True if only alphabetic characters exists
-    split(), split(delimiter)   return list of substrings, splited by whitespace/delimiter
+- count(substring) alt dizgi kaç kez oluşur
+- isnumeric()
+- isalpha() True eğer sadece alfabetik karakterler varsa
+- split(), split(delimiter)   alt dizgilerin listesini boşluk/ayırıcı ile bölerek döndür
 
+- len(string)
+    Dizginin uzunluğunu döndürür
 
+- for character in string:
 
-    len(string)
-        Returns the length of the string
-    for character in string:
-        # do something
+    dizgideki karakterler üzerinde yineleme yapar
 
-        iterates over character in string
+- substring in string  # dizgide alt dizgi varsa True değerini döndür
 
-    substring in string  return True if substring in string
+- string[i] Dizgilerde [] ile liste indekslemeyi kullanabiliriz.
 
-    string[i] we can use list indexing with string.
-
-    see [all string methods](https://docs.python.org/3/library/stdtypes.html#string-methods)
+- [tüm dizgi fonksiyonları](https://docs.python.org/3/library/stdtypes.html#string-methods)
 
 
 
