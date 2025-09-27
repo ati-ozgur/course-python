@@ -1,23 +1,23 @@
-# helpful tools
+# Yardımcı araçlar
 
 
-## internet search
+## internet arama
 
 - [Google](www.google.com)
 - [Duck duck go](https://duckduckgo.com/)
 
-## AI (Artificial Intelligence) tools
+## Yapay Zeka araçları
 
 - [Google Gemini](https://gemini.google.com/app)
 - [ChatGPT](https://chat.openai.com/)
 
-## question and answer
+## Soru Cevap
 
 - [stackoverflow](https://stackoverflow.com/)
 
 
-## Other tools
+## Diğer araçlar
 
-- [visualize your code](http://www.pythontutor.com/)
+- [Kod görselleştirme](http://www.pythontutor.com/)
 
 
