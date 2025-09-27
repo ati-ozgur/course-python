@@ -1,0 +1,64 @@
+# Nesne yönelimli programlama
+
+Sınıflar, nesneler oluşturmak için kullanılan şablonlardır.
+
+- veriler
+- metotlar (sınıflara ait fonksiyonlar, çoğunlukla nesnedeki verileri kullanır)
+
+Python'daki her şey bir nesnedir.
+Bir nesnenin metotlarını bulmak için **dir** fonksiyonunu kullanın
+
+
+```python
+type("")
+dir("")
+
+
+type("")
+dir(1)
+```
+
+
+
+## Yeni sınıflar tanımlama: Minimal örnek
+
+```{.python include="./Ornekler/Person0.py"}
+```
+
+
+
+
+## Yeni sınıflar tanımlama: yapılandırıcı
+
+
+```{.python include="./Ornekler/Person1.py"}
+```
+
+
+## Yeni sınıflar tanımlama:  örneklem metodları
+
+```{.python include="./Ornekler/Person2.py"}
+```
+
+## özel metodlar
+
+-Python sınıflarının, \_\_ ile başlayan ve biten özel yöntemleri vardır.
+- \_\_init\_\_ yapılandırıcı nesnelerin ilk değerlerini atama yöntemi
+- \_\_str\_\_  nesnenin dizgiye dönüştürüldüğünde çalışan yöntem, örneğin print() fonksiyonunda.
+
+## str metodunu ezme
+
+
+```{.python include="./Ornekler/Person3.py"}
+```
+
+
+## Referanslarımızda bu konu
+
+- [Non-Programmer's Tutorial for Python 3/Intro to Object Oriented Programming in Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Intro_to_Object_Oriented_Programming_in_Python_3)
+- [Classes in Python 101](https://python101.pythonlibrary.org/chapter11_classes.html)
+- [Python Classes and Objects in w3schools.com](https://www.w3schools.com/python/python_classes.asp)
+
+## Vidyo Öğreticiler
+
+TODO
