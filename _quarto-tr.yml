@@ -58,6 +58,8 @@ book:
         - course-content/using-other-modules-packages-en.md
         - course-content/exception-handling-tr.md
         - course-content/python-comprehensions-tr.md
+        - course-content/useful-python-code-snippets-tr.md
+        - course-content/questions/000questions-en.qmd
 
 
 
