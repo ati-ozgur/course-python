@@ -8,8 +8,10 @@ If we would like to use the return value as a number, we need to convert it from
 See below code snippet
 
 
-    str_n = input("please enter a number")
-    N = int(str_N)
+```python
+str_n = input("please enter a number")
+N = int(str_N)
+```
 
 
 ## divisible by some number
@@ -17,18 +19,23 @@ See below code snippet
 "%" remainder operator could be used to find if any number is divisible by another number.
 See below example
 
-   if n % 3 == 0: # Disible by 3
-        # do something here
 
 
-    a = 1
-    total = 0
-    while a <= 10:
-        total = total + a
-        a = a + 1
-    print(total)
-    N = int(str_n)
-    if n % 3 == 0: # Disible by 3
-        # do something here
+```python
+if n % 3 == 0: # Disible by 3
+    # do something here
+
+
+a = 1
+total = 0
+while a <= 10:
+    total = total + a
+    a = a + 1
+print(total)
+N = int(str_n)
+if n % 3 == 0: # Disible by 3
+    # do something here
+
+```
 
 
