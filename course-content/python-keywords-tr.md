@@ -1,8 +1,10 @@
-# python keywords
+# python Anahtar kelimeler
 
 
-A keyword in a programming language is an important word. You can not use these keywords as an variable or function name since they are reserved for programming language execution.
-Following key words are reserved in python.
+Bir programlama dilinde anahtar kelime önemli bir kelimedir. 
+Bu anahtar kelimeleri değişken veya fonksiyon adı olarak kullanamazsınız.
+Çünkü bunlar programlama dili çalışması için ayrılmıştır.
+Aşağıdaki anahtar kelimeler Python'da ayrılmıştır.
 
 
 ```python
