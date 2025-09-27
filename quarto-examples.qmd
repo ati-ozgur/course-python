@@ -5,6 +5,10 @@
 ```python
 ```
 
+```python
+{{< include ./Ornekler/a.py >}}
+```
+
 # Temeller Açıklamalar (Comments)  {#sec-temeller-aciklamalar}
 
 

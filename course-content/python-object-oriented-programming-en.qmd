@@ -19,73 +19,37 @@ dir(1)
 
 
 
-## Define new classes
+## Define new classes Minimal example
 
-
-### Minimal example
-
-```python
-class Person:
-	pass
+```{.python include="./Ornekler/Person0.py"}
 ```
 
 
 
-### constructor
+
+## Define new classes: constructor
 
 
-```python
-class Person:
-
-	def __init__(self,first_name,last_name):
-		self.first_name = first_name
-		self.last_name = last_name
+```{.python include="./Ornekler/Person1.py"}
 ```
 
 
+## Define new classes: instance method
 
-## instance method
-
-```python
-class Person:
-
-	def __init__(self,first_name,last_name):
-		self.first_name = first_name
-		self.last_name = last_name
-
-
-    def greeting(self):
-        return f"hello, {self.first_name} {self.last_name}"
+```{.python include="./Ornekler/Person2.py"}
 ```
-
 
 ## Special methods
 
-- python classes have special methods that start and end with __.
-- __init__ constructor method for initializing objects
-- __str__  a method when object converted to string, for example in print() function.
+- python classes have special methods that start and end with \_\_.
+- \_\_init\_\_ constructor method for initializing objects
+- \_\_str\_\_  a method when object converted to string, for example in print() function.
+
+## override str method
 
 
-
-
-## override __str__ method
-
-
-```python
-class Person:
-
-	def __init__(self,first_name,last_name):
-		self.first_name = first_name
-		self.last_name = last_name
-
-
-	def greeting(self):
-		return f"hello, {first_name} {last_name}"
-
-	def __str__():
-		return self.greeting()
+```{.python include="./Ornekler/Person3.py"}
 ```
-
 
 
 ## Links in our references
@@ -97,7 +61,3 @@ class Person:
 ## Video Tutorials
 
 TODO
-
-
-
-
