@@ -2,10 +2,12 @@
 
 use example from head first java
 
-
+```python
 object ids
 
 id(x)
+```
+
 
 most python implementations use memory address of the object
 

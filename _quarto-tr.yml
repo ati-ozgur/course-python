@@ -70,6 +70,7 @@ book:
         - course-content/software-bugs-tr.md
         - course-content/python-variable-scope-tr.md
         - course-content/python-tuples-tr.md
+        - course-content/python-pointers-tr.md
 
 
 
