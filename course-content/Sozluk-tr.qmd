@@ -1,4 +1,4 @@
-# Sözlük
+# Sözlük  {.unnumbered}
 
 
 {{< include ./tables/table-sozluk.md >}}
