@@ -20,6 +20,11 @@ This the lecture notes for Programming in Python course.
 
 Bu ders notları Python giriş dersi için hazırlanmıştır.
 
+Ders ilk defa programlama dili öğrenenler için hazırlanmıştır.
+Daha önceden herhangi başka bir programlama dili bilenler, bu içeriği 2-3 hafta gibi kısa bir zamanda bitirebilirler.
+Ama ilk defa başlayanlar için soru çözmenin daha fazla olduğu 14 haftalık bir içerik olarak planlanmıştır.
+
+
 :::
 
 
