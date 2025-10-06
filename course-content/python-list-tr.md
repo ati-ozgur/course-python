@@ -119,6 +119,9 @@ list.extend(başka_liste)
 
 Bakınız [python anlamaları](python-comprehensions-tr.md):
 
+## Kurs vidyo
+
+- [Python listeler](https://www.youtube.com/watch?v=7-iQhIoSXak)
 
 
 ## Referans kitaplarımız da bu konu
