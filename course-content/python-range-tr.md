@@ -74,7 +74,7 @@ for x in range(baslangıc,bitis,adim):
 ```
 
 
-## Vidyo öğreticiler
+## Kurs vidyo
 
 - [python range](https://www.youtube.com/watch?v=FVQ_ZfUlD1o)
 
