@@ -4,29 +4,39 @@
 Python listeleri [] veya list() yapısı kullanılarak tanımlanır.
 
 
-    bos_list = []
-    sayi_listesi = [1,3,5]
+
+```python
+bos_list = []
+sayi_listesi = [1,3,5]
+```
+
 
 **Listeler yeni üye ekleme**
 
 Listeye yeni üyelere eklemek için, append veya + kullanılır.
 
-    yeni_list = [1,3]
-    yeni_list = yeni_list + [2,4]
-    print(yeni_list)
-    # veya
-    a_list = [1,3]
-    a_list.append(2)
-    a_list.append(4)
+
+```python
+yeni_list = [1,3]
+yeni_list = yeni_list + [2,4]
+print(yeni_list)
+# veya
+a_list = [1,3]
+a_list.append(2)
+a_list.append(4)
+```
+
 
 
 **liste indeksleme**
 
 Liste içindeki elemanlara ulaşmak için [index] kullanılır.
 
-    yeni_list[0]
-    # negatif değerler ile sondan üyelere ulaşılır.
-    yeni_list[-1]
+```python
+yeni_list[0]
+# negatif değerler ile sondan üyelere ulaşılır.
+yeni_list[-1]
+```
 
 
 **liste dilimleme**
@@ -36,7 +46,9 @@ Aşağıdaki yapıyı kullanarak listelerden bir başka listeyi dilim kesme mant
 Dilimleme sonucunda başka bir liste elde edilir.
 
 
-    a_liste[başlangıc:bitiş:adım]
+```python
+a_liste[başlangıc:bitiş:adım]
+```
 
 
 Dikkat edilmesi gereken nokta bitiş dilimlemeye dahil edilmez.
