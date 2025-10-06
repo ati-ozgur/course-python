@@ -5,6 +5,10 @@
 ```python
 ```
 
+```{.python include="course-content/Ornekler/PersonStudentTeacher0.py"}
+
+
+
 ```python
 {{< include ./Ornekler/a.py >}}
 ```
