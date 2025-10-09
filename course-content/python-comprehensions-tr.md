@@ -35,8 +35,11 @@ Basit liste anlama şablonu:
 Bir başka örnek.
 Betiklerden oluşan bir listeyi tam sayılardan oluşan bir listeye dönüştürme
 
-	str_list = ["1", "2", "3", "4", "5"]
-	int_list = [int(x) for x in str_list]
+
+```python
+str_list = ["1", "2", "3", "4", "5"]
+int_list = [int(x) for x in str_list]
+```
 
 
 Yukarıdaki örnekte görüldüğü gibi, anlamaların içerisinde fonksiyon kullanabiliriz.
