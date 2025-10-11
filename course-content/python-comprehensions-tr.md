@@ -111,7 +111,7 @@ print(ciftler1)
 ](https://youtu.be/1HlyKKiGg-4)
 
 
-## Sözlük Anlamaları (Comprehensions)
+## Sözlük Anlamaları (Dictionary Comprehensions)
 
 Sözlük Anlama, liste anlama ile oldukça benzerdir.
 [] yerine sözlük sembolü {} kullanılır.
