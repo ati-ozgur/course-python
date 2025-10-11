@@ -65,7 +65,7 @@ Döngü sürümü:
 ```python
 l2 = []
 for x in range(10):
-	if x % 3 == 1
+	if x % 3 == 1:
 	    l2.append(x*x)
 print(l2)
 ```
@@ -85,20 +85,20 @@ print(l2)
 Aşağıdaki kod for döngüsünü kullanarak çiftler oluşturur:
 
 ```python
-pairs = []
+ciftler2 = []
 for i in range(3):
     for c in ["a","b","c"]:
-        pairs.append((i, c))
+        ciftler.append((i, c))
 
-print(pairs)
+print(ciftler2)
 ```
 
 Anlama versiyonu daha kısadır.
 
 ```python
-pairs = [(i, c) for i in range(3) for c in ["a","b","c"]]
+ciftler1 = [(i, c) for i in range(3) for c in ["a","b","c"]]
 
-print(pairs)
+print(ciftler1)
 ```
 
 
