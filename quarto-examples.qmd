@@ -1,6 +1,7 @@
 ## examples to use while writing book
 
 ## Referanslarımızda bu konu
+## Kurs vidyo
 
 ```python
 ```

@@ -162,12 +162,13 @@ print(sayi_kumesi)
 
 Küme versiyonunda mükerrer (tekrar eden) eleman yoktur.
 
-## Referans kitaplarımız da bu konu
+## Referanslarımızda bu konu
 
 - [Python 101 book: Python Comprehensions](https://python101.pythonlibrary.org/chapter6_comprehensions.html)
 - [Python tutorial: list-comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
 
+## Kurs vidyo
 
-
+[Python Anlamalar Comprehensions](https://www.youtube.com/watch?v=pVD05eS-hP0)
 
 
