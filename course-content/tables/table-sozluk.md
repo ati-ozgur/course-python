@@ -5,3 +5,4 @@
 | dictionary | sözlük        |  |
 | iterate    | yineleme      |  |
 | loop       | döngü         |  |
+| built-in   | dahili		 |  |

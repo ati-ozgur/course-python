@@ -1,10 +1,5 @@
 # Nesne yönelimli programlama
 
-Sınıflar, nesneler oluşturmak için kullanılan şablonlardır.
-
-- veriler
-- metotlar (sınıflara ait fonksiyonlar, çoğunlukla nesnedeki verileri kullanır)
-
 Python'daki her şey bir nesnedir.
 Bir nesnenin metotlarını bulmak için **dir** fonksiyonunu kullanın
 
@@ -18,6 +13,33 @@ type("")
 dir(1)
 ```
 
+Yukarıdaki görülen str ve int sınıfları python standard kütüphanelerinde tanımlanmıştır.
+Bu sayede biz bunların dahili metodlarını (fonksiyon) kullanabiliriz.
+
+
+Sınıflar, nesneleri oluşturmak için kullanılan şablonlardır.
+
+- veriler
+- metotlar (sınıflara ait fonksiyonlar, çoğunlukla nesnedeki verileri kullanır)
+
+
+## Dahili sınıf örnekleri
+
+```python
+adi="Atilla"
+yas=50
+
+print(type(adi))
+print(type(yas))
+
+
+print(adi.upper())
+print(yas.bit_length())
+print(yas.bit_count())
+# ikili tabanda gösterimi
+print(bin(yas))
+
+```
 
 
 ## Yeni sınıflar tanımlama: Minimal örnek
@@ -30,6 +52,8 @@ dir(1)
 
 ## Yeni sınıflar tanımlama: yapılandırıcı
 
+initializer method
+constructor method
 
 ```{.python include="course-content/Ornekler/Person1.py"}
 ```
