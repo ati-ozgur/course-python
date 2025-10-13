@@ -12,11 +12,37 @@
 ## örneklem değişkenleri ve sınıf değişkenleri
 
 
+## private variables
+
+mangled variables
+
+check python consenting adults philosophy
+_var
+__var
+
+
+
+## accessors
+
+java stilis
+	get_
+	set_
+
+decorator
+
+
+
 
 ## dunder metodları
 
 
-## 
+## self
+
+self ismi zorunlu değil.
+Python isimlendirme konvansiyonu.
+java, c# this kullanılır keyword 
+
+this
 
 
 ## Vidyo Öğreticiler
