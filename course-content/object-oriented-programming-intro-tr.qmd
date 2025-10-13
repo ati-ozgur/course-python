@@ -1,4 +1,4 @@
-# Nesne yönelimli programlama
+# Nesne yönelimli programlama giriş
 
 Python'daki her şey bir nesnedir.
 Bir nesnenin metotlarını bulmak için **dir** fonksiyonunu kullanın
