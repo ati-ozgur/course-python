@@ -22,20 +22,20 @@ book:
         - course-content/references-courses-en.md
         - course-content/references-books-en.md
         - course-content/online-interpreters-en.md
-        - course-content/python-installation-en.md
+        - course-content/installation-en.md
         - course-content/programmers-text-editor-en.md
-        - course-content/python-hello-world-en.md
-        - course-content/python-comments-en.md
+        - course-content/hello-world-en.md
+        - course-content/comments-en.md
         - course-content/command-line-en.md
         - course-content/getting-started-en.md
         - course-content/IDE-en.md
         - course-content/helpful-tools-en.md
         - course-content/debugging-en.md
         - course-content/input-function-en.md
-        - course-content/python-built-in-functions-en.md
-        - course-content/python-as-calculator-en.md
+        - course-content/built-in-functions-en.md
+        - course-content/as-calculator-en.md
         - course-content/variables-en.md
-        - course-content/python-keywords-en.md
+        - course-content/keywords-en.md
         - course-content/basic-data-types-en.md
         - course-content/comparisons-boolean-variables-en.md
         - course-content/conditionals-statements-en.md
@@ -47,18 +47,18 @@ book:
         - course-content/loop-statements-while-en.md
         - course-content/loop-statements-for-en.md
         - course-content/loop-statements-en.md
-        - course-content/python-range-en.md
-        - course-content/python-list-en.md
+        - course-content/range-en.md
+        - course-content/list-en.md
         - course-content/indexing-string-en.md
         - course-content/functions-en.md
         - course-content/function-arguments-en.md
         - course-content/recursion-en.md
-        - course-content/python-dictionary-en.md
+        - course-content/dictionary-en.md
         - course-content/file-input-output-en.md
         - course-content/modules-en.md
         - course-content/using-other-modules-packages-en.md
         - course-content/exception-handling-en.md
-        - course-content/python-comprehensions-en.md
+        - course-content/comprehensions-en.md
         - course-content/useful-python-code-snippets-en.md
         - course-content/questions/000questions-en.qmd
 
@@ -67,17 +67,17 @@ book:
         - course-content/PIP-en.md
         - course-content/type-vs-isinstance-en.md
         - course-content/software-bugs-en.md
-        - course-content/python-variable-scope-en.md
-        - course-content/python-tuples-en.md
-        - course-content/python-pointers-en.md
+        - course-content/variable-scope-en.md
+        - course-content/tuples-en.md
+        - course-content/pointers-en.md
         - course-content/numbers-en.md
         - course-content/naming-conventions-en.md
         - course-content/virtual-environments-en.md
         - course-content/docstring-en.md
         - course-content/code-quality-style-analyzers-en.md
         - course-content/python-object-oriented-programming-en.qmd
-        - course-content/python-object-oriented-programming-composition-en.md
-        - course-content/python-object-oriented-programming-inheritance-en.md
+        - course-content/object-oriented-programming-composition-en.md
+        - course-content/object-oriented-programming-inheritance-en.md
     - part: "Summary"
       chapters:    
         - course-content/summary-en.md

@@ -21,20 +21,20 @@ book:
         - course-content/references-courses-tr.md
         - course-content/references-books-tr.md
         - course-content/online-interpreters-tr.md
-        - course-content/python-installation-tr.md
+        - course-content/installation-tr.md
         - course-content/programmers-text-editor-tr.md
-        - course-content/python-hello-world-tr.md
-        - course-content/python-comments-tr.md
+        - course-content/hello-world-tr.md
+        - course-content/comments-tr.md
         - course-content/command-line-tr.md
         - course-content/getting-started-tr.md
         - course-content/IDE-tr.md
         - course-content/helpful-tools-tr.md
         - course-content/debugging-tr.md
         - course-content/input-function-tr.md
-        - course-content/python-built-in-functions-tr.md
-        - course-content/python-as-calculator-tr.md
+        - course-content/built-in-functions-tr.md
+        - course-content/as-calculator-tr.md
         - course-content/variables-tr.md
-        - course-content/python-keywords-tr.md
+        - course-content/keywords-tr.md
         - course-content/basic-data-types-tr.md
         - course-content/comparisons-boolean-variables-tr.md
         - course-content/conditionals-statements-tr.md
@@ -46,18 +46,18 @@ book:
         - course-content/loop-statements-while-tr.md
         - course-content/loop-statements-for-tr.md
         - course-content/loop-statements-tr.md
-        - course-content/python-range-tr.md
-        - course-content/python-list-tr.md
+        - course-content/range-tr.md
+        - course-content/list-tr.md
         - course-content/indexing-string-tr.md
         - course-content/functions-tr.md
         - course-content/function-arguments-tr.md
         - course-content/recursion-tr.md
-        - course-content/python-dictionary-tr.md
+        - course-content/dictionary-tr.md
         - course-content/file-input-output-tr.md
         - course-content/modules-tr.md
         - course-content/using-other-modules-packages-en.md
         - course-content/exception-handling-tr.md
-        - course-content/python-comprehensions-tr.md
+        - course-content/comprehensions-tr.md
         - course-content/useful-python-code-snippets-tr.md
         - course-content/questions/000questions-en.qmd
 
@@ -68,9 +68,9 @@ book:
         - course-content/PIP-tr.md
         - course-content/type-vs-isinstance-tr.md
         - course-content/software-bugs-tr.md
-        - course-content/python-variable-scope-tr.md
-        - course-content/python-tuples-tr.md
-        - course-content/python-pointers-tr.md
+        - course-content/variable-scope-tr.md
+        - course-content/tuples-tr.md
+        - course-content/pointers-tr.md
         - course-content/numbers-tr.md
         - course-content/naming-conventions-tr.md
         - course-content/virtual-environments-tr.md
@@ -78,8 +78,8 @@ book:
         - course-content/code-quality-style-analyzers-tr.md
         - course-content/python-object-oriented-programming-tr.qmd
         - course-content/python-object-oriented-programming-tr.qmd
-        - course-content/python-object-oriented-programming-composition-tr.md
-        - course-content/python-object-oriented-programming-inheritance-tr.md
+        - course-content/object-oriented-programming-composition-tr.md
+        - course-content/object-oriented-programming-inheritance-tr.md
 
 
     - part: "Son"
