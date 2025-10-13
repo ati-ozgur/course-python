@@ -1,0 +1,30 @@
+# Python nesne yönelimli programlama ileri
+
+
+## örneklem değişkenleri ve sınıf değişkenleri
+
+
+## Miras örnek
+
+Kişi
+	Müşteri
+	Çalışan
+
+### polymorphism and duck typing
+
+
+
+## 2 nesne arası ilişki örneği
+Customer-Order
+Müşteri-Sipariş
+
+
+
+## dunder metodları
+
+
+
+
+## Vidyo Öğreticiler
+
+TODO
