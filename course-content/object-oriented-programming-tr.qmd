@@ -66,30 +66,15 @@ constructor method
 ```{.python include="course-content/Ornekler/Person2.py"}
 ```
 
-## özel metodlar
+## özel metodlar (dunder metodları)
+
 
 -Python sınıflarının, \_\_ ile başlayan ve biten özel yöntemleri vardır.
 - \_\_init\_\_ yapılandırıcı nesnelerin ilk değerlerini atama yöntemi
 - \_\_str\_\_  nesnenin dizgiye dönüştürüldüğünde çalışan yöntem, örneğin print() fonksiyonunda.
 
 
-## Miras örnek
 
-Kişi
-	Müşteri
-	Çalışan
-
-### polymorphism and duck typing
-
-
-
-## 2 nesne arası ilişki örneği
-Customer-Order
-Müşteri-Sipariş
-
-
-
-## dunder metodları
 
 ## str metodunu ezme
 

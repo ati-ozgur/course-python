@@ -9,7 +9,9 @@
 
 
 
-## örneklem değişkenleri ve sınıf değişkenleri
+## örneklem özellikleri ve sınıf özellikleri
+
+
 
 
 ## private variables
@@ -29,7 +31,9 @@ java stilis
 	set_
 
 decorator
+proxy
 
+eski kod değişmek zorunda değil
 
 
 
@@ -43,6 +47,9 @@ Python isimlendirme konvansiyonu.
 java, c# this kullanılır keyword 
 
 this
+
+## static methods vs class methods
+
 
 
 ## Vidyo Öğreticiler
