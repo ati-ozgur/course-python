@@ -104,6 +104,6 @@ Müşteri-Sipariş
 - [Classes in Python 101](https://python101.pythonlibrary.org/chapter11_classes.html)
 - [Python Classes and Objects in w3schools.com](https://www.w3schools.com/python/python_classes.asp)
 
-## Vidyo Öğreticiler
+## Kurs vidyo
 
 TODO
