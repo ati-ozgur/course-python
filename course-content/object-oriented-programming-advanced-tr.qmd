@@ -1,4 +1,4 @@
-# Python nesne yönelimli programlama ileri
+# Nesne yönelimli programlama ileri
 
 ## sınıf metodları
 
