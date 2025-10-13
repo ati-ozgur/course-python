@@ -35,6 +35,20 @@ proxy
 
 eski kod değişmek zorunda değil
 
+## Encapsulation
+sayı bir değişken ata.
+Örneğin,
+class BankAccount
+
+	withdraw
+	deposit
+
+
+sadece getter ver
+
+
+ama daha sonra koruma olmazsa bu sayı yerine string bile atanacağını göster.
+
 
 
 ## dunder metodları
@@ -50,6 +64,9 @@ this
 
 ## static methods vs class methods
 
+
+
+## __dict__
 
 
 ## Vidyo Öğreticiler
