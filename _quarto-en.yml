@@ -75,7 +75,7 @@ book:
         - course-content/virtual-environments-en.md
         - course-content/docstring-en.md
         - course-content/code-quality-style-analyzers-en.md
-        - course-content/python-object-oriented-programming-en.qmd
+        - course-content/object-oriented-programming-en.qmd
         - course-content/object-oriented-programming-composition-en.md
         - course-content/object-oriented-programming-inheritance-en.md
     - part: "Summary"
