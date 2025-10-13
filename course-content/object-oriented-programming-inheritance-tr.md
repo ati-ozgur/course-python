@@ -13,3 +13,12 @@
 ```{.python include="course-content/Ornekler/PersonStudentTeacher1.py"}
 ```
 
+
+## Miras örnek
+
+Kişi
+	Müşteri
+	Çalışan
+
+### polymorphism and duck typing
+

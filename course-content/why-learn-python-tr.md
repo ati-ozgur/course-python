@@ -26,7 +26,8 @@ trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m
 </script>
 
 
-## Neden python öğrenelim Özet
+## Neden python öğrenelim özet
 
-Genel bir programlama dili olarak python, web, UI, veri işleme gibi bir çok kütüphane sunmasına rağmen son 10 yılda bilimsel programlama dili olarak çok öne çıkmıştır. Yapay zeka, veri bilimi gibi konuları öneminin artması ile populerliği çok artmıştır.
+Genel bir programlama dili olarak python, web, kullanıcı arayüzleri (UI), veri işleme gibi bir çok kütüphane sunmasına rağmen son 10 yılda bilimsel programlama dili olarak çok öne çıkmıştır. 
+Yapay zeka, veri bilimi gibi konuları öneminin artması ile populerliği çok artmıştır.
 

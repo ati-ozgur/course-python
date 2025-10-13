@@ -80,6 +80,7 @@ book:
         - course-content/object-oriented-programming-tr.qmd
         - course-content/object-oriented-programming-composition-tr.md
         - course-content/object-oriented-programming-inheritance-tr.md
+        - course-content/object-oriented-programming-advanced-tr.qmd
 
 
     - part: "Son"

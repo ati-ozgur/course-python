@@ -1,28 +1,22 @@
 # Python nesne yönelimli programlama ileri
 
+## sınıf metodları
 
-## örneklem değişkenleri ve sınıf değişkenleri
 
+```{.python include="course-content/Ornekler/example_class_method1.py"}
+```
 
-## Miras örnek
-
-Kişi
-	Müşteri
-	Çalışan
-
-### polymorphism and duck typing
 
 
 
-## 2 nesne arası ilişki örneği
-Customer-Order
-Müşteri-Sipariş
+## örneklem değişkenleri ve sınıf değişkenleri
 
 
 
 ## dunder metodları
 
 
+## 
 
 
 ## Vidyo Öğreticiler
