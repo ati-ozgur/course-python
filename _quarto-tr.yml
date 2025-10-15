@@ -51,6 +51,7 @@ book:
         - course-content/indexing-string-tr.md
         - course-content/functions-tr.md
         - course-content/function-arguments-tr.md
+        - course-content/variable-scope-tr.md        
         - course-content/recursion-tr.md
         - course-content/dictionary-tr.md
         - course-content/file-input-output-tr.md
@@ -68,7 +69,7 @@ book:
         - course-content/PIP-tr.md
         - course-content/type-vs-isinstance-tr.md
         - course-content/software-bugs-tr.md
-        - course-content/variable-scope-tr.md
+        - course-content/variable-scope-advanced-tr.md
         - course-content/tuples-tr.md
         - course-content/pointers-tr.md
         - course-content/numbers-tr.md
