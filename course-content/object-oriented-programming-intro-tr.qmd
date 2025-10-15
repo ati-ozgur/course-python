@@ -58,7 +58,6 @@ constructor method
 ```{.python include="course-content/Ornekler/Person1.py"}
 ```
 
-## örneklem değişkenleri ve sınıf değişkenleri
 
 
 ## Yeni sınıflar tanımlama:  örneklem metodları
@@ -76,12 +75,21 @@ constructor method
 
 
 
-## str metodunu ezme
+### str metodunu ezme
 
 
 ```{.python include="course-content/Ornekler/Person3.py"}
 ```
 
+### str vs repr
+
+__repr__ ve __str__ arasındaki fark
+__str__ kullanıcı dostu, __repr__ yazılımcı dostu olmalı.
+Eğer kullanıcı ve yazılımcı aynı ise örneğin bir kütüphane iki kod aynı olabilir.
+Ama bir web uygulamasında son kullanıcı için __str__, yazılımcı için __repr__ farklı yazılmalıdır.
+
+```{.python include="course-content/Ornekler/Person4.py"}
+```
 
 ## Referanslarımızda bu konu
 

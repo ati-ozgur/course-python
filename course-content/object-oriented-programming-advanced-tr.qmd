@@ -6,8 +6,11 @@
 ```{.python include="course-content/Ornekler/example_class_method1.py"}
 ```
 
+## static methods
 
 
+
+## static methods vs class methods
 
 ## örneklem özellikleri ve sınıf özellikleri
 
@@ -62,7 +65,8 @@ java, c# this kullanılır keyword
 
 this
 
-## static methods vs class methods
+## örneklem değişkenleri ve sınıf değişkenleri
+
 
 
 
