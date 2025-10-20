@@ -73,6 +73,14 @@ this
 ## __dict__
 
 
+## abstract class and methods
+
+from abc import ABC, abstractmethod
+inherit ABC
+
+decorate methods with
+@abstractmethod
+
 ## Vidyo Öğreticiler
 
 TODO
